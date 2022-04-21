@@ -1,0 +1,2377 @@
+﻿Country,Place of birth,Gender,Rate,Year,Unit,PowerCode,Value
+Canada,Foreign-born,Men,Employment rate,2008,Percentage,Units,77.9
+Canada,Foreign-born,Men,Employment rate,2009,Percentage,Units,73.9
+Canada,Foreign-born,Men,Employment rate,2010,Percentage,Units,74.5
+Canada,Foreign-born,Men,Employment rate,2011,Percentage,Units,75.2
+Canada,Foreign-born,Men,Employment rate,2012,Percentage,Units,76.1
+Canada,Foreign-born,Men,Employment rate,2013,Percentage,Units,76.5
+Canada,Foreign-born,Men,Employment rate,2014,Percentage,Units,76.3
+Canada,Foreign-born,Men,Employment rate,2015,Percentage,Units,78.2
+Canada,Foreign-born,Men,Employment rate,2016,Percentage,Units,78.6
+Canada,Foreign-born,Men,Employment rate,2017,Percentage,Units,79.1
+Canada,Foreign-born,Men,Employment rate,2018,Percentage,Units,78.4
+Canada,Foreign-born,Men,Employment rate,2019,Percentage,Units,79.3
+Canada,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,6.8
+Canada,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,10.6
+Canada,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,9.9
+Canada,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,8.3
+Canada,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,8.2
+Canada,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,8
+Canada,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,7.5
+Canada,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,6.9
+Canada,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,7.4
+Canada,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,6.3
+Canada,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,6
+Canada,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,5.9
+Canada,Foreign-born,Men,Participation rate,2008,Percentage,Units,83.6
+Canada,Foreign-born,Men,Participation rate,2009,Percentage,Units,82.7
+Canada,Foreign-born,Men,Participation rate,2010,Percentage,Units,82.6
+Canada,Foreign-born,Men,Participation rate,2011,Percentage,Units,82.1
+Canada,Foreign-born,Men,Participation rate,2012,Percentage,Units,82.9
+Canada,Foreign-born,Men,Participation rate,2013,Percentage,Units,83.1
+Canada,Foreign-born,Men,Participation rate,2014,Percentage,Units,82.5
+Canada,Foreign-born,Men,Participation rate,2015,Percentage,Units,84
+Canada,Foreign-born,Men,Participation rate,2016,Percentage,Units,84.9
+Canada,Foreign-born,Men,Participation rate,2017,Percentage,Units,84.4
+Canada,Foreign-born,Men,Participation rate,2018,Percentage,Units,83.4
+Canada,Foreign-born,Men,Participation rate,2019,Percentage,Units,84.3
+Canada,Foreign-born,Women,Employment rate,2008,Percentage,Units,64.1
+Canada,Foreign-born,Women,Employment rate,2009,Percentage,Units,63.4
+Canada,Foreign-born,Women,Employment rate,2010,Percentage,Units,63.4
+Canada,Foreign-born,Women,Employment rate,2011,Percentage,Units,63.2
+Canada,Foreign-born,Women,Employment rate,2012,Percentage,Units,64.5
+Canada,Foreign-born,Women,Employment rate,2013,Percentage,Units,65.1
+Canada,Foreign-born,Women,Employment rate,2014,Percentage,Units,64.4
+Canada,Foreign-born,Women,Employment rate,2015,Percentage,Units,64.2
+Canada,Foreign-born,Women,Employment rate,2016,Percentage,Units,65.3
+Canada,Foreign-born,Women,Employment rate,2017,Percentage,Units,66.9
+Canada,Foreign-born,Women,Employment rate,2018,Percentage,Units,66.6
+Canada,Foreign-born,Women,Employment rate,2019,Percentage,Units,67.5
+Canada,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,7.3
+Canada,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,9.6
+Canada,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,9.7
+Canada,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,9.3
+Canada,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,8.7
+Canada,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,8.4
+Canada,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,8.4
+Canada,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,8.1
+Canada,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,7.9
+Canada,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,7.3
+Canada,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,6.7
+Canada,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,6.7
+Canada,Foreign-born,Women,Participation rate,2008,Percentage,Units,69.1
+Canada,Foreign-born,Women,Participation rate,2009,Percentage,Units,70.2
+Canada,Foreign-born,Women,Participation rate,2010,Percentage,Units,70.2
+Canada,Foreign-born,Women,Participation rate,2011,Percentage,Units,69.7
+Canada,Foreign-born,Women,Participation rate,2012,Percentage,Units,70.6
+Canada,Foreign-born,Women,Participation rate,2013,Percentage,Units,71.1
+Canada,Foreign-born,Women,Participation rate,2014,Percentage,Units,70.4
+Canada,Foreign-born,Women,Participation rate,2015,Percentage,Units,69.9
+Canada,Foreign-born,Women,Participation rate,2016,Percentage,Units,70.8
+Canada,Foreign-born,Women,Participation rate,2017,Percentage,Units,72.2
+Canada,Foreign-born,Women,Participation rate,2018,Percentage,Units,71.4
+Canada,Foreign-born,Women,Participation rate,2019,Percentage,Units,72.3
+Canada,Foreign-born,Total,Employment rate,2008,Percentage,Units,70.8
+Canada,Foreign-born,Total,Employment rate,2009,Percentage,Units,68.5
+Canada,Foreign-born,Total,Employment rate,2010,Percentage,Units,68.8
+Canada,Foreign-born,Total,Employment rate,2011,Percentage,Units,69
+Canada,Foreign-born,Total,Employment rate,2012,Percentage,Units,70.1
+Canada,Foreign-born,Total,Employment rate,2013,Percentage,Units,70.6
+Canada,Foreign-born,Total,Employment rate,2014,Percentage,Units,70.1
+Canada,Foreign-born,Total,Employment rate,2015,Percentage,Units,70.9
+Canada,Foreign-born,Total,Employment rate,2016,Percentage,Units,71.7
+Canada,Foreign-born,Total,Employment rate,2017,Percentage,Units,72.8
+Canada,Foreign-born,Total,Employment rate,2018,Percentage,Units,72.3
+Canada,Foreign-born,Total,Employment rate,2019,Percentage,Units,73.2
+Canada,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,7
+Canada,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,10.1
+Canada,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,9.8
+Canada,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,8.8
+Canada,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,8.4
+Canada,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,8.2
+Canada,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,8
+Canada,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,7.5
+Canada,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,7.6
+Canada,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,6.8
+Canada,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,6.4
+Canada,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,6.3
+Canada,Foreign-born,Total,Participation rate,2008,Percentage,Units,76.2
+Canada,Foreign-born,Total,Participation rate,2009,Percentage,Units,76.2
+Canada,Foreign-born,Total,Participation rate,2010,Percentage,Units,76.2
+Canada,Foreign-born,Total,Participation rate,2011,Percentage,Units,75.6
+Canada,Foreign-born,Total,Participation rate,2012,Percentage,Units,76.5
+Canada,Foreign-born,Total,Participation rate,2013,Percentage,Units,76.9
+Canada,Foreign-born,Total,Participation rate,2014,Percentage,Units,76.2
+Canada,Foreign-born,Total,Participation rate,2015,Percentage,Units,76.7
+Canada,Foreign-born,Total,Participation rate,2016,Percentage,Units,77.6
+Canada,Foreign-born,Total,Participation rate,2017,Percentage,Units,78.1
+Canada,Foreign-born,Total,Participation rate,2018,Percentage,Units,77.3
+Canada,Foreign-born,Total,Participation rate,2019,Percentage,Units,78.1
+France,Foreign-born,Men,Employment rate,2000,Percentage,Units,61.8
+France,Foreign-born,Men,Employment rate,2001,Percentage,Units,63.5
+France,Foreign-born,Men,Employment rate,2002,Percentage,Units,62.4
+France,Foreign-born,Men,Employment rate,2003,Percentage,Units,64.8
+France,Foreign-born,Men,Employment rate,2004,Percentage,Units,67.8
+France,Foreign-born,Men,Employment rate,2005,Percentage,Units,67.2
+France,Foreign-born,Men,Employment rate,2006,Percentage,Units,67.1
+France,Foreign-born,Men,Employment rate,2007,Percentage,Units,67.8
+France,Foreign-born,Men,Employment rate,2008,Percentage,Units,68.9
+France,Foreign-born,Men,Employment rate,2009,Percentage,Units,64.9
+France,Foreign-born,Men,Employment rate,2010,Percentage,Units,66
+France,Foreign-born,Men,Employment rate,2011,Percentage,Units,65.5
+France,Foreign-born,Men,Employment rate,2012,Percentage,Units,66.2
+France,Foreign-born,Men,Employment rate,2013,Percentage,Units,66.3
+France,Foreign-born,Men,Employment rate,2014,Percentage,Units,63.8
+France,Foreign-born,Men,Employment rate,2015,Percentage,Units,62.9
+France,Foreign-born,Men,Employment rate,2016,Percentage,Units,63.6
+France,Foreign-born,Men,Employment rate,2017,Percentage,Units,65.5
+France,Foreign-born,Men,Employment rate,2018,Percentage,Units,67.9
+France,Foreign-born,Men,Employment rate,2019,Percentage,Units,68
+France,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,14.5
+France,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,12.5
+France,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,13.6
+France,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,14.8
+France,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,12.5
+France,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,12.4
+France,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,12.7
+France,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,11.9
+France,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,11.5
+France,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,15.2
+France,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,14
+France,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,14.3
+France,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,14.8
+France,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,16
+France,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,16.7
+France,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,17.8
+France,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,16.4
+France,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,14.9
+France,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,13.8
+France,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,12.4
+France,Foreign-born,Men,Participation rate,2000,Percentage,Units,72.2
+France,Foreign-born,Men,Participation rate,2001,Percentage,Units,72.6
+France,Foreign-born,Men,Participation rate,2002,Percentage,Units,72.3
+France,Foreign-born,Men,Participation rate,2003,Percentage,Units,76.1
+France,Foreign-born,Men,Participation rate,2004,Percentage,Units,77.5
+France,Foreign-born,Men,Participation rate,2005,Percentage,Units,76.6
+France,Foreign-born,Men,Participation rate,2006,Percentage,Units,76.9
+France,Foreign-born,Men,Participation rate,2007,Percentage,Units,77
+France,Foreign-born,Men,Participation rate,2008,Percentage,Units,77.8
+France,Foreign-born,Men,Participation rate,2009,Percentage,Units,76.6
+France,Foreign-born,Men,Participation rate,2010,Percentage,Units,76.7
+France,Foreign-born,Men,Participation rate,2011,Percentage,Units,76.5
+France,Foreign-born,Men,Participation rate,2012,Percentage,Units,77.7
+France,Foreign-born,Men,Participation rate,2013,Percentage,Units,78.9
+France,Foreign-born,Men,Participation rate,2014,Percentage,Units,76.7
+France,Foreign-born,Men,Participation rate,2015,Percentage,Units,76.6
+France,Foreign-born,Men,Participation rate,2016,Percentage,Units,76.1
+France,Foreign-born,Men,Participation rate,2017,Percentage,Units,77
+France,Foreign-born,Men,Participation rate,2018,Percentage,Units,78.7
+France,Foreign-born,Men,Participation rate,2019,Percentage,Units,77.6
+France,Foreign-born,Women,Employment rate,2000,Percentage,Units,42.6
+France,Foreign-born,Women,Employment rate,2001,Percentage,Units,43.7
+France,Foreign-born,Women,Employment rate,2002,Percentage,Units,43.8
+France,Foreign-born,Women,Employment rate,2003,Percentage,Units,49.6
+France,Foreign-born,Women,Employment rate,2004,Percentage,Units,49.1
+France,Foreign-born,Women,Employment rate,2005,Percentage,Units,48.2
+France,Foreign-born,Women,Employment rate,2006,Percentage,Units,47.9
+France,Foreign-born,Women,Employment rate,2007,Percentage,Units,50.5
+France,Foreign-born,Women,Employment rate,2008,Percentage,Units,50.8
+France,Foreign-born,Women,Employment rate,2009,Percentage,Units,50.4
+France,Foreign-born,Women,Employment rate,2010,Percentage,Units,50.2
+France,Foreign-born,Women,Employment rate,2011,Percentage,Units,49.8
+France,Foreign-born,Women,Employment rate,2012,Percentage,Units,49.8
+France,Foreign-born,Women,Employment rate,2013,Percentage,Units,48.4
+France,Foreign-born,Women,Employment rate,2014,Percentage,Units,49.9
+France,Foreign-born,Women,Employment rate,2015,Percentage,Units,48.8
+France,Foreign-born,Women,Employment rate,2016,Percentage,Units,48.1
+France,Foreign-born,Women,Employment rate,2017,Percentage,Units,48.8
+France,Foreign-born,Women,Employment rate,2018,Percentage,Units,50.3
+France,Foreign-born,Women,Employment rate,2019,Percentage,Units,50.9
+France,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,19.7
+France,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,16.6
+France,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,15
+France,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,15.3
+France,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,16.7
+France,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,16.8
+France,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,16.2
+France,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,14.5
+France,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,12.7
+France,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,14.9
+France,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,15.1
+France,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,16.6
+France,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,15
+France,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,16.5
+France,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,16.4
+France,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,16.8
+France,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,17
+France,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,16
+France,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,15.6
+France,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,13.9
+France,Foreign-born,Women,Participation rate,2000,Percentage,Units,53.1
+France,Foreign-born,Women,Participation rate,2001,Percentage,Units,52.4
+France,Foreign-born,Women,Participation rate,2002,Percentage,Units,51.5
+France,Foreign-born,Women,Participation rate,2003,Percentage,Units,58.5
+France,Foreign-born,Women,Participation rate,2004,Percentage,Units,58.9
+France,Foreign-born,Women,Participation rate,2005,Percentage,Units,57.9
+France,Foreign-born,Women,Participation rate,2006,Percentage,Units,57.1
+France,Foreign-born,Women,Participation rate,2007,Percentage,Units,59
+France,Foreign-born,Women,Participation rate,2008,Percentage,Units,58.3
+France,Foreign-born,Women,Participation rate,2009,Percentage,Units,59.2
+France,Foreign-born,Women,Participation rate,2010,Percentage,Units,59.2
+France,Foreign-born,Women,Participation rate,2011,Percentage,Units,59.7
+France,Foreign-born,Women,Participation rate,2012,Percentage,Units,58.5
+France,Foreign-born,Women,Participation rate,2013,Percentage,Units,58
+France,Foreign-born,Women,Participation rate,2014,Percentage,Units,59.6
+France,Foreign-born,Women,Participation rate,2015,Percentage,Units,58.7
+France,Foreign-born,Women,Participation rate,2016,Percentage,Units,57.9
+France,Foreign-born,Women,Participation rate,2017,Percentage,Units,58
+France,Foreign-born,Women,Participation rate,2018,Percentage,Units,59.6
+France,Foreign-born,Women,Participation rate,2019,Percentage,Units,59.1
+France,Foreign-born,Total,Employment rate,2000,Percentage,Units,52.2
+France,Foreign-born,Total,Employment rate,2001,Percentage,Units,53.5
+France,Foreign-born,Total,Employment rate,2002,Percentage,Units,53
+France,Foreign-born,Total,Employment rate,2003,Percentage,Units,57.1
+France,Foreign-born,Total,Employment rate,2004,Percentage,Units,58.3
+France,Foreign-born,Total,Employment rate,2005,Percentage,Units,57.4
+France,Foreign-born,Total,Employment rate,2006,Percentage,Units,57.2
+France,Foreign-born,Total,Employment rate,2007,Percentage,Units,58.7
+France,Foreign-born,Total,Employment rate,2008,Percentage,Units,59.5
+France,Foreign-born,Total,Employment rate,2009,Percentage,Units,57.3
+France,Foreign-born,Total,Employment rate,2010,Percentage,Units,57.9
+France,Foreign-born,Total,Employment rate,2011,Percentage,Units,57.3
+France,Foreign-born,Total,Employment rate,2012,Percentage,Units,57.6
+France,Foreign-born,Total,Employment rate,2013,Percentage,Units,56.9
+France,Foreign-born,Total,Employment rate,2014,Percentage,Units,56.4
+France,Foreign-born,Total,Employment rate,2015,Percentage,Units,55.5
+France,Foreign-born,Total,Employment rate,2016,Percentage,Units,55.3
+France,Foreign-born,Total,Employment rate,2017,Percentage,Units,56.6
+France,Foreign-born,Total,Employment rate,2018,Percentage,Units,58.5
+France,Foreign-born,Total,Employment rate,2019,Percentage,Units,58.9
+France,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,16.7
+France,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,14.2
+France,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,14.2
+France,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,15
+France,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,14.4
+France,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,14.4
+France,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,14.2
+France,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,13.1
+France,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,12
+France,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,15.1
+France,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,14.5
+France,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,15.4
+France,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,14.9
+France,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,16.2
+France,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,16.6
+France,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,17.3
+France,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,16.7
+France,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,15.4
+France,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,14.6
+France,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,13.1
+France,Foreign-born,Total,Participation rate,2000,Percentage,Units,62.7
+France,Foreign-born,Total,Participation rate,2001,Percentage,Units,62.4
+France,Foreign-born,Total,Participation rate,2002,Percentage,Units,61.7
+France,Foreign-born,Total,Participation rate,2003,Percentage,Units,67.2
+France,Foreign-born,Total,Participation rate,2004,Percentage,Units,68.1
+France,Foreign-born,Total,Participation rate,2005,Percentage,Units,67
+France,Foreign-born,Total,Participation rate,2006,Percentage,Units,66.7
+France,Foreign-born,Total,Participation rate,2007,Percentage,Units,67.6
+France,Foreign-born,Total,Participation rate,2008,Percentage,Units,67.6
+France,Foreign-born,Total,Participation rate,2009,Percentage,Units,67.5
+France,Foreign-born,Total,Participation rate,2010,Percentage,Units,67.7
+France,Foreign-born,Total,Participation rate,2011,Percentage,Units,67.7
+France,Foreign-born,Total,Participation rate,2012,Percentage,Units,67.7
+France,Foreign-born,Total,Participation rate,2013,Percentage,Units,67.9
+France,Foreign-born,Total,Participation rate,2014,Percentage,Units,67.6
+France,Foreign-born,Total,Participation rate,2015,Percentage,Units,67.1
+France,Foreign-born,Total,Participation rate,2016,Percentage,Units,66.4
+France,Foreign-born,Total,Participation rate,2017,Percentage,Units,66.9
+France,Foreign-born,Total,Participation rate,2018,Percentage,Units,68.5
+France,Foreign-born,Total,Participation rate,2019,Percentage,Units,67.8
+Germany,Foreign-born,Men,Employment rate,2000,Percentage,Units,68.4
+Germany,Foreign-born,Men,Employment rate,2001,Percentage,Units,69.5
+Germany,Foreign-born,Men,Employment rate,2002,Percentage,Units,68.3
+Germany,Foreign-born,Men,Employment rate,2003,Percentage,Units,66.5
+Germany,Foreign-born,Men,Employment rate,2004,Percentage,Units,65.4
+Germany,Foreign-born,Men,Employment rate,2005,Percentage,Units,64.7
+Germany,Foreign-born,Men,Employment rate,2006,Percentage,Units,66.4
+Germany,Foreign-born,Men,Employment rate,2007,Percentage,Units,69.1
+Germany,Foreign-born,Men,Employment rate,2008,Percentage,Units,72.7
+Germany,Foreign-born,Men,Employment rate,2009,Percentage,Units,69.8
+Germany,Foreign-born,Men,Employment rate,2010,Percentage,Units,74.4
+Germany,Foreign-born,Men,Employment rate,2011,Percentage,Units,76.1
+Germany,Foreign-born,Men,Employment rate,2012,Percentage,Units,77.1
+Germany,Foreign-born,Men,Employment rate,2013,Percentage,Units,77.2
+Germany,Foreign-born,Men,Employment rate,2014,Percentage,Units,77
+Germany,Foreign-born,Men,Employment rate,2015,Percentage,Units,76.8
+Germany,Foreign-born,Men,Employment rate,2016,Percentage,Units,75.3
+Germany,Foreign-born,Men,Employment rate,2017,Percentage,Units,74.7
+Germany,Foreign-born,Men,Employment rate,2018,Percentage,Units,76.7
+Germany,Foreign-born,Men,Employment rate,2019,Percentage,Units,78.4
+Germany,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,11
+Germany,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,10.2
+Germany,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,11.2
+Germany,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,14.2
+Germany,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,15.7
+Germany,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,17.9
+Germany,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,17
+Germany,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,15.2
+Germany,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,11.8
+Germany,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,14.2
+Germany,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,11.3
+Germany,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,8.7
+Germany,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,8.7
+Germany,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,8.3
+Germany,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,8.3
+Germany,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,8.1
+Germany,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,7.3
+Germany,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,7.1
+Germany,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,6.6
+Germany,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,6.1
+Germany,Foreign-born,Men,Participation rate,2000,Percentage,Units,76.9
+Germany,Foreign-born,Men,Participation rate,2001,Percentage,Units,77.4
+Germany,Foreign-born,Men,Participation rate,2002,Percentage,Units,76.8
+Germany,Foreign-born,Men,Participation rate,2003,Percentage,Units,77.6
+Germany,Foreign-born,Men,Participation rate,2004,Percentage,Units,77.6
+Germany,Foreign-born,Men,Participation rate,2005,Percentage,Units,78.8
+Germany,Foreign-born,Men,Participation rate,2006,Percentage,Units,79.9
+Germany,Foreign-born,Men,Participation rate,2007,Percentage,Units,81.4
+Germany,Foreign-born,Men,Participation rate,2008,Percentage,Units,82.4
+Germany,Foreign-born,Men,Participation rate,2009,Percentage,Units,81.3
+Germany,Foreign-born,Men,Participation rate,2010,Percentage,Units,83.9
+Germany,Foreign-born,Men,Participation rate,2011,Percentage,Units,83.4
+Germany,Foreign-born,Men,Participation rate,2012,Percentage,Units,84.4
+Germany,Foreign-born,Men,Participation rate,2013,Percentage,Units,84.2
+Germany,Foreign-born,Men,Participation rate,2014,Percentage,Units,83.9
+Germany,Foreign-born,Men,Participation rate,2015,Percentage,Units,83.5
+Germany,Foreign-born,Men,Participation rate,2016,Percentage,Units,81.2
+Germany,Foreign-born,Men,Participation rate,2017,Percentage,Units,80.5
+Germany,Foreign-born,Men,Participation rate,2018,Percentage,Units,82.1
+Germany,Foreign-born,Men,Participation rate,2019,Percentage,Units,83.5
+Germany,Foreign-born,Women,Employment rate,2000,Percentage,Units,50.1
+Germany,Foreign-born,Women,Employment rate,2001,Percentage,Units,51.9
+Germany,Foreign-born,Women,Employment rate,2002,Percentage,Units,51.9
+Germany,Foreign-born,Women,Employment rate,2003,Percentage,Units,51.2
+Germany,Foreign-born,Women,Employment rate,2004,Percentage,Units,50
+Germany,Foreign-born,Women,Employment rate,2005,Percentage,Units,48.1
+Germany,Foreign-born,Women,Employment rate,2006,Percentage,Units,50.2
+Germany,Foreign-born,Women,Employment rate,2007,Percentage,Units,51.9
+Germany,Foreign-born,Women,Employment rate,2008,Percentage,Units,53.4
+Germany,Foreign-born,Women,Employment rate,2009,Percentage,Units,54.6
+Germany,Foreign-born,Women,Employment rate,2010,Percentage,Units,55.9
+Germany,Foreign-born,Women,Employment rate,2011,Percentage,Units,58.1
+Germany,Foreign-born,Women,Employment rate,2012,Percentage,Units,59.3
+Germany,Foreign-born,Women,Employment rate,2013,Percentage,Units,59.8
+Germany,Foreign-born,Women,Employment rate,2014,Percentage,Units,60.1
+Germany,Foreign-born,Women,Employment rate,2015,Percentage,Units,60.1
+Germany,Foreign-born,Women,Employment rate,2016,Percentage,Units,60.5
+Germany,Foreign-born,Women,Employment rate,2017,Percentage,Units,61.1
+Germany,Foreign-born,Women,Employment rate,2018,Percentage,Units,61.8
+Germany,Foreign-born,Women,Employment rate,2019,Percentage,Units,62.9
+Germany,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,10
+Germany,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,9.4
+Germany,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,9.5
+Germany,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,11.6
+Germany,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,13
+Germany,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,16.9
+Germany,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,16.5
+Germany,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,13.8
+Germany,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,13
+Germany,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,11.8
+Germany,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,10.1
+Germany,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,9.1
+Germany,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,8.2
+Germany,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,7.9
+Germany,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,7.4
+Germany,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,7.3
+Germany,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,6.2
+Germany,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,5.4
+Germany,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,5.1
+Germany,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,4.9
+Germany,Foreign-born,Women,Participation rate,2000,Percentage,Units,55.7
+Germany,Foreign-born,Women,Participation rate,2001,Percentage,Units,57.2
+Germany,Foreign-born,Women,Participation rate,2002,Percentage,Units,57.4
+Germany,Foreign-born,Women,Participation rate,2003,Percentage,Units,57.9
+Germany,Foreign-born,Women,Participation rate,2004,Percentage,Units,57.5
+Germany,Foreign-born,Women,Participation rate,2005,Percentage,Units,57.9
+Germany,Foreign-born,Women,Participation rate,2006,Percentage,Units,60.2
+Germany,Foreign-born,Women,Participation rate,2007,Percentage,Units,60.2
+Germany,Foreign-born,Women,Participation rate,2008,Percentage,Units,61.3
+Germany,Foreign-born,Women,Participation rate,2009,Percentage,Units,61.8
+Germany,Foreign-born,Women,Participation rate,2010,Percentage,Units,62.2
+Germany,Foreign-born,Women,Participation rate,2011,Percentage,Units,64
+Germany,Foreign-born,Women,Participation rate,2012,Percentage,Units,64.6
+Germany,Foreign-born,Women,Participation rate,2013,Percentage,Units,64.9
+Germany,Foreign-born,Women,Participation rate,2014,Percentage,Units,64.9
+Germany,Foreign-born,Women,Participation rate,2015,Percentage,Units,64.8
+Germany,Foreign-born,Women,Participation rate,2016,Percentage,Units,64.5
+Germany,Foreign-born,Women,Participation rate,2017,Percentage,Units,64.6
+Germany,Foreign-born,Women,Participation rate,2018,Percentage,Units,65.2
+Germany,Foreign-born,Women,Participation rate,2019,Percentage,Units,66.1
+Germany,Foreign-born,Total,Employment rate,2000,Percentage,Units,59.4
+Germany,Foreign-born,Total,Employment rate,2001,Percentage,Units,60.8
+Germany,Foreign-born,Total,Employment rate,2002,Percentage,Units,60.2
+Germany,Foreign-born,Total,Employment rate,2003,Percentage,Units,58.9
+Germany,Foreign-born,Total,Employment rate,2004,Percentage,Units,57.8
+Germany,Foreign-born,Total,Employment rate,2005,Percentage,Units,56.4
+Germany,Foreign-born,Total,Employment rate,2006,Percentage,Units,58.2
+Germany,Foreign-born,Total,Employment rate,2007,Percentage,Units,60.2
+Germany,Foreign-born,Total,Employment rate,2008,Percentage,Units,62.9
+Germany,Foreign-born,Total,Employment rate,2009,Percentage,Units,62.1
+Germany,Foreign-born,Total,Employment rate,2010,Percentage,Units,65
+Germany,Foreign-born,Total,Employment rate,2011,Percentage,Units,66.9
+Germany,Foreign-born,Total,Employment rate,2012,Percentage,Units,68
+Germany,Foreign-born,Total,Employment rate,2013,Percentage,Units,68.3
+Germany,Foreign-born,Total,Employment rate,2014,Percentage,Units,68.4
+Germany,Foreign-born,Total,Employment rate,2015,Percentage,Units,68.4
+Germany,Foreign-born,Total,Employment rate,2016,Percentage,Units,68
+Germany,Foreign-born,Total,Employment rate,2017,Percentage,Units,68.1
+Germany,Foreign-born,Total,Employment rate,2018,Percentage,Units,69.5
+Germany,Foreign-born,Total,Employment rate,2019,Percentage,Units,70.8
+Germany,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,10.6
+Germany,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,9.8
+Germany,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,10.5
+Germany,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,13.1
+Germany,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,14.5
+Germany,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,17.5
+Germany,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,16.7
+Germany,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,14.6
+Germany,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,12.3
+Germany,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,13.1
+Germany,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,10.8
+Germany,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,8.9
+Germany,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,8.5
+Germany,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,8.1
+Germany,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,7.9
+Germany,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,7.7
+Germany,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,6.8
+Germany,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,6.4
+Germany,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,6
+Germany,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,5.6
+Germany,Foreign-born,Total,Participation rate,2000,Percentage,Units,66.5
+Germany,Foreign-born,Total,Participation rate,2001,Percentage,Units,67.4
+Germany,Foreign-born,Total,Participation rate,2002,Percentage,Units,67.2
+Germany,Foreign-born,Total,Participation rate,2003,Percentage,Units,67.8
+Germany,Foreign-born,Total,Participation rate,2004,Percentage,Units,67.6
+Germany,Foreign-born,Total,Participation rate,2005,Percentage,Units,68.4
+Germany,Foreign-born,Total,Participation rate,2006,Percentage,Units,69.9
+Germany,Foreign-born,Total,Participation rate,2007,Percentage,Units,70.5
+Germany,Foreign-born,Total,Participation rate,2008,Percentage,Units,71.7
+Germany,Foreign-born,Total,Participation rate,2009,Percentage,Units,71.5
+Germany,Foreign-born,Total,Participation rate,2010,Percentage,Units,72.9
+Germany,Foreign-born,Total,Participation rate,2011,Percentage,Units,73.4
+Germany,Foreign-born,Total,Participation rate,2012,Percentage,Units,74.3
+Germany,Foreign-born,Total,Participation rate,2013,Percentage,Units,74.3
+Germany,Foreign-born,Total,Participation rate,2014,Percentage,Units,74.2
+Germany,Foreign-born,Total,Participation rate,2015,Percentage,Units,74.1
+Germany,Foreign-born,Total,Participation rate,2016,Percentage,Units,73
+Germany,Foreign-born,Total,Participation rate,2017,Percentage,Units,72.7
+Germany,Foreign-born,Total,Participation rate,2018,Percentage,Units,73.9
+Germany,Foreign-born,Total,Participation rate,2019,Percentage,Units,75
+Italy,Foreign-born,Men,Employment rate,2000,Percentage,Units,82.3
+Italy,Foreign-born,Men,Employment rate,2001,Percentage,Units,80.4
+Italy,Foreign-born,Men,Employment rate,2002,Percentage,Units,84
+Italy,Foreign-born,Men,Employment rate,2003,Percentage,Units,85.8
+Italy,Foreign-born,Men,Employment rate,2004,Percentage,Units,80.7
+Italy,Foreign-born,Men,Employment rate,2005,Percentage,Units,79.9
+Italy,Foreign-born,Men,Employment rate,2006,Percentage,Units,81.9
+Italy,Foreign-born,Men,Employment rate,2007,Percentage,Units,82.4
+Italy,Foreign-born,Men,Employment rate,2008,Percentage,Units,80.9
+Italy,Foreign-born,Men,Employment rate,2009,Percentage,Units,77.3
+Italy,Foreign-born,Men,Employment rate,2010,Percentage,Units,76.1
+Italy,Foreign-born,Men,Employment rate,2011,Percentage,Units,75.6
+Italy,Foreign-born,Men,Employment rate,2012,Percentage,Units,72.3
+Italy,Foreign-born,Men,Employment rate,2013,Percentage,Units,68.6
+Italy,Foreign-born,Men,Employment rate,2014,Percentage,Units,68.7
+Italy,Foreign-born,Men,Employment rate,2015,Percentage,Units,70
+Italy,Foreign-born,Men,Employment rate,2016,Percentage,Units,71.7
+Italy,Foreign-born,Men,Employment rate,2017,Percentage,Units,72.4
+Italy,Foreign-born,Men,Employment rate,2018,Percentage,Units,73.9
+Italy,Foreign-born,Men,Employment rate,2019,Percentage,Units,75.1
+Italy,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,6.9
+Italy,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,7.8
+Italy,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,4.8
+Italy,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,3.8
+Italy,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,6.2
+Italy,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,6.8
+Italy,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,5.7
+Italy,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,5.3
+Italy,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,5.9
+Italy,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,9.4
+Italy,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,10
+Italy,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,9.7
+Italy,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,12.4
+Italy,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,15.9
+Italy,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,15.6
+Italy,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,14.5
+Italy,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,13.2
+Italy,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,12.6
+Italy,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,11.9
+Italy,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,11
+Italy,Foreign-born,Men,Participation rate,2000,Percentage,Units,88.4
+Italy,Foreign-born,Men,Participation rate,2001,Percentage,Units,87.2
+Italy,Foreign-born,Men,Participation rate,2002,Percentage,Units,88.2
+Italy,Foreign-born,Men,Participation rate,2003,Percentage,Units,89.2
+Italy,Foreign-born,Men,Participation rate,2004,Percentage,Units,86
+Italy,Foreign-born,Men,Participation rate,2005,Percentage,Units,85.7
+Italy,Foreign-born,Men,Participation rate,2006,Percentage,Units,86.9
+Italy,Foreign-born,Men,Participation rate,2007,Percentage,Units,87
+Italy,Foreign-born,Men,Participation rate,2008,Percentage,Units,86
+Italy,Foreign-born,Men,Participation rate,2009,Percentage,Units,85.3
+Italy,Foreign-born,Men,Participation rate,2010,Percentage,Units,84.6
+Italy,Foreign-born,Men,Participation rate,2011,Percentage,Units,83.7
+Italy,Foreign-born,Men,Participation rate,2012,Percentage,Units,82.5
+Italy,Foreign-born,Men,Participation rate,2013,Percentage,Units,81.6
+Italy,Foreign-born,Men,Participation rate,2014,Percentage,Units,81.4
+Italy,Foreign-born,Men,Participation rate,2015,Percentage,Units,81.9
+Italy,Foreign-born,Men,Participation rate,2016,Percentage,Units,82.6
+Italy,Foreign-born,Men,Participation rate,2017,Percentage,Units,82.8
+Italy,Foreign-born,Men,Participation rate,2018,Percentage,Units,83.8
+Italy,Foreign-born,Men,Participation rate,2019,Percentage,Units,84.4
+Italy,Foreign-born,Women,Employment rate,2000,Percentage,Units,40.5
+Italy,Foreign-born,Women,Employment rate,2001,Percentage,Units,39.5
+Italy,Foreign-born,Women,Employment rate,2002,Percentage,Units,46.9
+Italy,Foreign-born,Women,Employment rate,2003,Percentage,Units,48.6
+Italy,Foreign-born,Women,Employment rate,2004,Percentage,Units,49.1
+Italy,Foreign-born,Women,Employment rate,2005,Percentage,Units,47.6
+Italy,Foreign-born,Women,Employment rate,2006,Percentage,Units,49.9
+Italy,Foreign-born,Women,Employment rate,2007,Percentage,Units,51
+Italy,Foreign-born,Women,Employment rate,2008,Percentage,Units,51.1
+Italy,Foreign-born,Women,Employment rate,2009,Percentage,Units,50.2
+Italy,Foreign-born,Women,Employment rate,2010,Percentage,Units,49.5
+Italy,Foreign-born,Women,Employment rate,2011,Percentage,Units,49.4
+Italy,Foreign-born,Women,Employment rate,2012,Percentage,Units,50
+Italy,Foreign-born,Women,Employment rate,2013,Percentage,Units,49.4
+Italy,Foreign-born,Women,Employment rate,2014,Percentage,Units,49.7
+Italy,Foreign-born,Women,Employment rate,2015,Percentage,Units,49
+Italy,Foreign-born,Women,Employment rate,2016,Percentage,Units,48.8
+Italy,Foreign-born,Women,Employment rate,2017,Percentage,Units,49.5
+Italy,Foreign-born,Women,Employment rate,2018,Percentage,Units,50.2
+Italy,Foreign-born,Women,Employment rate,2019,Percentage,Units,49.9
+Italy,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,21.1
+Italy,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,21.4
+Italy,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,15.1
+Italy,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,10.6
+Italy,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,13.2
+Italy,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,14.5
+Italy,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,12.4
+Italy,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,11.4
+Italy,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,11.8
+Italy,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,13
+Italy,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,13.3
+Italy,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,14.1
+Italy,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,15.5
+Italy,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,17.5
+Italy,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,17.4
+Italy,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,17
+Italy,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,16.9
+Italy,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,16.1
+Italy,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,15.8
+Italy,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,15.6
+Italy,Foreign-born,Women,Participation rate,2000,Percentage,Units,51.3
+Italy,Foreign-born,Women,Participation rate,2001,Percentage,Units,50.3
+Italy,Foreign-born,Women,Participation rate,2002,Percentage,Units,55.2
+Italy,Foreign-born,Women,Participation rate,2003,Percentage,Units,54.3
+Italy,Foreign-born,Women,Participation rate,2004,Percentage,Units,56.5
+Italy,Foreign-born,Women,Participation rate,2005,Percentage,Units,55.6
+Italy,Foreign-born,Women,Participation rate,2006,Percentage,Units,57
+Italy,Foreign-born,Women,Participation rate,2007,Percentage,Units,57.6
+Italy,Foreign-born,Women,Participation rate,2008,Percentage,Units,58
+Italy,Foreign-born,Women,Participation rate,2009,Percentage,Units,57.7
+Italy,Foreign-born,Women,Participation rate,2010,Percentage,Units,57.1
+Italy,Foreign-born,Women,Participation rate,2011,Percentage,Units,57.6
+Italy,Foreign-born,Women,Participation rate,2012,Percentage,Units,59.1
+Italy,Foreign-born,Women,Participation rate,2013,Percentage,Units,59.9
+Italy,Foreign-born,Women,Participation rate,2014,Percentage,Units,60.1
+Italy,Foreign-born,Women,Participation rate,2015,Percentage,Units,59
+Italy,Foreign-born,Women,Participation rate,2016,Percentage,Units,58.7
+Italy,Foreign-born,Women,Participation rate,2017,Percentage,Units,59
+Italy,Foreign-born,Women,Participation rate,2018,Percentage,Units,59.6
+Italy,Foreign-born,Women,Participation rate,2019,Percentage,Units,59.2
+Italy,Foreign-born,Total,Employment rate,2000,Percentage,Units,60.9
+Italy,Foreign-born,Total,Employment rate,2001,Percentage,Units,59.2
+Italy,Foreign-born,Total,Employment rate,2002,Percentage,Units,65.3
+Italy,Foreign-born,Total,Employment rate,2003,Percentage,Units,67.2
+Italy,Foreign-born,Total,Employment rate,2004,Percentage,Units,63.4
+Italy,Foreign-born,Total,Employment rate,2005,Percentage,Units,63
+Italy,Foreign-born,Total,Employment rate,2006,Percentage,Units,65.1
+Italy,Foreign-born,Total,Employment rate,2007,Percentage,Units,65.9
+Italy,Foreign-born,Total,Employment rate,2008,Percentage,Units,65.1
+Italy,Foreign-born,Total,Employment rate,2009,Percentage,Units,62.8
+Italy,Foreign-born,Total,Employment rate,2010,Percentage,Units,61.9
+Italy,Foreign-born,Total,Employment rate,2011,Percentage,Units,61.5
+Italy,Foreign-born,Total,Employment rate,2012,Percentage,Units,60
+Italy,Foreign-born,Total,Employment rate,2013,Percentage,Units,58.1
+Italy,Foreign-born,Total,Employment rate,2014,Percentage,Units,58.4
+Italy,Foreign-born,Total,Employment rate,2015,Percentage,Units,58.6
+Italy,Foreign-born,Total,Employment rate,2016,Percentage,Units,59.2
+Italy,Foreign-born,Total,Employment rate,2017,Percentage,Units,60
+Italy,Foreign-born,Total,Employment rate,2018,Percentage,Units,60.9
+Italy,Foreign-born,Total,Employment rate,2019,Percentage,Units,61.4
+Italy,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,12.2
+Italy,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,13
+Italy,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,8.8
+Italy,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,6.4
+Italy,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,9.2
+Italy,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,10
+Italy,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,8.5
+Italy,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,7.9
+Italy,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,8.5
+Italy,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,11
+Italy,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,11.5
+Italy,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,11.7
+Italy,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,13.8
+Italy,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,16.7
+Italy,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,16.4
+Italy,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,15.7
+Italy,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,14.9
+Italy,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,14.2
+Italy,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,13.7
+Italy,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,13.1
+Italy,Foreign-born,Total,Participation rate,2000,Percentage,Units,69.4
+Italy,Foreign-born,Total,Participation rate,2001,Percentage,Units,68.1
+Italy,Foreign-born,Total,Participation rate,2002,Percentage,Units,71.6
+Italy,Foreign-born,Total,Participation rate,2003,Percentage,Units,71.8
+Italy,Foreign-born,Total,Participation rate,2004,Percentage,Units,69.9
+Italy,Foreign-born,Total,Participation rate,2005,Percentage,Units,70
+Italy,Foreign-born,Total,Participation rate,2006,Percentage,Units,71.2
+Italy,Foreign-born,Total,Participation rate,2007,Percentage,Units,71.6
+Italy,Foreign-born,Total,Participation rate,2008,Percentage,Units,71.1
+Italy,Foreign-born,Total,Participation rate,2009,Percentage,Units,70.6
+Italy,Foreign-born,Total,Participation rate,2010,Percentage,Units,69.9
+Italy,Foreign-born,Total,Participation rate,2011,Percentage,Units,69.6
+Italy,Foreign-born,Total,Participation rate,2012,Percentage,Units,69.7
+Italy,Foreign-born,Total,Participation rate,2013,Percentage,Units,69.7
+Italy,Foreign-born,Total,Participation rate,2014,Percentage,Units,69.8
+Italy,Foreign-born,Total,Participation rate,2015,Percentage,Units,69.5
+Italy,Foreign-born,Total,Participation rate,2016,Percentage,Units,69.6
+Italy,Foreign-born,Total,Participation rate,2017,Percentage,Units,69.9
+Italy,Foreign-born,Total,Participation rate,2018,Percentage,Units,70.6
+Italy,Foreign-born,Total,Participation rate,2019,Percentage,Units,70.7
+Spain,Foreign-born,Men,Employment rate,2000,Percentage,Units,75.4
+Spain,Foreign-born,Men,Employment rate,2001,Percentage,Units,78.4
+Spain,Foreign-born,Men,Employment rate,2002,Percentage,Units,78.1
+Spain,Foreign-born,Men,Employment rate,2003,Percentage,Units,78.3
+Spain,Foreign-born,Men,Employment rate,2004,Percentage,Units,78.8
+Spain,Foreign-born,Men,Employment rate,2005,Percentage,Units,79.6
+Spain,Foreign-born,Men,Employment rate,2006,Percentage,Units,81.9
+Spain,Foreign-born,Men,Employment rate,2007,Percentage,Units,80.8
+Spain,Foreign-born,Men,Employment rate,2008,Percentage,Units,73.3
+Spain,Foreign-born,Men,Employment rate,2009,Percentage,Units,61
+Spain,Foreign-born,Men,Employment rate,2010,Percentage,Units,57.9
+Spain,Foreign-born,Men,Employment rate,2011,Percentage,Units,59.8
+Spain,Foreign-born,Men,Employment rate,2012,Percentage,Units,54.5
+Spain,Foreign-born,Men,Employment rate,2013,Percentage,Units,53.2
+Spain,Foreign-born,Men,Employment rate,2014,Percentage,Units,56
+Spain,Foreign-born,Men,Employment rate,2015,Percentage,Units,60
+Spain,Foreign-born,Men,Employment rate,2016,Percentage,Units,63.6
+Spain,Foreign-born,Men,Employment rate,2017,Percentage,Units,65.8
+Spain,Foreign-born,Men,Employment rate,2018,Percentage,Units,68.5
+Spain,Foreign-born,Men,Employment rate,2019,Percentage,Units,70.5
+Spain,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,11.8
+Spain,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,10.3
+Spain,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,10.5
+Spain,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,11.4
+Spain,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,11.7
+Spain,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,9.1
+Spain,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,7.7
+Spain,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,8.3
+Spain,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,16
+Spain,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,29.5
+Spain,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,32.9
+Spain,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,30.9
+Spain,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,36.5
+Spain,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,37.4
+Spain,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,34
+Spain,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,29.5
+Spain,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,24.7
+Spain,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,22.2
+Spain,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,19.1
+Spain,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,16.7
+Spain,Foreign-born,Men,Participation rate,2000,Percentage,Units,85.4
+Spain,Foreign-born,Men,Participation rate,2001,Percentage,Units,87.4
+Spain,Foreign-born,Men,Participation rate,2002,Percentage,Units,87.2
+Spain,Foreign-born,Men,Participation rate,2003,Percentage,Units,88.3
+Spain,Foreign-born,Men,Participation rate,2004,Percentage,Units,89.3
+Spain,Foreign-born,Men,Participation rate,2005,Percentage,Units,87.5
+Spain,Foreign-born,Men,Participation rate,2006,Percentage,Units,88.8
+Spain,Foreign-born,Men,Participation rate,2007,Percentage,Units,88.2
+Spain,Foreign-born,Men,Participation rate,2008,Percentage,Units,87.2
+Spain,Foreign-born,Men,Participation rate,2009,Percentage,Units,86.5
+Spain,Foreign-born,Men,Participation rate,2010,Percentage,Units,86.2
+Spain,Foreign-born,Men,Participation rate,2011,Percentage,Units,86.5
+Spain,Foreign-born,Men,Participation rate,2012,Percentage,Units,85.7
+Spain,Foreign-born,Men,Participation rate,2013,Percentage,Units,85
+Spain,Foreign-born,Men,Participation rate,2014,Percentage,Units,84.8
+Spain,Foreign-born,Men,Participation rate,2015,Percentage,Units,85.2
+Spain,Foreign-born,Men,Participation rate,2016,Percentage,Units,84.5
+Spain,Foreign-born,Men,Participation rate,2017,Percentage,Units,84.7
+Spain,Foreign-born,Men,Participation rate,2018,Percentage,Units,84.6
+Spain,Foreign-born,Men,Participation rate,2019,Percentage,Units,84.6
+Spain,Foreign-born,Women,Employment rate,2000,Percentage,Units,45.7
+Spain,Foreign-born,Women,Employment rate,2001,Percentage,Units,50
+Spain,Foreign-born,Women,Employment rate,2002,Percentage,Units,53.5
+Spain,Foreign-born,Women,Employment rate,2003,Percentage,Units,53.1
+Spain,Foreign-born,Women,Employment rate,2004,Percentage,Units,54.6
+Spain,Foreign-born,Women,Employment rate,2005,Percentage,Units,59.2
+Spain,Foreign-born,Women,Employment rate,2006,Percentage,Units,57.5
+Spain,Foreign-born,Women,Employment rate,2007,Percentage,Units,60.6
+Spain,Foreign-born,Women,Employment rate,2008,Percentage,Units,58.5
+Spain,Foreign-born,Women,Employment rate,2009,Percentage,Units,54.1
+Spain,Foreign-born,Women,Employment rate,2010,Percentage,Units,52.7
+Spain,Foreign-born,Women,Employment rate,2011,Percentage,Units,50.8
+Spain,Foreign-born,Women,Employment rate,2012,Percentage,Units,49.9
+Spain,Foreign-born,Women,Employment rate,2013,Percentage,Units,48.4
+Spain,Foreign-born,Women,Employment rate,2014,Percentage,Units,49.1
+Spain,Foreign-born,Women,Employment rate,2015,Percentage,Units,50.9
+Spain,Foreign-born,Women,Employment rate,2016,Percentage,Units,52.2
+Spain,Foreign-born,Women,Employment rate,2017,Percentage,Units,54.3
+Spain,Foreign-born,Women,Employment rate,2018,Percentage,Units,55.6
+Spain,Foreign-born,Women,Employment rate,2019,Percentage,Units,55.9
+Spain,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,20
+Spain,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,15.6
+Spain,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,17.5
+Spain,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,17.7
+Spain,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,16.8
+Spain,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,13.8
+Spain,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,15.7
+Spain,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,12.6
+Spain,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,16.8
+Spain,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,24.9
+Spain,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,27.6
+Spain,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,30
+Spain,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,32.4
+Spain,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,34.1
+Spain,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,32.6
+Spain,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,30.1
+Spain,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,27.6
+Spain,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,24.6
+Spain,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,22.3
+Spain,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,21.3
+Spain,Foreign-born,Women,Participation rate,2000,Percentage,Units,57.1
+Spain,Foreign-born,Women,Participation rate,2001,Percentage,Units,59.2
+Spain,Foreign-born,Women,Participation rate,2002,Percentage,Units,64.8
+Spain,Foreign-born,Women,Participation rate,2003,Percentage,Units,64.5
+Spain,Foreign-born,Women,Participation rate,2004,Percentage,Units,65.6
+Spain,Foreign-born,Women,Participation rate,2005,Percentage,Units,68.7
+Spain,Foreign-born,Women,Participation rate,2006,Percentage,Units,68.3
+Spain,Foreign-born,Women,Participation rate,2007,Percentage,Units,69.3
+Spain,Foreign-born,Women,Participation rate,2008,Percentage,Units,70.4
+Spain,Foreign-born,Women,Participation rate,2009,Percentage,Units,72
+Spain,Foreign-born,Women,Participation rate,2010,Percentage,Units,72.8
+Spain,Foreign-born,Women,Participation rate,2011,Percentage,Units,72.5
+Spain,Foreign-born,Women,Participation rate,2012,Percentage,Units,73.9
+Spain,Foreign-born,Women,Participation rate,2013,Percentage,Units,73.5
+Spain,Foreign-born,Women,Participation rate,2014,Percentage,Units,72.7
+Spain,Foreign-born,Women,Participation rate,2015,Percentage,Units,72.9
+Spain,Foreign-born,Women,Participation rate,2016,Percentage,Units,72.1
+Spain,Foreign-born,Women,Participation rate,2017,Percentage,Units,72
+Spain,Foreign-born,Women,Participation rate,2018,Percentage,Units,71.6
+Spain,Foreign-born,Women,Participation rate,2019,Percentage,Units,71
+Spain,Foreign-born,Total,Employment rate,2000,Percentage,Units,60.1
+Spain,Foreign-born,Total,Employment rate,2001,Percentage,Units,64.1
+Spain,Foreign-born,Total,Employment rate,2002,Percentage,Units,65.3
+Spain,Foreign-born,Total,Employment rate,2003,Percentage,Units,65.5
+Spain,Foreign-born,Total,Employment rate,2004,Percentage,Units,66.6
+Spain,Foreign-born,Total,Employment rate,2005,Percentage,Units,69.3
+Spain,Foreign-born,Total,Employment rate,2006,Percentage,Units,69.7
+Spain,Foreign-born,Total,Employment rate,2007,Percentage,Units,70.3
+Spain,Foreign-born,Total,Employment rate,2008,Percentage,Units,65.8
+Spain,Foreign-born,Total,Employment rate,2009,Percentage,Units,57.4
+Spain,Foreign-born,Total,Employment rate,2010,Percentage,Units,55.3
+Spain,Foreign-born,Total,Employment rate,2011,Percentage,Units,55.1
+Spain,Foreign-born,Total,Employment rate,2012,Percentage,Units,52.1
+Spain,Foreign-born,Total,Employment rate,2013,Percentage,Units,50.7
+Spain,Foreign-born,Total,Employment rate,2014,Percentage,Units,52.3
+Spain,Foreign-born,Total,Employment rate,2015,Percentage,Units,55.2
+Spain,Foreign-born,Total,Employment rate,2016,Percentage,Units,57.6
+Spain,Foreign-born,Total,Employment rate,2017,Percentage,Units,59.6
+Spain,Foreign-born,Total,Employment rate,2018,Percentage,Units,61.6
+Spain,Foreign-born,Total,Employment rate,2019,Percentage,Units,62.7
+Spain,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,15.2
+Spain,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,12.5
+Spain,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,13.6
+Spain,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,14.1
+Spain,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,13.9
+Spain,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,11.2
+Spain,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,11.2
+Spain,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,10.3
+Spain,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,16.4
+Spain,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,27.4
+Spain,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,30.5
+Spain,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,30.5
+Spain,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,34.5
+Spain,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,35.8
+Spain,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,33.3
+Spain,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,29.8
+Spain,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,26.1
+Spain,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,23.4
+Spain,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,20.7
+Spain,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,18.9
+Spain,Foreign-born,Total,Participation rate,2000,Percentage,Units,70.9
+Spain,Foreign-born,Total,Participation rate,2001,Percentage,Units,73.2
+Spain,Foreign-born,Total,Participation rate,2002,Percentage,Units,75.5
+Spain,Foreign-born,Total,Participation rate,2003,Percentage,Units,76.2
+Spain,Foreign-born,Total,Participation rate,2004,Percentage,Units,77.4
+Spain,Foreign-born,Total,Participation rate,2005,Percentage,Units,78
+Spain,Foreign-born,Total,Participation rate,2006,Percentage,Units,78.5
+Spain,Foreign-born,Total,Participation rate,2007,Percentage,Units,78.3
+Spain,Foreign-born,Total,Participation rate,2008,Percentage,Units,78.6
+Spain,Foreign-born,Total,Participation rate,2009,Percentage,Units,79.1
+Spain,Foreign-born,Total,Participation rate,2010,Percentage,Units,79.5
+Spain,Foreign-born,Total,Participation rate,2011,Percentage,Units,79.2
+Spain,Foreign-born,Total,Participation rate,2012,Percentage,Units,79.6
+Spain,Foreign-born,Total,Participation rate,2013,Percentage,Units,78.9
+Spain,Foreign-born,Total,Participation rate,2014,Percentage,Units,78.5
+Spain,Foreign-born,Total,Participation rate,2015,Percentage,Units,78.7
+Spain,Foreign-born,Total,Participation rate,2016,Percentage,Units,77.9
+Spain,Foreign-born,Total,Participation rate,2017,Percentage,Units,77.9
+Spain,Foreign-born,Total,Participation rate,2018,Percentage,Units,77.6
+Spain,Foreign-born,Total,Participation rate,2019,Percentage,Units,77.4
+United Kingdom,Foreign-born,Men,Employment rate,2000,Percentage,Units,70.8
+United Kingdom,Foreign-born,Men,Employment rate,2001,Percentage,Units,72.3
+United Kingdom,Foreign-born,Men,Employment rate,2002,Percentage,Units,72
+United Kingdom,Foreign-born,Men,Employment rate,2003,Percentage,Units,71.8
+United Kingdom,Foreign-born,Men,Employment rate,2004,Percentage,Units,72.7
+United Kingdom,Foreign-born,Men,Employment rate,2005,Percentage,Units,72.3
+United Kingdom,Foreign-born,Men,Employment rate,2006,Percentage,Units,76.2
+United Kingdom,Foreign-born,Men,Employment rate,2007,Percentage,Units,76.8
+United Kingdom,Foreign-born,Men,Employment rate,2008,Percentage,Units,77.8
+United Kingdom,Foreign-born,Men,Employment rate,2009,Percentage,Units,75.8
+United Kingdom,Foreign-born,Men,Employment rate,2010,Percentage,Units,76.2
+United Kingdom,Foreign-born,Men,Employment rate,2011,Percentage,Units,75.2
+United Kingdom,Foreign-born,Men,Employment rate,2012,Percentage,Units,76.7
+United Kingdom,Foreign-born,Men,Employment rate,2013,Percentage,Units,76.7
+United Kingdom,Foreign-born,Men,Employment rate,2014,Percentage,Units,79
+United Kingdom,Foreign-born,Men,Employment rate,2015,Percentage,Units,79.1
+United Kingdom,Foreign-born,Men,Employment rate,2016,Percentage,Units,81.2
+United Kingdom,Foreign-born,Men,Employment rate,2017,Percentage,Units,82.2
+United Kingdom,Foreign-born,Men,Employment rate,2018,Percentage,Units,82.6
+United Kingdom,Foreign-born,Men,Employment rate,2019,Percentage,Units,83.1
+United Kingdom,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,9.7
+United Kingdom,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,7.6
+United Kingdom,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,8.3
+United Kingdom,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,8.3
+United Kingdom,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,7.4
+United Kingdom,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,7.5
+United Kingdom,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,7.4
+United Kingdom,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,6.9
+United Kingdom,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,6.8
+United Kingdom,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,8.4
+United Kingdom,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,7.7
+United Kingdom,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,9.3
+United Kingdom,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,8.3
+United Kingdom,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,8.1
+United Kingdom,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,6.1
+United Kingdom,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,5.7
+United Kingdom,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,4.7
+United Kingdom,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,3.9
+United Kingdom,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,3.9
+United Kingdom,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,3.7
+United Kingdom,Foreign-born,Men,Participation rate,2000,Percentage,Units,78.4
+United Kingdom,Foreign-born,Men,Participation rate,2001,Percentage,Units,78.3
+United Kingdom,Foreign-born,Men,Participation rate,2002,Percentage,Units,78.6
+United Kingdom,Foreign-born,Men,Participation rate,2003,Percentage,Units,78.3
+United Kingdom,Foreign-born,Men,Participation rate,2004,Percentage,Units,78.5
+United Kingdom,Foreign-born,Men,Participation rate,2005,Percentage,Units,78.1
+United Kingdom,Foreign-born,Men,Participation rate,2006,Percentage,Units,82.3
+United Kingdom,Foreign-born,Men,Participation rate,2007,Percentage,Units,82.6
+United Kingdom,Foreign-born,Men,Participation rate,2008,Percentage,Units,83.5
+United Kingdom,Foreign-born,Men,Participation rate,2009,Percentage,Units,82.7
+United Kingdom,Foreign-born,Men,Participation rate,2010,Percentage,Units,82.6
+United Kingdom,Foreign-born,Men,Participation rate,2011,Percentage,Units,82.8
+United Kingdom,Foreign-born,Men,Participation rate,2012,Percentage,Units,83.6
+United Kingdom,Foreign-born,Men,Participation rate,2013,Percentage,Units,83.5
+United Kingdom,Foreign-born,Men,Participation rate,2014,Percentage,Units,84.1
+United Kingdom,Foreign-born,Men,Participation rate,2015,Percentage,Units,83.9
+United Kingdom,Foreign-born,Men,Participation rate,2016,Percentage,Units,85.2
+United Kingdom,Foreign-born,Men,Participation rate,2017,Percentage,Units,85.5
+United Kingdom,Foreign-born,Men,Participation rate,2018,Percentage,Units,86
+United Kingdom,Foreign-born,Men,Participation rate,2019,Percentage,Units,86.3
+United Kingdom,Foreign-born,Women,Employment rate,2000,Percentage,Units,52.9
+United Kingdom,Foreign-born,Women,Employment rate,2001,Percentage,Units,53.6
+United Kingdom,Foreign-born,Women,Employment rate,2002,Percentage,Units,54.6
+United Kingdom,Foreign-born,Women,Employment rate,2003,Percentage,Units,54.6
+United Kingdom,Foreign-born,Women,Employment rate,2004,Percentage,Units,54.9
+United Kingdom,Foreign-born,Women,Employment rate,2005,Percentage,Units,55.8
+United Kingdom,Foreign-born,Women,Employment rate,2006,Percentage,Units,56.5
+United Kingdom,Foreign-born,Women,Employment rate,2007,Percentage,Units,56.1
+United Kingdom,Foreign-born,Women,Employment rate,2008,Percentage,Units,58.4
+United Kingdom,Foreign-born,Women,Employment rate,2009,Percentage,Units,57.7
+United Kingdom,Foreign-born,Women,Employment rate,2010,Percentage,Units,58.1
+United Kingdom,Foreign-born,Women,Employment rate,2011,Percentage,Units,58.7
+United Kingdom,Foreign-born,Women,Employment rate,2012,Percentage,Units,57
+United Kingdom,Foreign-born,Women,Employment rate,2013,Percentage,Units,59
+United Kingdom,Foreign-born,Women,Employment rate,2014,Percentage,Units,60.6
+United Kingdom,Foreign-born,Women,Employment rate,2015,Percentage,Units,62.5
+United Kingdom,Foreign-born,Women,Employment rate,2016,Percentage,Units,63.1
+United Kingdom,Foreign-born,Women,Employment rate,2017,Percentage,Units,63.7
+United Kingdom,Foreign-born,Women,Employment rate,2018,Percentage,Units,65.5
+United Kingdom,Foreign-born,Women,Employment rate,2019,Percentage,Units,67.1
+United Kingdom,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,7.9
+United Kingdom,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,6.8
+United Kingdom,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,6.8
+United Kingdom,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,6.3
+United Kingdom,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,7.4
+United Kingdom,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,7.1
+United Kingdom,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,7.9
+United Kingdom,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,8.6
+United Kingdom,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,6.6
+United Kingdom,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,8.5
+United Kingdom,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,8.5
+United Kingdom,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,9.7
+United Kingdom,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,10.6
+United Kingdom,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,9.8
+United Kingdom,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,8.2
+United Kingdom,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,7.3
+United Kingdom,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,6.6
+United Kingdom,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,6.5
+United Kingdom,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,5.6
+United Kingdom,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,4.9
+United Kingdom,Foreign-born,Women,Participation rate,2000,Percentage,Units,57.5
+United Kingdom,Foreign-born,Women,Participation rate,2001,Percentage,Units,57.5
+United Kingdom,Foreign-born,Women,Participation rate,2002,Percentage,Units,58.6
+United Kingdom,Foreign-born,Women,Participation rate,2003,Percentage,Units,58.2
+United Kingdom,Foreign-born,Women,Participation rate,2004,Percentage,Units,59.3
+United Kingdom,Foreign-born,Women,Participation rate,2005,Percentage,Units,60.1
+United Kingdom,Foreign-born,Women,Participation rate,2006,Percentage,Units,61.3
+United Kingdom,Foreign-born,Women,Participation rate,2007,Percentage,Units,61.4
+United Kingdom,Foreign-born,Women,Participation rate,2008,Percentage,Units,62.5
+United Kingdom,Foreign-born,Women,Participation rate,2009,Percentage,Units,63.1
+United Kingdom,Foreign-born,Women,Participation rate,2010,Percentage,Units,63.4
+United Kingdom,Foreign-born,Women,Participation rate,2011,Percentage,Units,65
+United Kingdom,Foreign-born,Women,Participation rate,2012,Percentage,Units,63.8
+United Kingdom,Foreign-born,Women,Participation rate,2013,Percentage,Units,65.4
+United Kingdom,Foreign-born,Women,Participation rate,2014,Percentage,Units,66.1
+United Kingdom,Foreign-born,Women,Participation rate,2015,Percentage,Units,67.4
+United Kingdom,Foreign-born,Women,Participation rate,2016,Percentage,Units,67.6
+United Kingdom,Foreign-born,Women,Participation rate,2017,Percentage,Units,68.1
+United Kingdom,Foreign-born,Women,Participation rate,2018,Percentage,Units,69.4
+United Kingdom,Foreign-born,Women,Participation rate,2019,Percentage,Units,70.5
+United Kingdom,Foreign-born,Total,Employment rate,2000,Percentage,Units,61.4
+United Kingdom,Foreign-born,Total,Employment rate,2001,Percentage,Units,62.6
+United Kingdom,Foreign-born,Total,Employment rate,2002,Percentage,Units,63
+United Kingdom,Foreign-born,Total,Employment rate,2003,Percentage,Units,62.8
+United Kingdom,Foreign-born,Total,Employment rate,2004,Percentage,Units,63.4
+United Kingdom,Foreign-born,Total,Employment rate,2005,Percentage,Units,63.7
+United Kingdom,Foreign-born,Total,Employment rate,2006,Percentage,Units,66.2
+United Kingdom,Foreign-born,Total,Employment rate,2007,Percentage,Units,66.4
+United Kingdom,Foreign-born,Total,Employment rate,2008,Percentage,Units,67.9
+United Kingdom,Foreign-born,Total,Employment rate,2009,Percentage,Units,66.6
+United Kingdom,Foreign-born,Total,Employment rate,2010,Percentage,Units,66.8
+United Kingdom,Foreign-born,Total,Employment rate,2011,Percentage,Units,66.7
+United Kingdom,Foreign-born,Total,Employment rate,2012,Percentage,Units,66.5
+United Kingdom,Foreign-born,Total,Employment rate,2013,Percentage,Units,67.5
+United Kingdom,Foreign-born,Total,Employment rate,2014,Percentage,Units,69.4
+United Kingdom,Foreign-born,Total,Employment rate,2015,Percentage,Units,70.5
+United Kingdom,Foreign-born,Total,Employment rate,2016,Percentage,Units,71.9
+United Kingdom,Foreign-born,Total,Employment rate,2017,Percentage,Units,72.5
+United Kingdom,Foreign-born,Total,Employment rate,2018,Percentage,Units,73.7
+United Kingdom,Foreign-born,Total,Employment rate,2019,Percentage,Units,74.7
+United Kingdom,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,8.9
+United Kingdom,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,7.3
+United Kingdom,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,7.6
+United Kingdom,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,7.4
+United Kingdom,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,7.4
+United Kingdom,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,7.3
+United Kingdom,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,7.6
+United Kingdom,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,7.6
+United Kingdom,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,6.7
+United Kingdom,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,8.4
+United Kingdom,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,8
+United Kingdom,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,9.5
+United Kingdom,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,9.3
+United Kingdom,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,8.9
+United Kingdom,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,7.1
+United Kingdom,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,6.4
+United Kingdom,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,5.5
+United Kingdom,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,5.1
+United Kingdom,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,4.7
+United Kingdom,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,4.3
+United Kingdom,Foreign-born,Total,Participation rate,2000,Percentage,Units,67.3
+United Kingdom,Foreign-born,Total,Participation rate,2001,Percentage,Units,67.4
+United Kingdom,Foreign-born,Total,Participation rate,2002,Percentage,Units,68.2
+United Kingdom,Foreign-born,Total,Participation rate,2003,Percentage,Units,67.8
+United Kingdom,Foreign-born,Total,Participation rate,2004,Percentage,Units,68.4
+United Kingdom,Foreign-born,Total,Participation rate,2005,Percentage,Units,68.8
+United Kingdom,Foreign-born,Total,Participation rate,2006,Percentage,Units,71.6
+United Kingdom,Foreign-born,Total,Participation rate,2007,Percentage,Units,71.9
+United Kingdom,Foreign-born,Total,Participation rate,2008,Percentage,Units,72.8
+United Kingdom,Foreign-born,Total,Participation rate,2009,Percentage,Units,72.7
+United Kingdom,Foreign-born,Total,Participation rate,2010,Percentage,Units,72.7
+United Kingdom,Foreign-born,Total,Participation rate,2011,Percentage,Units,73.7
+United Kingdom,Foreign-born,Total,Participation rate,2012,Percentage,Units,73.3
+United Kingdom,Foreign-born,Total,Participation rate,2013,Percentage,Units,74.1
+United Kingdom,Foreign-born,Total,Participation rate,2014,Percentage,Units,74.7
+United Kingdom,Foreign-born,Total,Participation rate,2015,Percentage,Units,75.4
+United Kingdom,Foreign-born,Total,Participation rate,2016,Percentage,Units,76.1
+United Kingdom,Foreign-born,Total,Participation rate,2017,Percentage,Units,76.4
+United Kingdom,Foreign-born,Total,Participation rate,2018,Percentage,Units,77.3
+United Kingdom,Foreign-born,Total,Participation rate,2019,Percentage,Units,78
+United States,Foreign-born,Men,Employment rate,2000,Percentage,Units,82.4
+United States,Foreign-born,Men,Employment rate,2001,Percentage,Units,81.4
+United States,Foreign-born,Men,Employment rate,2002,Percentage,Units,80.1
+United States,Foreign-born,Men,Employment rate,2003,Percentage,Units,80.2
+United States,Foreign-born,Men,Employment rate,2004,Percentage,Units,81.6
+United States,Foreign-born,Men,Employment rate,2005,Percentage,Units,82.7
+United States,Foreign-born,Men,Employment rate,2006,Percentage,Units,83.5
+United States,Foreign-born,Men,Employment rate,2007,Percentage,Units,83.7
+United States,Foreign-born,Men,Employment rate,2008,Percentage,Units,82
+United States,Foreign-born,Men,Employment rate,2009,Percentage,Units,77.5
+United States,Foreign-born,Men,Employment rate,2010,Percentage,Units,77.4
+United States,Foreign-born,Men,Employment rate,2011,Percentage,Units,78.1
+United States,Foreign-born,Men,Employment rate,2012,Percentage,Units,78.5
+United States,Foreign-born,Men,Employment rate,2013,Percentage,Units,79.6
+United States,Foreign-born,Men,Employment rate,2014,Percentage,Units,80.9
+United States,Foreign-born,Men,Employment rate,2015,Percentage,Units,81.3
+United States,Foreign-born,Men,Employment rate,2016,Percentage,Units,81.8
+United States,Foreign-born,Men,Employment rate,2017,Percentage,Units,82.6
+United States,Foreign-born,Men,Employment rate,2018,Percentage,Units,82.8
+United States,Foreign-born,Men,Employment rate,2019,Percentage,Units,83.4
+United States,Foreign-born,Men,Unemployment rate,2000,Percentage,Units,3.8
+United States,Foreign-born,Men,Unemployment rate,2001,Percentage,Units,4.8
+United States,Foreign-born,Men,Unemployment rate,2002,Percentage,Units,6
+United States,Foreign-born,Men,Unemployment rate,2003,Percentage,Units,6.3
+United States,Foreign-born,Men,Unemployment rate,2004,Percentage,Units,5.1
+United States,Foreign-born,Men,Unemployment rate,2005,Percentage,Units,4.3
+United States,Foreign-born,Men,Unemployment rate,2006,Percentage,Units,3.8
+United States,Foreign-born,Men,Unemployment rate,2007,Percentage,Units,4.1
+United States,Foreign-born,Men,Unemployment rate,2008,Percentage,Units,5.7
+United States,Foreign-born,Men,Unemployment rate,2009,Percentage,Units,10.1
+United States,Foreign-born,Men,Unemployment rate,2010,Percentage,Units,10
+United States,Foreign-born,Men,Unemployment rate,2011,Percentage,Units,8.9
+United States,Foreign-born,Men,Unemployment rate,2012,Percentage,Units,7.5
+United States,Foreign-born,Men,Unemployment rate,2013,Percentage,Units,6.5
+United States,Foreign-born,Men,Unemployment rate,2014,Percentage,Units,5.1
+United States,Foreign-born,Men,Unemployment rate,2015,Percentage,Units,4.4
+United States,Foreign-born,Men,Unemployment rate,2016,Percentage,Units,3.8
+United States,Foreign-born,Men,Unemployment rate,2017,Percentage,Units,3.5
+United States,Foreign-born,Men,Unemployment rate,2018,Percentage,Units,3
+United States,Foreign-born,Men,Unemployment rate,2019,Percentage,Units,2.7
+United States,Foreign-born,Men,Participation rate,2000,Percentage,Units,85.7
+United States,Foreign-born,Men,Participation rate,2001,Percentage,Units,85.6
+United States,Foreign-born,Men,Participation rate,2002,Percentage,Units,85.2
+United States,Foreign-born,Men,Participation rate,2003,Percentage,Units,85.6
+United States,Foreign-born,Men,Participation rate,2004,Percentage,Units,86
+United States,Foreign-born,Men,Participation rate,2005,Percentage,Units,86.4
+United States,Foreign-born,Men,Participation rate,2006,Percentage,Units,86.7
+United States,Foreign-born,Men,Participation rate,2007,Percentage,Units,87.3
+United States,Foreign-born,Men,Participation rate,2008,Percentage,Units,87
+United States,Foreign-born,Men,Participation rate,2009,Percentage,Units,86.2
+United States,Foreign-born,Men,Participation rate,2010,Percentage,Units,86
+United States,Foreign-born,Men,Participation rate,2011,Percentage,Units,85.6
+United States,Foreign-born,Men,Participation rate,2012,Percentage,Units,84.9
+United States,Foreign-born,Men,Participation rate,2013,Percentage,Units,85.1
+United States,Foreign-born,Men,Participation rate,2014,Percentage,Units,85.3
+United States,Foreign-born,Men,Participation rate,2015,Percentage,Units,85.1
+United States,Foreign-born,Men,Participation rate,2016,Percentage,Units,84.9
+United States,Foreign-born,Men,Participation rate,2017,Percentage,Units,85.6
+United States,Foreign-born,Men,Participation rate,2018,Percentage,Units,85.4
+United States,Foreign-born,Men,Participation rate,2019,Percentage,Units,85.7
+United States,Foreign-born,Women,Employment rate,2000,Percentage,Units,58.5
+United States,Foreign-born,Women,Employment rate,2001,Percentage,Units,58
+United States,Foreign-born,Women,Employment rate,2002,Percentage,Units,56.9
+United States,Foreign-born,Women,Employment rate,2003,Percentage,Units,56.5
+United States,Foreign-born,Women,Employment rate,2004,Percentage,Units,57.3
+United States,Foreign-born,Women,Employment rate,2005,Percentage,Units,57.7
+United States,Foreign-born,Women,Employment rate,2006,Percentage,Units,59.2
+United States,Foreign-born,Women,Employment rate,2007,Percentage,Units,59.1
+United States,Foreign-born,Women,Employment rate,2008,Percentage,Units,58.9
+United States,Foreign-born,Women,Employment rate,2009,Percentage,Units,57.4
+United States,Foreign-born,Women,Employment rate,2010,Percentage,Units,57.4
+United States,Foreign-born,Women,Employment rate,2011,Percentage,Units,56.7
+United States,Foreign-born,Women,Employment rate,2012,Percentage,Units,56.9
+United States,Foreign-born,Women,Employment rate,2013,Percentage,Units,57.4
+United States,Foreign-born,Women,Employment rate,2014,Percentage,Units,57.5
+United States,Foreign-born,Women,Employment rate,2015,Percentage,Units,57.4
+United States,Foreign-born,Women,Employment rate,2016,Percentage,Units,58.5
+United States,Foreign-born,Women,Employment rate,2017,Percentage,Units,59.6
+United States,Foreign-born,Women,Employment rate,2018,Percentage,Units,60.7
+United States,Foreign-born,Women,Employment rate,2019,Percentage,Units,61.2
+United States,Foreign-born,Women,Unemployment rate,2000,Percentage,Units,5
+United States,Foreign-born,Women,Unemployment rate,2001,Percentage,Units,6.1
+United States,Foreign-born,Women,Unemployment rate,2002,Percentage,Units,7.1
+United States,Foreign-born,Women,Unemployment rate,2003,Percentage,Units,7.2
+United States,Foreign-born,Women,Unemployment rate,2004,Percentage,Units,6.3
+United States,Foreign-born,Women,Unemployment rate,2005,Percentage,Units,5.6
+United States,Foreign-born,Women,Unemployment rate,2006,Percentage,Units,4.8
+United States,Foreign-born,Women,Unemployment rate,2007,Percentage,Units,4.7
+United States,Foreign-born,Women,Unemployment rate,2008,Percentage,Units,6
+United States,Foreign-born,Women,Unemployment rate,2009,Percentage,Units,9.2
+United States,Foreign-born,Women,Unemployment rate,2010,Percentage,Units,9.5
+United States,Foreign-born,Women,Unemployment rate,2011,Percentage,Units,9.5
+United States,Foreign-born,Women,Unemployment rate,2012,Percentage,Units,9
+United States,Foreign-born,Women,Unemployment rate,2013,Percentage,Units,7.6
+United States,Foreign-born,Women,Unemployment rate,2014,Percentage,Units,6.6
+United States,Foreign-born,Women,Unemployment rate,2015,Percentage,Units,5.7
+United States,Foreign-born,Women,Unemployment rate,2016,Percentage,Units,5.2
+United States,Foreign-born,Women,Unemployment rate,2017,Percentage,Units,4.7
+United States,Foreign-born,Women,Unemployment rate,2018,Percentage,Units,4.2
+United States,Foreign-born,Women,Unemployment rate,2019,Percentage,Units,3.7
+United States,Foreign-born,Women,Participation rate,2000,Percentage,Units,61.5
+United States,Foreign-born,Women,Participation rate,2001,Percentage,Units,61.8
+United States,Foreign-born,Women,Participation rate,2002,Percentage,Units,61.2
+United States,Foreign-born,Women,Participation rate,2003,Percentage,Units,60.9
+United States,Foreign-born,Women,Participation rate,2004,Percentage,Units,61.1
+United States,Foreign-born,Women,Participation rate,2005,Percentage,Units,61.1
+United States,Foreign-born,Women,Participation rate,2006,Percentage,Units,62.1
+United States,Foreign-born,Women,Participation rate,2007,Percentage,Units,62.1
+United States,Foreign-born,Women,Participation rate,2008,Percentage,Units,62.7
+United States,Foreign-born,Women,Participation rate,2009,Percentage,Units,63.3
+United States,Foreign-born,Women,Participation rate,2010,Percentage,Units,63.5
+United States,Foreign-born,Women,Participation rate,2011,Percentage,Units,62.6
+United States,Foreign-born,Women,Participation rate,2012,Percentage,Units,62.5
+United States,Foreign-born,Women,Participation rate,2013,Percentage,Units,62.1
+United States,Foreign-born,Women,Participation rate,2014,Percentage,Units,61.6
+United States,Foreign-born,Women,Participation rate,2015,Percentage,Units,60.8
+United States,Foreign-born,Women,Participation rate,2016,Percentage,Units,61.6
+United States,Foreign-born,Women,Participation rate,2017,Percentage,Units,62.6
+United States,Foreign-born,Women,Participation rate,2018,Percentage,Units,63.3
+United States,Foreign-born,Women,Participation rate,2019,Percentage,Units,63.6
+United States,Foreign-born,Total,Employment rate,2000,Percentage,Units,70.5
+United States,Foreign-born,Total,Employment rate,2001,Percentage,Units,69.8
+United States,Foreign-born,Total,Employment rate,2002,Percentage,Units,68.5
+United States,Foreign-born,Total,Employment rate,2003,Percentage,Units,68.5
+United States,Foreign-born,Total,Employment rate,2004,Percentage,Units,69.7
+United States,Foreign-born,Total,Employment rate,2005,Percentage,Units,70.5
+United States,Foreign-born,Total,Employment rate,2006,Percentage,Units,71.6
+United States,Foreign-born,Total,Employment rate,2007,Percentage,Units,71.8
+United States,Foreign-born,Total,Employment rate,2008,Percentage,Units,70.8
+United States,Foreign-born,Total,Employment rate,2009,Percentage,Units,67.7
+United States,Foreign-born,Total,Employment rate,2010,Percentage,Units,67.6
+United States,Foreign-born,Total,Employment rate,2011,Percentage,Units,67.5
+United States,Foreign-born,Total,Employment rate,2012,Percentage,Units,67.7
+United States,Foreign-born,Total,Employment rate,2013,Percentage,Units,68.4
+United States,Foreign-born,Total,Employment rate,2014,Percentage,Units,69.1
+United States,Foreign-born,Total,Employment rate,2015,Percentage,Units,69.2
+United States,Foreign-born,Total,Employment rate,2016,Percentage,Units,70
+United States,Foreign-born,Total,Employment rate,2017,Percentage,Units,71
+United States,Foreign-born,Total,Employment rate,2018,Percentage,Units,71.6
+United States,Foreign-born,Total,Employment rate,2019,Percentage,Units,72.2
+United States,Foreign-born,Total,Unemployment rate,2000,Percentage,Units,4.3
+United States,Foreign-born,Total,Unemployment rate,2001,Percentage,Units,5.4
+United States,Foreign-born,Total,Unemployment rate,2002,Percentage,Units,6.4
+United States,Foreign-born,Total,Unemployment rate,2003,Percentage,Units,6.6
+United States,Foreign-born,Total,Unemployment rate,2004,Percentage,Units,5.6
+United States,Foreign-born,Total,Unemployment rate,2005,Percentage,Units,4.8
+United States,Foreign-born,Total,Unemployment rate,2006,Percentage,Units,4.2
+United States,Foreign-born,Total,Unemployment rate,2007,Percentage,Units,4.4
+United States,Foreign-born,Total,Unemployment rate,2008,Percentage,Units,5.9
+United States,Foreign-born,Total,Unemployment rate,2009,Percentage,Units,9.7
+United States,Foreign-born,Total,Unemployment rate,2010,Percentage,Units,9.8
+United States,Foreign-born,Total,Unemployment rate,2011,Percentage,Units,9.1
+United States,Foreign-born,Total,Unemployment rate,2012,Percentage,Units,8.1
+United States,Foreign-born,Total,Unemployment rate,2013,Percentage,Units,7
+United States,Foreign-born,Total,Unemployment rate,2014,Percentage,Units,5.8
+United States,Foreign-born,Total,Unemployment rate,2015,Percentage,Units,5
+United States,Foreign-born,Total,Unemployment rate,2016,Percentage,Units,4.3
+United States,Foreign-born,Total,Unemployment rate,2017,Percentage,Units,4
+United States,Foreign-born,Total,Unemployment rate,2018,Percentage,Units,3.5
+United States,Foreign-born,Total,Unemployment rate,2019,Percentage,Units,3.1
+United States,Foreign-born,Total,Participation rate,2000,Percentage,Units,73.6
+United States,Foreign-born,Total,Participation rate,2001,Percentage,Units,73.8
+United States,Foreign-born,Total,Participation rate,2002,Percentage,Units,73.2
+United States,Foreign-born,Total,Participation rate,2003,Percentage,Units,73.4
+United States,Foreign-born,Total,Participation rate,2004,Percentage,Units,73.8
+United States,Foreign-born,Total,Participation rate,2005,Percentage,Units,74
+United States,Foreign-born,Total,Participation rate,2006,Percentage,Units,74.7
+United States,Foreign-born,Total,Participation rate,2007,Percentage,Units,75.1
+United States,Foreign-born,Total,Participation rate,2008,Percentage,Units,75.2
+United States,Foreign-born,Total,Participation rate,2009,Percentage,Units,75
+United States,Foreign-born,Total,Participation rate,2010,Percentage,Units,75
+United States,Foreign-born,Total,Participation rate,2011,Percentage,Units,74.3
+United States,Foreign-born,Total,Participation rate,2012,Percentage,Units,73.7
+United States,Foreign-born,Total,Participation rate,2013,Percentage,Units,73.5
+United States,Foreign-born,Total,Participation rate,2014,Percentage,Units,73.4
+United States,Foreign-born,Total,Participation rate,2015,Percentage,Units,72.9
+United States,Foreign-born,Total,Participation rate,2016,Percentage,Units,73.2
+United States,Foreign-born,Total,Participation rate,2017,Percentage,Units,74
+United States,Foreign-born,Total,Participation rate,2018,Percentage,Units,74.2
+United States,Foreign-born,Total,Participation rate,2019,Percentage,Units,74.6
+Canada,Native-born,Men,Employment rate,2008,Percentage,Units,76.9
+Canada,Native-born,Men,Employment rate,2009,Percentage,Units,73.8
+Canada,Native-born,Men,Employment rate,2010,Percentage,Units,74
+Canada,Native-born,Men,Employment rate,2011,Percentage,Units,74.8
+Canada,Native-born,Men,Employment rate,2012,Percentage,Units,74.6
+Canada,Native-born,Men,Employment rate,2013,Percentage,Units,74.8
+Canada,Native-born,Men,Employment rate,2014,Percentage,Units,74.9
+Canada,Native-born,Men,Employment rate,2015,Percentage,Units,74.8
+Canada,Native-born,Men,Employment rate,2016,Percentage,Units,74.5
+Canada,Native-born,Men,Employment rate,2017,Percentage,Units,75.4
+Canada,Native-born,Men,Employment rate,2018,Percentage,Units,76
+Canada,Native-born,Men,Employment rate,2019,Percentage,Units,76.6
+Canada,Native-born,Men,Unemployment rate,2008,Percentage,Units,6.6
+Canada,Native-born,Men,Unemployment rate,2009,Percentage,Units,9.4
+Canada,Native-born,Men,Unemployment rate,2010,Percentage,Units,8.6
+Canada,Native-born,Men,Unemployment rate,2011,Percentage,Units,8
+Canada,Native-born,Men,Unemployment rate,2012,Percentage,Units,7.7
+Canada,Native-born,Men,Unemployment rate,2013,Percentage,Units,7.5
+Canada,Native-born,Men,Unemployment rate,2014,Percentage,Units,7.5
+Canada,Native-born,Men,Unemployment rate,2015,Percentage,Units,7.8
+Canada,Native-born,Men,Unemployment rate,2016,Percentage,Units,7.9
+Canada,Native-born,Men,Unemployment rate,2017,Percentage,Units,7
+Canada,Native-born,Men,Unemployment rate,2018,Percentage,Units,6.3
+Canada,Native-born,Men,Unemployment rate,2019,Percentage,Units,6.2
+Canada,Native-born,Men,Participation rate,2008,Percentage,Units,82.4
+Canada,Native-born,Men,Participation rate,2009,Percentage,Units,81.4
+Canada,Native-born,Men,Participation rate,2010,Percentage,Units,81.1
+Canada,Native-born,Men,Participation rate,2011,Percentage,Units,81.2
+Canada,Native-born,Men,Participation rate,2012,Percentage,Units,80.9
+Canada,Native-born,Men,Participation rate,2013,Percentage,Units,80.9
+Canada,Native-born,Men,Participation rate,2014,Percentage,Units,81
+Canada,Native-born,Men,Participation rate,2015,Percentage,Units,81.1
+Canada,Native-born,Men,Participation rate,2016,Percentage,Units,80.9
+Canada,Native-born,Men,Participation rate,2017,Percentage,Units,81.1
+Canada,Native-born,Men,Participation rate,2018,Percentage,Units,81.1
+Canada,Native-born,Men,Participation rate,2019,Percentage,Units,81.6
+Canada,Native-born,Women,Employment rate,2008,Percentage,Units,71.6
+Canada,Native-born,Women,Employment rate,2009,Percentage,Units,70.5
+Canada,Native-born,Women,Employment rate,2010,Percentage,Units,70.4
+Canada,Native-born,Women,Employment rate,2011,Percentage,Units,70.5
+Canada,Native-born,Women,Employment rate,2012,Percentage,Units,70.5
+Canada,Native-born,Women,Employment rate,2013,Percentage,Units,71
+Canada,Native-born,Women,Employment rate,2014,Percentage,Units,70.9
+Canada,Native-born,Women,Employment rate,2015,Percentage,Units,71.1
+Canada,Native-born,Women,Employment rate,2016,Percentage,Units,71.2
+Canada,Native-born,Women,Employment rate,2017,Percentage,Units,71.8
+Canada,Native-born,Women,Employment rate,2018,Percentage,Units,72.7
+Canada,Native-born,Women,Employment rate,2019,Percentage,Units,73.3
+Canada,Native-born,Women,Unemployment rate,2008,Percentage,Units,5.2
+Canada,Native-born,Women,Unemployment rate,2009,Percentage,Units,6.4
+Canada,Native-born,Women,Unemployment rate,2010,Percentage,Units,6.6
+Canada,Native-born,Women,Unemployment rate,2011,Percentage,Units,6.4
+Canada,Native-born,Women,Unemployment rate,2012,Percentage,Units,6.4
+Canada,Native-born,Women,Unemployment rate,2013,Percentage,Units,6.2
+Canada,Native-born,Women,Unemployment rate,2014,Percentage,Units,5.9
+Canada,Native-born,Women,Unemployment rate,2015,Percentage,Units,5.8
+Canada,Native-born,Women,Unemployment rate,2016,Percentage,Units,5.9
+Canada,Native-born,Women,Unemployment rate,2017,Percentage,Units,5.4
+Canada,Native-born,Women,Unemployment rate,2018,Percentage,Units,5.1
+Canada,Native-born,Women,Unemployment rate,2019,Percentage,Units,4.8
+Canada,Native-born,Women,Participation rate,2008,Percentage,Units,75.5
+Canada,Native-born,Women,Participation rate,2009,Percentage,Units,75.3
+Canada,Native-born,Women,Participation rate,2010,Percentage,Units,75.4
+Canada,Native-born,Women,Participation rate,2011,Percentage,Units,75.4
+Canada,Native-born,Women,Participation rate,2012,Percentage,Units,75.4
+Canada,Native-born,Women,Participation rate,2013,Percentage,Units,75.7
+Canada,Native-born,Women,Participation rate,2014,Percentage,Units,75.4
+Canada,Native-born,Women,Participation rate,2015,Percentage,Units,75.5
+Canada,Native-born,Women,Participation rate,2016,Percentage,Units,75.6
+Canada,Native-born,Women,Participation rate,2017,Percentage,Units,75.9
+Canada,Native-born,Women,Participation rate,2018,Percentage,Units,76.6
+Canada,Native-born,Women,Participation rate,2019,Percentage,Units,76.9
+Canada,Native-born,Total,Employment rate,2008,Percentage,Units,74.3
+Canada,Native-born,Total,Employment rate,2009,Percentage,Units,72.2
+Canada,Native-born,Total,Employment rate,2010,Percentage,Units,72.2
+Canada,Native-born,Total,Employment rate,2011,Percentage,Units,72.7
+Canada,Native-born,Total,Employment rate,2012,Percentage,Units,72.6
+Canada,Native-born,Total,Employment rate,2013,Percentage,Units,73
+Canada,Native-born,Total,Employment rate,2014,Percentage,Units,72.9
+Canada,Native-born,Total,Employment rate,2015,Percentage,Units,73
+Canada,Native-born,Total,Employment rate,2016,Percentage,Units,72.8
+Canada,Native-born,Total,Employment rate,2017,Percentage,Units,73.7
+Canada,Native-born,Total,Employment rate,2018,Percentage,Units,74.4
+Canada,Native-born,Total,Employment rate,2019,Percentage,Units,74.9
+Canada,Native-born,Total,Unemployment rate,2008,Percentage,Units,6
+Canada,Native-born,Total,Unemployment rate,2009,Percentage,Units,8
+Canada,Native-born,Total,Unemployment rate,2010,Percentage,Units,7.7
+Canada,Native-born,Total,Unemployment rate,2011,Percentage,Units,7.2
+Canada,Native-born,Total,Unemployment rate,2012,Percentage,Units,7.1
+Canada,Native-born,Total,Unemployment rate,2013,Percentage,Units,6.9
+Canada,Native-born,Total,Unemployment rate,2014,Percentage,Units,6.8
+Canada,Native-born,Total,Unemployment rate,2015,Percentage,Units,6.9
+Canada,Native-born,Total,Unemployment rate,2016,Percentage,Units,6.9
+Canada,Native-born,Total,Unemployment rate,2017,Percentage,Units,6.3
+Canada,Native-born,Total,Unemployment rate,2018,Percentage,Units,5.7
+Canada,Native-born,Total,Unemployment rate,2019,Percentage,Units,5.5
+Canada,Native-born,Total,Participation rate,2008,Percentage,Units,79
+Canada,Native-born,Total,Participation rate,2009,Percentage,Units,78.4
+Canada,Native-born,Total,Participation rate,2010,Percentage,Units,78.2
+Canada,Native-born,Total,Participation rate,2011,Percentage,Units,78.3
+Canada,Native-born,Total,Participation rate,2012,Percentage,Units,78.1
+Canada,Native-born,Total,Participation rate,2013,Percentage,Units,78.4
+Canada,Native-born,Total,Participation rate,2014,Percentage,Units,78.2
+Canada,Native-born,Total,Participation rate,2015,Percentage,Units,78.4
+Canada,Native-born,Total,Participation rate,2016,Percentage,Units,78.3
+Canada,Native-born,Total,Participation rate,2017,Percentage,Units,78.6
+Canada,Native-born,Total,Participation rate,2018,Percentage,Units,78.9
+Canada,Native-born,Total,Participation rate,2019,Percentage,Units,79.3
+France,Native-born,Men,Employment rate,2000,Percentage,Units,69.4
+France,Native-born,Men,Employment rate,2001,Percentage,Units,70.3
+France,Native-born,Men,Employment rate,2002,Percentage,Units,70.1
+France,Native-born,Men,Employment rate,2003,Percentage,Units,70.3
+France,Native-born,Men,Employment rate,2004,Percentage,Units,69.4
+France,Native-born,Men,Employment rate,2005,Percentage,Units,69.4
+France,Native-born,Men,Employment rate,2006,Percentage,Units,69
+France,Native-born,Men,Employment rate,2007,Percentage,Units,69.5
+France,Native-born,Men,Employment rate,2008,Percentage,Units,69.7
+France,Native-born,Men,Employment rate,2009,Percentage,Units,68.5
+France,Native-born,Men,Employment rate,2010,Percentage,Units,68.5
+France,Native-born,Men,Employment rate,2011,Percentage,Units,68.4
+France,Native-born,Men,Employment rate,2012,Percentage,Units,68.4
+France,Native-born,Men,Employment rate,2013,Percentage,Units,68.1
+France,Native-born,Men,Employment rate,2014,Percentage,Units,67.8
+France,Native-born,Men,Employment rate,2015,Percentage,Units,67.7
+France,Native-born,Men,Employment rate,2016,Percentage,Units,68.2
+France,Native-born,Men,Employment rate,2017,Percentage,Units,68.9
+France,Native-born,Men,Employment rate,2018,Percentage,Units,69.1
+France,Native-born,Men,Employment rate,2019,Percentage,Units,69
+France,Native-born,Men,Unemployment rate,2000,Percentage,Units,7.7
+France,Native-born,Men,Unemployment rate,2001,Percentage,Units,6.2
+France,Native-born,Men,Unemployment rate,2002,Percentage,Units,7
+France,Native-born,Men,Unemployment rate,2003,Percentage,Units,6.8
+France,Native-born,Men,Unemployment rate,2004,Percentage,Units,7.7
+France,Native-born,Men,Unemployment rate,2005,Percentage,Units,7.5
+France,Native-born,Men,Unemployment rate,2006,Percentage,Units,7.7
+France,Native-born,Men,Unemployment rate,2007,Percentage,Units,6.9
+France,Native-born,Men,Unemployment rate,2008,Percentage,Units,6.3
+France,Native-born,Men,Unemployment rate,2009,Percentage,Units,8.5
+France,Native-born,Men,Unemployment rate,2010,Percentage,Units,8.4
+France,Native-born,Men,Unemployment rate,2011,Percentage,Units,8.3
+France,Native-born,Men,Unemployment rate,2012,Percentage,Units,8.7
+France,Native-born,Men,Unemployment rate,2013,Percentage,Units,9.2
+France,Native-born,Men,Unemployment rate,2014,Percentage,Units,9.8
+France,Native-born,Men,Unemployment rate,2015,Percentage,Units,9.9
+France,Native-born,Men,Unemployment rate,2016,Percentage,Units,9.5
+France,Native-born,Men,Unemployment rate,2017,Percentage,Units,8.7
+France,Native-born,Men,Unemployment rate,2018,Percentage,Units,8.4
+France,Native-born,Men,Unemployment rate,2019,Percentage,Units,8
+France,Native-born,Men,Participation rate,2000,Percentage,Units,75.1
+France,Native-born,Men,Participation rate,2001,Percentage,Units,75
+France,Native-born,Men,Participation rate,2002,Percentage,Units,75.4
+France,Native-born,Men,Participation rate,2003,Percentage,Units,75.4
+France,Native-born,Men,Participation rate,2004,Percentage,Units,75.2
+France,Native-born,Men,Participation rate,2005,Percentage,Units,75
+France,Native-born,Men,Participation rate,2006,Percentage,Units,74.7
+France,Native-born,Men,Participation rate,2007,Percentage,Units,74.6
+France,Native-born,Men,Participation rate,2008,Percentage,Units,74.4
+France,Native-born,Men,Participation rate,2009,Percentage,Units,74.8
+France,Native-born,Men,Participation rate,2010,Percentage,Units,74.8
+France,Native-born,Men,Participation rate,2011,Percentage,Units,74.5
+France,Native-born,Men,Participation rate,2012,Percentage,Units,74.9
+France,Native-born,Men,Participation rate,2013,Percentage,Units,75
+France,Native-born,Men,Participation rate,2014,Percentage,Units,75.1
+France,Native-born,Men,Participation rate,2015,Percentage,Units,75.2
+France,Native-born,Men,Participation rate,2016,Percentage,Units,75.3
+France,Native-born,Men,Participation rate,2017,Percentage,Units,75.5
+France,Native-born,Men,Participation rate,2018,Percentage,Units,75.4
+France,Native-born,Men,Participation rate,2019,Percentage,Units,75
+France,Native-born,Women,Employment rate,2000,Percentage,Units,56.3
+France,Native-born,Women,Employment rate,2001,Percentage,Units,57.2
+France,Native-born,Women,Employment rate,2002,Percentage,Units,58
+France,Native-born,Women,Employment rate,2003,Percentage,Units,59.4
+France,Native-born,Women,Employment rate,2004,Percentage,Units,58.7
+France,Native-born,Women,Employment rate,2005,Percentage,Units,59.7
+France,Native-born,Women,Employment rate,2006,Percentage,Units,59.8
+France,Native-born,Women,Employment rate,2007,Percentage,Units,61
+France,Native-born,Women,Employment rate,2008,Percentage,Units,61.6
+France,Native-born,Women,Employment rate,2009,Percentage,Units,60.9
+France,Native-born,Women,Employment rate,2010,Percentage,Units,61.3
+France,Native-born,Women,Employment rate,2011,Percentage,Units,61.3
+France,Native-born,Women,Employment rate,2012,Percentage,Units,61.7
+France,Native-born,Women,Employment rate,2013,Percentage,Units,62.2
+France,Native-born,Women,Employment rate,2014,Percentage,Units,62.1
+France,Native-born,Women,Employment rate,2015,Percentage,Units,62.5
+France,Native-born,Women,Employment rate,2016,Percentage,Units,63
+France,Native-born,Women,Employment rate,2017,Percentage,Units,63.3
+France,Native-born,Women,Employment rate,2018,Percentage,Units,63.9
+France,Native-born,Women,Employment rate,2019,Percentage,Units,64.4
+France,Native-born,Women,Unemployment rate,2000,Percentage,Units,11.3
+France,Native-born,Women,Unemployment rate,2001,Percentage,Units,9.8
+France,Native-born,Women,Unemployment rate,2002,Percentage,Units,9.2
+France,Native-born,Women,Unemployment rate,2003,Percentage,Units,8.9
+France,Native-born,Women,Unemployment rate,2004,Percentage,Units,9.6
+France,Native-born,Women,Unemployment rate,2005,Percentage,Units,9
+France,Native-born,Women,Unemployment rate,2006,Percentage,Units,9.2
+France,Native-born,Women,Unemployment rate,2007,Percentage,Units,8.1
+France,Native-born,Women,Unemployment rate,2008,Percentage,Units,7.8
+France,Native-born,Women,Unemployment rate,2009,Percentage,Units,9.2
+France,Native-born,Women,Unemployment rate,2010,Percentage,Units,8.7
+France,Native-born,Women,Unemployment rate,2011,Percentage,Units,8.9
+France,Native-born,Women,Unemployment rate,2012,Percentage,Units,8.7
+France,Native-born,Women,Unemployment rate,2013,Percentage,Units,8.9
+France,Native-born,Women,Unemployment rate,2014,Percentage,Units,9.2
+France,Native-born,Women,Unemployment rate,2015,Percentage,Units,9
+France,Native-born,Women,Unemployment rate,2016,Percentage,Units,9
+France,Native-born,Women,Unemployment rate,2017,Percentage,Units,8.5
+France,Native-born,Women,Unemployment rate,2018,Percentage,Units,8.3
+France,Native-born,Women,Unemployment rate,2019,Percentage,Units,7.7
+France,Native-born,Women,Participation rate,2000,Percentage,Units,63.5
+France,Native-born,Women,Participation rate,2001,Percentage,Units,63.5
+France,Native-born,Women,Participation rate,2002,Percentage,Units,63.8
+France,Native-born,Women,Participation rate,2003,Percentage,Units,65.2
+France,Native-born,Women,Participation rate,2004,Percentage,Units,65
+France,Native-born,Women,Participation rate,2005,Percentage,Units,65.7
+France,Native-born,Women,Participation rate,2006,Percentage,Units,65.9
+France,Native-born,Women,Participation rate,2007,Percentage,Units,66.3
+France,Native-born,Women,Participation rate,2008,Percentage,Units,66.7
+France,Native-born,Women,Participation rate,2009,Percentage,Units,67.1
+France,Native-born,Women,Participation rate,2010,Percentage,Units,67.2
+France,Native-born,Women,Participation rate,2011,Percentage,Units,67.2
+France,Native-born,Women,Participation rate,2012,Percentage,Units,67.5
+France,Native-born,Women,Participation rate,2013,Percentage,Units,68.3
+France,Native-born,Women,Participation rate,2014,Percentage,Units,68.4
+France,Native-born,Women,Participation rate,2015,Percentage,Units,68.7
+France,Native-born,Women,Participation rate,2016,Percentage,Units,69.2
+France,Native-born,Women,Participation rate,2017,Percentage,Units,69.1
+France,Native-born,Women,Participation rate,2018,Percentage,Units,69.7
+France,Native-born,Women,Participation rate,2019,Percentage,Units,69.7
+France,Native-born,Total,Employment rate,2000,Percentage,Units,62.7
+France,Native-born,Total,Employment rate,2001,Percentage,Units,63.7
+France,Native-born,Total,Employment rate,2002,Percentage,Units,64
+France,Native-born,Total,Employment rate,2003,Percentage,Units,64.7
+France,Native-born,Total,Employment rate,2004,Percentage,Units,64
+France,Native-born,Total,Employment rate,2005,Percentage,Units,64.5
+France,Native-born,Total,Employment rate,2006,Percentage,Units,64.4
+France,Native-born,Total,Employment rate,2007,Percentage,Units,65.2
+France,Native-born,Total,Employment rate,2008,Percentage,Units,65.6
+France,Native-born,Total,Employment rate,2009,Percentage,Units,64.7
+France,Native-born,Total,Employment rate,2010,Percentage,Units,64.9
+France,Native-born,Total,Employment rate,2011,Percentage,Units,64.8
+France,Native-born,Total,Employment rate,2012,Percentage,Units,65
+France,Native-born,Total,Employment rate,2013,Percentage,Units,65.1
+France,Native-born,Total,Employment rate,2014,Percentage,Units,64.9
+France,Native-born,Total,Employment rate,2015,Percentage,Units,65.1
+France,Native-born,Total,Employment rate,2016,Percentage,Units,65.6
+France,Native-born,Total,Employment rate,2017,Percentage,Units,66
+France,Native-born,Total,Employment rate,2018,Percentage,Units,66.5
+France,Native-born,Total,Employment rate,2019,Percentage,Units,66.6
+France,Native-born,Total,Unemployment rate,2000,Percentage,Units,9.4
+France,Native-born,Total,Unemployment rate,2001,Percentage,Units,7.9
+France,Native-born,Total,Unemployment rate,2002,Percentage,Units,8
+France,Native-born,Total,Unemployment rate,2003,Percentage,Units,7.8
+France,Native-born,Total,Unemployment rate,2004,Percentage,Units,8.6
+France,Native-born,Total,Unemployment rate,2005,Percentage,Units,8.2
+France,Native-born,Total,Unemployment rate,2006,Percentage,Units,8.4
+France,Native-born,Total,Unemployment rate,2007,Percentage,Units,7.4
+France,Native-born,Total,Unemployment rate,2008,Percentage,Units,7
+France,Native-born,Total,Unemployment rate,2009,Percentage,Units,8.8
+France,Native-born,Total,Unemployment rate,2010,Percentage,Units,8.6
+France,Native-born,Total,Unemployment rate,2011,Percentage,Units,8.6
+France,Native-born,Total,Unemployment rate,2012,Percentage,Units,8.7
+France,Native-born,Total,Unemployment rate,2013,Percentage,Units,9.1
+France,Native-born,Total,Unemployment rate,2014,Percentage,Units,9.5
+France,Native-born,Total,Unemployment rate,2015,Percentage,Units,9.5
+France,Native-born,Total,Unemployment rate,2016,Percentage,Units,9.2
+France,Native-born,Total,Unemployment rate,2017,Percentage,Units,8.6
+France,Native-born,Total,Unemployment rate,2018,Percentage,Units,8.3
+France,Native-born,Total,Unemployment rate,2019,Percentage,Units,7.8
+France,Native-born,Total,Participation rate,2000,Percentage,Units,69.2
+France,Native-born,Total,Participation rate,2001,Percentage,Units,69.2
+France,Native-born,Total,Participation rate,2002,Percentage,Units,69.6
+France,Native-born,Total,Participation rate,2003,Percentage,Units,70.2
+France,Native-born,Total,Participation rate,2004,Percentage,Units,70
+France,Native-born,Total,Participation rate,2005,Percentage,Units,70.3
+France,Native-born,Total,Participation rate,2006,Percentage,Units,70.3
+France,Native-born,Total,Participation rate,2007,Percentage,Units,70.4
+France,Native-born,Total,Participation rate,2008,Percentage,Units,70.5
+France,Native-born,Total,Participation rate,2009,Percentage,Units,70.9
+France,Native-born,Total,Participation rate,2010,Percentage,Units,70.9
+France,Native-born,Total,Participation rate,2011,Percentage,Units,70.8
+France,Native-born,Total,Participation rate,2012,Percentage,Units,71.2
+France,Native-born,Total,Participation rate,2013,Percentage,Units,71.6
+France,Native-born,Total,Participation rate,2014,Percentage,Units,71.7
+France,Native-born,Total,Participation rate,2015,Percentage,Units,71.9
+France,Native-born,Total,Participation rate,2016,Percentage,Units,72.2
+France,Native-born,Total,Participation rate,2017,Percentage,Units,72.3
+France,Native-born,Total,Participation rate,2018,Percentage,Units,72.5
+France,Native-born,Total,Participation rate,2019,Percentage,Units,72.3
+Germany,Native-born,Men,Employment rate,2000,Percentage,Units,73.8
+Germany,Native-born,Men,Employment rate,2001,Percentage,Units,73.4
+Germany,Native-born,Men,Employment rate,2002,Percentage,Units,72.5
+Germany,Native-born,Men,Employment rate,2003,Percentage,Units,71.8
+Germany,Native-born,Men,Employment rate,2004,Percentage,Units,70.8
+Germany,Native-born,Men,Employment rate,2005,Percentage,Units,72.4
+Germany,Native-born,Men,Employment rate,2006,Percentage,Units,73.9
+Germany,Native-born,Men,Employment rate,2007,Percentage,Units,75.1
+Germany,Native-born,Men,Employment rate,2008,Percentage,Units,76.6
+Germany,Native-born,Men,Employment rate,2009,Percentage,Units,76
+Germany,Native-born,Men,Employment rate,2010,Percentage,Units,75.9
+Germany,Native-born,Men,Employment rate,2011,Percentage,Units,76.6
+Germany,Native-born,Men,Employment rate,2012,Percentage,Units,78.1
+Germany,Native-born,Men,Employment rate,2013,Percentage,Units,78.1
+Germany,Native-born,Men,Employment rate,2014,Percentage,Units,78.3
+Germany,Native-born,Men,Employment rate,2015,Percentage,Units,78.2
+Germany,Native-born,Men,Employment rate,2016,Percentage,Units,79.2
+Germany,Native-born,Men,Employment rate,2017,Percentage,Units,79.9
+Germany,Native-born,Men,Employment rate,2018,Percentage,Units,80.4
+Germany,Native-born,Men,Employment rate,2019,Percentage,Units,81
+Germany,Native-born,Men,Unemployment rate,2000,Percentage,Units,6.9
+Germany,Native-born,Men,Unemployment rate,2001,Percentage,Units,7.3
+Germany,Native-born,Men,Unemployment rate,2002,Percentage,Units,8.1
+Germany,Native-born,Men,Unemployment rate,2003,Percentage,Units,9.2
+Germany,Native-born,Men,Unemployment rate,2004,Percentage,Units,10.2
+Germany,Native-born,Men,Unemployment rate,2005,Percentage,Units,10.1
+Germany,Native-born,Men,Unemployment rate,2006,Percentage,Units,9.3
+Germany,Native-born,Men,Unemployment rate,2007,Percentage,Units,7.6
+Germany,Native-born,Men,Unemployment rate,2008,Percentage,Units,6.5
+Germany,Native-born,Men,Unemployment rate,2009,Percentage,Units,7.2
+Germany,Native-born,Men,Unemployment rate,2010,Percentage,Units,7
+Germany,Native-born,Men,Unemployment rate,2011,Percentage,Units,5.9
+Germany,Native-born,Men,Unemployment rate,2012,Percentage,Units,5.1
+Germany,Native-born,Men,Unemployment rate,2013,Percentage,Units,5.1
+Germany,Native-born,Men,Unemployment rate,2014,Percentage,Units,4.8
+Germany,Native-born,Men,Unemployment rate,2015,Percentage,Units,4.5
+Germany,Native-born,Men,Unemployment rate,2016,Percentage,Units,3.9
+Germany,Native-born,Men,Unemployment rate,2017,Percentage,Units,3.5
+Germany,Native-born,Men,Unemployment rate,2018,Percentage,Units,3.2
+Germany,Native-born,Men,Unemployment rate,2019,Percentage,Units,2.9
+Germany,Native-born,Men,Participation rate,2000,Percentage,Units,79.3
+Germany,Native-born,Men,Participation rate,2001,Percentage,Units,79.1
+Germany,Native-born,Men,Participation rate,2002,Percentage,Units,78.9
+Germany,Native-born,Men,Participation rate,2003,Percentage,Units,79
+Germany,Native-born,Men,Participation rate,2004,Percentage,Units,78.8
+Germany,Native-born,Men,Participation rate,2005,Percentage,Units,80.5
+Germany,Native-born,Men,Participation rate,2006,Percentage,Units,81.4
+Germany,Native-born,Men,Participation rate,2007,Percentage,Units,81.3
+Germany,Native-born,Men,Participation rate,2008,Percentage,Units,81.9
+Germany,Native-born,Men,Participation rate,2009,Percentage,Units,81.9
+Germany,Native-born,Men,Participation rate,2010,Percentage,Units,81.6
+Germany,Native-born,Men,Participation rate,2011,Percentage,Units,81.4
+Germany,Native-born,Men,Participation rate,2012,Percentage,Units,82.3
+Germany,Native-born,Men,Participation rate,2013,Percentage,Units,82.3
+Germany,Native-born,Men,Participation rate,2014,Percentage,Units,82.3
+Germany,Native-born,Men,Participation rate,2015,Percentage,Units,81.9
+Germany,Native-born,Men,Participation rate,2016,Percentage,Units,82.4
+Germany,Native-born,Men,Participation rate,2017,Percentage,Units,82.8
+Germany,Native-born,Men,Participation rate,2018,Percentage,Units,83.1
+Germany,Native-born,Men,Participation rate,2019,Percentage,Units,83.5
+Germany,Native-born,Women,Employment rate,2000,Percentage,Units,59.6
+Germany,Native-born,Women,Employment rate,2001,Percentage,Units,60.5
+Germany,Native-born,Women,Employment rate,2002,Percentage,Units,60.6
+Germany,Native-born,Women,Employment rate,2003,Percentage,Units,60.7
+Germany,Native-born,Women,Employment rate,2004,Percentage,Units,60.3
+Germany,Native-born,Women,Employment rate,2005,Percentage,Units,61.8
+Germany,Native-born,Women,Employment rate,2006,Percentage,Units,63.5
+Germany,Native-born,Women,Employment rate,2007,Percentage,Units,65.7
+Germany,Native-born,Women,Employment rate,2008,Percentage,Units,66.4
+Germany,Native-born,Women,Employment rate,2009,Percentage,Units,67.4
+Germany,Native-born,Women,Employment rate,2010,Percentage,Units,67.8
+Germany,Native-born,Women,Employment rate,2011,Percentage,Units,69.3
+Germany,Native-born,Women,Employment rate,2012,Percentage,Units,69.8
+Germany,Native-born,Women,Employment rate,2013,Percentage,Units,70.8
+Germany,Native-born,Women,Employment rate,2014,Percentage,Units,71.4
+Germany,Native-born,Women,Employment rate,2015,Percentage,Units,72.1
+Germany,Native-born,Women,Employment rate,2016,Percentage,Units,73.2
+Germany,Native-born,Women,Employment rate,2017,Percentage,Units,74.1
+Germany,Native-born,Women,Employment rate,2018,Percentage,Units,74.6
+Germany,Native-born,Women,Employment rate,2019,Percentage,Units,75.3
+Germany,Native-born,Women,Unemployment rate,2000,Percentage,Units,8
+Germany,Native-born,Women,Unemployment rate,2001,Percentage,Units,7.5
+Germany,Native-born,Women,Unemployment rate,2002,Percentage,Units,7.9
+Germany,Native-born,Women,Unemployment rate,2003,Percentage,Units,8.8
+Germany,Native-born,Women,Unemployment rate,2004,Percentage,Units,9.5
+Germany,Native-born,Women,Unemployment rate,2005,Percentage,Units,9.9
+Germany,Native-born,Women,Unemployment rate,2006,Percentage,Units,9.4
+Germany,Native-born,Women,Unemployment rate,2007,Percentage,Units,8
+Germany,Native-born,Women,Unemployment rate,2008,Percentage,Units,6.8
+Germany,Native-born,Women,Unemployment rate,2009,Percentage,Units,6.8
+Germany,Native-born,Women,Unemployment rate,2010,Percentage,Units,6.1
+Germany,Native-born,Women,Unemployment rate,2011,Percentage,Units,5.2
+Germany,Native-born,Women,Unemployment rate,2012,Percentage,Units,4.7
+Germany,Native-born,Women,Unemployment rate,2013,Percentage,Units,4.5
+Germany,Native-born,Women,Unemployment rate,2014,Percentage,Units,4.2
+Germany,Native-born,Women,Unemployment rate,2015,Percentage,Units,3.7
+Germany,Native-born,Women,Unemployment rate,2016,Percentage,Units,3.3
+Germany,Native-born,Women,Unemployment rate,2017,Percentage,Units,2.9
+Germany,Native-born,Women,Unemployment rate,2018,Percentage,Units,2.5
+Germany,Native-born,Women,Unemployment rate,2019,Percentage,Units,2.3
+Germany,Native-born,Women,Participation rate,2000,Percentage,Units,64.8
+Germany,Native-born,Women,Participation rate,2001,Percentage,Units,65.4
+Germany,Native-born,Women,Participation rate,2002,Percentage,Units,65.8
+Germany,Native-born,Women,Participation rate,2003,Percentage,Units,66.5
+Germany,Native-born,Women,Participation rate,2004,Percentage,Units,66.6
+Germany,Native-born,Women,Participation rate,2005,Percentage,Units,68.6
+Germany,Native-born,Women,Participation rate,2006,Percentage,Units,70.1
+Germany,Native-born,Women,Participation rate,2007,Percentage,Units,71.4
+Germany,Native-born,Women,Participation rate,2008,Percentage,Units,71.3
+Germany,Native-born,Women,Participation rate,2009,Percentage,Units,72.3
+Germany,Native-born,Women,Participation rate,2010,Percentage,Units,72.3
+Germany,Native-born,Women,Participation rate,2011,Percentage,Units,73.1
+Germany,Native-born,Women,Participation rate,2012,Percentage,Units,73.3
+Germany,Native-born,Women,Participation rate,2013,Percentage,Units,74.2
+Germany,Native-born,Women,Participation rate,2014,Percentage,Units,74.6
+Germany,Native-born,Women,Participation rate,2015,Percentage,Units,74.9
+Germany,Native-born,Women,Participation rate,2016,Percentage,Units,75.7
+Germany,Native-born,Women,Participation rate,2017,Percentage,Units,76.3
+Germany,Native-born,Women,Participation rate,2018,Percentage,Units,76.5
+Germany,Native-born,Women,Participation rate,2019,Percentage,Units,77.1
+Germany,Native-born,Total,Employment rate,2000,Percentage,Units,66.7
+Germany,Native-born,Total,Employment rate,2001,Percentage,Units,67
+Germany,Native-born,Total,Employment rate,2002,Percentage,Units,66.6
+Germany,Native-born,Total,Employment rate,2003,Percentage,Units,66.3
+Germany,Native-born,Total,Employment rate,2004,Percentage,Units,65.6
+Germany,Native-born,Total,Employment rate,2005,Percentage,Units,67.1
+Germany,Native-born,Total,Employment rate,2006,Percentage,Units,68.8
+Germany,Native-born,Total,Employment rate,2007,Percentage,Units,70.5
+Germany,Native-born,Total,Employment rate,2008,Percentage,Units,71.6
+Germany,Native-born,Total,Employment rate,2009,Percentage,Units,71.7
+Germany,Native-born,Total,Employment rate,2010,Percentage,Units,71.9
+Germany,Native-born,Total,Employment rate,2011,Percentage,Units,73
+Germany,Native-born,Total,Employment rate,2012,Percentage,Units,74
+Germany,Native-born,Total,Employment rate,2013,Percentage,Units,74.5
+Germany,Native-born,Total,Employment rate,2014,Percentage,Units,74.9
+Germany,Native-born,Total,Employment rate,2015,Percentage,Units,75.2
+Germany,Native-born,Total,Employment rate,2016,Percentage,Units,76.2
+Germany,Native-born,Total,Employment rate,2017,Percentage,Units,77
+Germany,Native-born,Total,Employment rate,2018,Percentage,Units,77.5
+Germany,Native-born,Total,Employment rate,2019,Percentage,Units,78.2
+Germany,Native-born,Total,Unemployment rate,2000,Percentage,Units,7.4
+Germany,Native-born,Total,Unemployment rate,2001,Percentage,Units,7.4
+Germany,Native-born,Total,Unemployment rate,2002,Percentage,Units,8
+Germany,Native-born,Total,Unemployment rate,2003,Percentage,Units,9
+Germany,Native-born,Total,Unemployment rate,2004,Percentage,Units,9.9
+Germany,Native-born,Total,Unemployment rate,2005,Percentage,Units,10
+Germany,Native-born,Total,Unemployment rate,2006,Percentage,Units,9.3
+Germany,Native-born,Total,Unemployment rate,2007,Percentage,Units,7.8
+Germany,Native-born,Total,Unemployment rate,2008,Percentage,Units,6.6
+Germany,Native-born,Total,Unemployment rate,2009,Percentage,Units,7
+Germany,Native-born,Total,Unemployment rate,2010,Percentage,Units,6.6
+Germany,Native-born,Total,Unemployment rate,2011,Percentage,Units,5.6
+Germany,Native-born,Total,Unemployment rate,2012,Percentage,Units,4.9
+Germany,Native-born,Total,Unemployment rate,2013,Percentage,Units,4.8
+Germany,Native-born,Total,Unemployment rate,2014,Percentage,Units,4.5
+Germany,Native-born,Total,Unemployment rate,2015,Percentage,Units,4.1
+Germany,Native-born,Total,Unemployment rate,2016,Percentage,Units,3.6
+Germany,Native-born,Total,Unemployment rate,2017,Percentage,Units,3.3
+Germany,Native-born,Total,Unemployment rate,2018,Percentage,Units,2.9
+Germany,Native-born,Total,Unemployment rate,2019,Percentage,Units,2.6
+Germany,Native-born,Total,Participation rate,2000,Percentage,Units,72.1
+Germany,Native-born,Total,Participation rate,2001,Percentage,Units,72.3
+Germany,Native-born,Total,Participation rate,2002,Percentage,Units,72.4
+Germany,Native-born,Total,Participation rate,2003,Percentage,Units,72.8
+Germany,Native-born,Total,Participation rate,2004,Percentage,Units,72.8
+Germany,Native-born,Total,Participation rate,2005,Percentage,Units,74.6
+Germany,Native-born,Total,Participation rate,2006,Percentage,Units,75.8
+Germany,Native-born,Total,Participation rate,2007,Percentage,Units,76.4
+Germany,Native-born,Total,Participation rate,2008,Percentage,Units,76.6
+Germany,Native-born,Total,Participation rate,2009,Percentage,Units,77.1
+Germany,Native-born,Total,Participation rate,2010,Percentage,Units,77
+Germany,Native-born,Total,Participation rate,2011,Percentage,Units,77.3
+Germany,Native-born,Total,Participation rate,2012,Percentage,Units,77.8
+Germany,Native-born,Total,Participation rate,2013,Percentage,Units,78.3
+Germany,Native-born,Total,Participation rate,2014,Percentage,Units,78.5
+Germany,Native-born,Total,Participation rate,2015,Percentage,Units,78.4
+Germany,Native-born,Total,Participation rate,2016,Percentage,Units,79.1
+Germany,Native-born,Total,Participation rate,2017,Percentage,Units,79.6
+Germany,Native-born,Total,Participation rate,2018,Percentage,Units,79.9
+Germany,Native-born,Total,Participation rate,2019,Percentage,Units,80.3
+Italy,Native-born,Men,Employment rate,2000,Percentage,Units,67.4
+Italy,Native-born,Men,Employment rate,2001,Percentage,Units,68
+Italy,Native-born,Men,Employment rate,2002,Percentage,Units,68.7
+Italy,Native-born,Men,Employment rate,2003,Percentage,Units,69.2
+Italy,Native-born,Men,Employment rate,2004,Percentage,Units,69.8
+Italy,Native-born,Men,Employment rate,2005,Percentage,Units,69.2
+Italy,Native-born,Men,Employment rate,2006,Percentage,Units,69.6
+Italy,Native-born,Men,Employment rate,2007,Percentage,Units,69.7
+Italy,Native-born,Men,Employment rate,2008,Percentage,Units,69.3
+Italy,Native-born,Men,Employment rate,2009,Percentage,Units,67.7
+Italy,Native-born,Men,Employment rate,2010,Percentage,Units,66.7
+Italy,Native-born,Men,Employment rate,2011,Percentage,Units,66.5
+Italy,Native-born,Men,Employment rate,2012,Percentage,Units,65.6
+Italy,Native-born,Men,Employment rate,2013,Percentage,Units,64.2
+Italy,Native-born,Men,Employment rate,2014,Percentage,Units,64.1
+Italy,Native-born,Men,Employment rate,2015,Percentage,Units,64.9
+Italy,Native-born,Men,Employment rate,2016,Percentage,Units,65.7
+Italy,Native-born,Men,Employment rate,2017,Percentage,Units,66.3
+Italy,Native-born,Men,Employment rate,2018,Percentage,Units,66.7
+Italy,Native-born,Men,Employment rate,2019,Percentage,Units,67
+Italy,Native-born,Men,Unemployment rate,2000,Percentage,Units,8.4
+Italy,Native-born,Men,Unemployment rate,2001,Percentage,Units,7.5
+Italy,Native-born,Men,Unemployment rate,2002,Percentage,Units,7.2
+Italy,Native-born,Men,Unemployment rate,2003,Percentage,Units,7
+Italy,Native-born,Men,Unemployment rate,2004,Percentage,Units,6.4
+Italy,Native-born,Men,Unemployment rate,2005,Percentage,Units,6.2
+Italy,Native-born,Men,Unemployment rate,2006,Percentage,Units,5.5
+Italy,Native-born,Men,Unemployment rate,2007,Percentage,Units,4.9
+Italy,Native-born,Men,Unemployment rate,2008,Percentage,Units,5.6
+Italy,Native-born,Men,Unemployment rate,2009,Percentage,Units,6.6
+Italy,Native-born,Men,Unemployment rate,2010,Percentage,Units,7.4
+Italy,Native-born,Men,Unemployment rate,2011,Percentage,Units,7.4
+Italy,Native-born,Men,Unemployment rate,2012,Percentage,Units,9.7
+Italy,Native-born,Men,Unemployment rate,2013,Percentage,Units,11.1
+Italy,Native-born,Men,Unemployment rate,2014,Percentage,Units,11.6
+Italy,Native-born,Men,Unemployment rate,2015,Percentage,Units,11.1
+Italy,Native-born,Men,Unemployment rate,2016,Percentage,Units,10.8
+Italy,Native-born,Men,Unemployment rate,2017,Percentage,Units,10.3
+Italy,Native-born,Men,Unemployment rate,2018,Percentage,Units,9.7
+Italy,Native-born,Men,Unemployment rate,2019,Percentage,Units,9
+Italy,Native-born,Men,Participation rate,2000,Percentage,Units,73.6
+Italy,Native-born,Men,Participation rate,2001,Percentage,Units,73.5
+Italy,Native-born,Men,Participation rate,2002,Percentage,Units,74
+Italy,Native-born,Men,Participation rate,2003,Percentage,Units,74.5
+Italy,Native-born,Men,Participation rate,2004,Percentage,Units,74.6
+Italy,Native-born,Men,Participation rate,2005,Percentage,Units,73.8
+Italy,Native-born,Men,Participation rate,2006,Percentage,Units,73.7
+Italy,Native-born,Men,Participation rate,2007,Percentage,Units,73.4
+Italy,Native-born,Men,Participation rate,2008,Percentage,Units,73.4
+Italy,Native-born,Men,Participation rate,2009,Percentage,Units,72.5
+Italy,Native-born,Men,Participation rate,2010,Percentage,Units,72
+Italy,Native-born,Men,Participation rate,2011,Percentage,Units,71.8
+Italy,Native-born,Men,Participation rate,2012,Percentage,Units,72.7
+Italy,Native-born,Men,Participation rate,2013,Percentage,Units,72.2
+Italy,Native-born,Men,Participation rate,2014,Percentage,Units,72.5
+Italy,Native-born,Men,Participation rate,2015,Percentage,Units,73
+Italy,Native-born,Men,Participation rate,2016,Percentage,Units,73.7
+Italy,Native-born,Men,Participation rate,2017,Percentage,Units,73.9
+Italy,Native-born,Men,Participation rate,2018,Percentage,Units,73.9
+Italy,Native-born,Men,Participation rate,2019,Percentage,Units,73.6
+Italy,Native-born,Women,Employment rate,2000,Percentage,Units,39.3
+Italy,Native-born,Women,Employment rate,2001,Percentage,Units,40.9
+Italy,Native-born,Women,Employment rate,2002,Percentage,Units,41.8
+Italy,Native-born,Women,Employment rate,2003,Percentage,Units,42.7
+Italy,Native-born,Women,Employment rate,2004,Percentage,Units,45
+Italy,Native-born,Women,Employment rate,2005,Percentage,Units,45.1
+Italy,Native-born,Women,Employment rate,2006,Percentage,Units,46
+Italy,Native-born,Women,Employment rate,2007,Percentage,Units,46.2
+Italy,Native-born,Women,Employment rate,2008,Percentage,Units,46.8
+Italy,Native-born,Women,Employment rate,2009,Percentage,Units,45.9
+Italy,Native-born,Women,Employment rate,2010,Percentage,Units,45.7
+Italy,Native-born,Women,Employment rate,2011,Percentage,Units,46.1
+Italy,Native-born,Women,Employment rate,2012,Percentage,Units,46.7
+Italy,Native-born,Women,Employment rate,2013,Percentage,Units,46.1
+Italy,Native-born,Women,Employment rate,2014,Percentage,Units,46.4
+Italy,Native-born,Women,Employment rate,2015,Percentage,Units,46.9
+Italy,Native-born,Women,Employment rate,2016,Percentage,Units,48
+Italy,Native-born,Women,Employment rate,2017,Percentage,Units,48.8
+Italy,Native-born,Women,Employment rate,2018,Percentage,Units,49.4
+Italy,Native-born,Women,Employment rate,2019,Percentage,Units,50.2
+Italy,Native-born,Women,Unemployment rate,2000,Percentage,Units,14.9
+Italy,Native-born,Women,Unemployment rate,2001,Percentage,Units,13
+Italy,Native-born,Women,Unemployment rate,2002,Percentage,Units,12.7
+Italy,Native-born,Women,Unemployment rate,2003,Percentage,Units,12
+Italy,Native-born,Women,Unemployment rate,2004,Percentage,Units,10.1
+Italy,Native-born,Women,Unemployment rate,2005,Percentage,Units,9.7
+Italy,Native-born,Women,Unemployment rate,2006,Percentage,Units,8.5
+Italy,Native-born,Women,Unemployment rate,2007,Percentage,Units,7.6
+Italy,Native-born,Women,Unemployment rate,2008,Percentage,Units,8.2
+Italy,Native-born,Women,Unemployment rate,2009,Percentage,Units,8.8
+Italy,Native-born,Women,Unemployment rate,2010,Percentage,Units,9.2
+Italy,Native-born,Women,Unemployment rate,2011,Percentage,Units,9
+Italy,Native-born,Women,Unemployment rate,2012,Percentage,Units,11.3
+Italy,Native-born,Women,Unemployment rate,2013,Percentage,Units,12.4
+Italy,Native-born,Women,Unemployment rate,2014,Percentage,Units,13.3
+Italy,Native-born,Women,Unemployment rate,2015,Percentage,Units,12
+Italy,Native-born,Women,Unemployment rate,2016,Percentage,Units,12.2
+Italy,Native-born,Women,Unemployment rate,2017,Percentage,Units,11.9
+Italy,Native-born,Women,Unemployment rate,2018,Percentage,Units,11.2
+Italy,Native-born,Women,Unemployment rate,2019,Percentage,Units,10.5
+Italy,Native-born,Women,Participation rate,2000,Percentage,Units,46.2
+Italy,Native-born,Women,Participation rate,2001,Percentage,Units,47
+Italy,Native-born,Women,Participation rate,2002,Percentage,Units,47.9
+Italy,Native-born,Women,Participation rate,2003,Percentage,Units,48.6
+Italy,Native-born,Women,Participation rate,2004,Percentage,Units,50.1
+Italy,Native-born,Women,Participation rate,2005,Percentage,Units,49.9
+Italy,Native-born,Women,Participation rate,2006,Percentage,Units,50.3
+Italy,Native-born,Women,Participation rate,2007,Percentage,Units,50
+Italy,Native-born,Women,Participation rate,2008,Percentage,Units,51
+Italy,Native-born,Women,Participation rate,2009,Percentage,Units,50.4
+Italy,Native-born,Women,Participation rate,2010,Percentage,Units,50.3
+Italy,Native-born,Women,Participation rate,2011,Percentage,Units,50.6
+Italy,Native-born,Women,Participation rate,2012,Percentage,Units,52.6
+Italy,Native-born,Women,Participation rate,2013,Percentage,Units,52.6
+Italy,Native-born,Women,Participation rate,2014,Percentage,Units,53.5
+Italy,Native-born,Women,Participation rate,2015,Percentage,Units,53.3
+Italy,Native-born,Women,Participation rate,2016,Percentage,Units,54.6
+Italy,Native-born,Women,Participation rate,2017,Percentage,Units,55.4
+Italy,Native-born,Women,Participation rate,2018,Percentage,Units,55.6
+Italy,Native-born,Women,Participation rate,2019,Percentage,Units,56
+Italy,Native-born,Total,Employment rate,2000,Percentage,Units,53.3
+Italy,Native-born,Total,Employment rate,2001,Percentage,Units,54.4
+Italy,Native-born,Total,Employment rate,2002,Percentage,Units,55.2
+Italy,Native-born,Total,Employment rate,2003,Percentage,Units,56
+Italy,Native-born,Total,Employment rate,2004,Percentage,Units,57.4
+Italy,Native-born,Total,Employment rate,2005,Percentage,Units,57.2
+Italy,Native-born,Total,Employment rate,2006,Percentage,Units,57.9
+Italy,Native-born,Total,Employment rate,2007,Percentage,Units,58
+Italy,Native-born,Total,Employment rate,2008,Percentage,Units,58.1
+Italy,Native-born,Total,Employment rate,2009,Percentage,Units,56.9
+Italy,Native-born,Total,Employment rate,2010,Percentage,Units,56.3
+Italy,Native-born,Total,Employment rate,2011,Percentage,Units,56.3
+Italy,Native-born,Total,Employment rate,2012,Percentage,Units,56.2
+Italy,Native-born,Total,Employment rate,2013,Percentage,Units,55.2
+Italy,Native-born,Total,Employment rate,2014,Percentage,Units,55.3
+Italy,Native-born,Total,Employment rate,2015,Percentage,Units,55.9
+Italy,Native-born,Total,Employment rate,2016,Percentage,Units,56.9
+Italy,Native-born,Total,Employment rate,2017,Percentage,Units,57.6
+Italy,Native-born,Total,Employment rate,2018,Percentage,Units,58.1
+Italy,Native-born,Total,Employment rate,2019,Percentage,Units,58.7
+Italy,Native-born,Total,Unemployment rate,2000,Percentage,Units,10.9
+Italy,Native-born,Total,Unemployment rate,2001,Percentage,Units,9.7
+Italy,Native-born,Total,Unemployment rate,2002,Percentage,Units,9.3
+Italy,Native-born,Total,Unemployment rate,2003,Percentage,Units,9
+Italy,Native-born,Total,Unemployment rate,2004,Percentage,Units,7.9
+Italy,Native-born,Total,Unemployment rate,2005,Percentage,Units,7.6
+Italy,Native-born,Total,Unemployment rate,2006,Percentage,Units,6.7
+Italy,Native-born,Total,Unemployment rate,2007,Percentage,Units,6
+Italy,Native-born,Total,Unemployment rate,2008,Percentage,Units,6.6
+Italy,Native-born,Total,Unemployment rate,2009,Percentage,Units,7.5
+Italy,Native-born,Total,Unemployment rate,2010,Percentage,Units,8.1
+Italy,Native-born,Total,Unemployment rate,2011,Percentage,Units,8
+Italy,Native-born,Total,Unemployment rate,2012,Percentage,Units,10.4
+Italy,Native-born,Total,Unemployment rate,2013,Percentage,Units,11.7
+Italy,Native-born,Total,Unemployment rate,2014,Percentage,Units,12.3
+Italy,Native-born,Total,Unemployment rate,2015,Percentage,Units,11.5
+Italy,Native-born,Total,Unemployment rate,2016,Percentage,Units,11.4
+Italy,Native-born,Total,Unemployment rate,2017,Percentage,Units,11
+Italy,Native-born,Total,Unemployment rate,2018,Percentage,Units,10.3
+Italy,Native-born,Total,Unemployment rate,2019,Percentage,Units,9.6
+Italy,Native-born,Total,Participation rate,2000,Percentage,Units,59.8
+Italy,Native-born,Total,Participation rate,2001,Percentage,Units,60.2
+Italy,Native-born,Total,Participation rate,2002,Percentage,Units,60.9
+Italy,Native-born,Total,Participation rate,2003,Percentage,Units,61.5
+Italy,Native-born,Total,Participation rate,2004,Percentage,Units,62.3
+Italy,Native-born,Total,Participation rate,2005,Percentage,Units,61.9
+Italy,Native-born,Total,Participation rate,2006,Percentage,Units,62
+Italy,Native-born,Total,Participation rate,2007,Percentage,Units,61.7
+Italy,Native-born,Total,Participation rate,2008,Percentage,Units,62.2
+Italy,Native-born,Total,Participation rate,2009,Percentage,Units,61.5
+Italy,Native-born,Total,Participation rate,2010,Percentage,Units,61.2
+Italy,Native-born,Total,Participation rate,2011,Percentage,Units,61.3
+Italy,Native-born,Total,Participation rate,2012,Percentage,Units,62.7
+Italy,Native-born,Total,Participation rate,2013,Percentage,Units,62.5
+Italy,Native-born,Total,Participation rate,2014,Percentage,Units,63.1
+Italy,Native-born,Total,Participation rate,2015,Percentage,Units,63.2
+Italy,Native-born,Total,Participation rate,2016,Percentage,Units,64.2
+Italy,Native-born,Total,Participation rate,2017,Percentage,Units,64.7
+Italy,Native-born,Total,Participation rate,2018,Percentage,Units,64.8
+Italy,Native-born,Total,Participation rate,2019,Percentage,Units,64.9
+Spain,Native-born,Men,Employment rate,2000,Percentage,Units,70.8
+Spain,Native-born,Men,Employment rate,2001,Percentage,Units,72.1
+Spain,Native-born,Men,Employment rate,2002,Percentage,Units,72.4
+Spain,Native-born,Men,Employment rate,2003,Percentage,Units,72.7
+Spain,Native-born,Men,Employment rate,2004,Percentage,Units,73
+Spain,Native-born,Men,Employment rate,2005,Percentage,Units,74.6
+Spain,Native-born,Men,Employment rate,2006,Percentage,Units,75.4
+Spain,Native-born,Men,Employment rate,2007,Percentage,Units,75.3
+Spain,Native-born,Men,Employment rate,2008,Percentage,Units,73.3
+Spain,Native-born,Men,Employment rate,2009,Percentage,Units,67.6
+Spain,Native-born,Men,Employment rate,2010,Percentage,Units,66.1
+Spain,Native-born,Men,Employment rate,2011,Percentage,Units,64
+Spain,Native-born,Men,Employment rate,2012,Percentage,Units,61.4
+Spain,Native-born,Men,Employment rate,2013,Percentage,Units,60.3
+Spain,Native-born,Men,Employment rate,2014,Percentage,Units,61.5
+Spain,Native-born,Men,Employment rate,2015,Percentage,Units,63.4
+Spain,Native-born,Men,Employment rate,2016,Percentage,Units,65
+Spain,Native-born,Men,Employment rate,2017,Percentage,Units,66.6
+Spain,Native-born,Men,Employment rate,2018,Percentage,Units,67.8
+Spain,Native-born,Men,Employment rate,2019,Percentage,Units,68.3
+Spain,Native-born,Men,Unemployment rate,2000,Percentage,Units,9.4
+Spain,Native-born,Men,Unemployment rate,2001,Percentage,Units,7.2
+Spain,Native-born,Men,Unemployment rate,2002,Percentage,Units,7.7
+Spain,Native-born,Men,Unemployment rate,2003,Percentage,Units,7.9
+Spain,Native-born,Men,Unemployment rate,2004,Percentage,Units,7.8
+Spain,Native-born,Men,Unemployment rate,2005,Percentage,Units,6.8
+Spain,Native-born,Men,Unemployment rate,2006,Percentage,Units,6.1
+Spain,Native-born,Men,Unemployment rate,2007,Percentage,Units,6
+Spain,Native-born,Men,Unemployment rate,2008,Percentage,Units,8.9
+Spain,Native-born,Men,Unemployment rate,2009,Percentage,Units,15.3
+Spain,Native-born,Men,Unemployment rate,2010,Percentage,Units,16.9
+Spain,Native-born,Men,Unemployment rate,2011,Percentage,Units,19.3
+Spain,Native-born,Men,Unemployment rate,2012,Percentage,Units,22.3
+Spain,Native-born,Men,Unemployment rate,2013,Percentage,Units,23.5
+Spain,Native-born,Men,Unemployment rate,2014,Percentage,Units,21.8
+Spain,Native-born,Men,Unemployment rate,2015,Percentage,Units,19.3
+Spain,Native-born,Men,Unemployment rate,2016,Percentage,Units,17
+Spain,Native-born,Men,Unemployment rate,2017,Percentage,Units,14.5
+Spain,Native-born,Men,Unemployment rate,2018,Percentage,Units,12.7
+Spain,Native-born,Men,Unemployment rate,2019,Percentage,Units,11.6
+Spain,Native-born,Men,Participation rate,2000,Percentage,Units,78.2
+Spain,Native-born,Men,Participation rate,2001,Percentage,Units,77.7
+Spain,Native-born,Men,Participation rate,2002,Percentage,Units,78.4
+Spain,Native-born,Men,Participation rate,2003,Percentage,Units,78.9
+Spain,Native-born,Men,Participation rate,2004,Percentage,Units,79.2
+Spain,Native-born,Men,Participation rate,2005,Percentage,Units,80.1
+Spain,Native-born,Men,Participation rate,2006,Percentage,Units,80.3
+Spain,Native-born,Men,Participation rate,2007,Percentage,Units,80.2
+Spain,Native-born,Men,Participation rate,2008,Percentage,Units,80.5
+Spain,Native-born,Men,Participation rate,2009,Percentage,Units,79.9
+Spain,Native-born,Men,Participation rate,2010,Percentage,Units,79.6
+Spain,Native-born,Men,Participation rate,2011,Percentage,Units,79.3
+Spain,Native-born,Men,Participation rate,2012,Percentage,Units,79
+Spain,Native-born,Men,Participation rate,2013,Percentage,Units,78.8
+Spain,Native-born,Men,Participation rate,2014,Percentage,Units,78.6
+Spain,Native-born,Men,Participation rate,2015,Percentage,Units,78.6
+Spain,Native-born,Men,Participation rate,2016,Percentage,Units,78.3
+Spain,Native-born,Men,Participation rate,2017,Percentage,Units,77.9
+Spain,Native-born,Men,Participation rate,2018,Percentage,Units,77.7
+Spain,Native-born,Men,Participation rate,2019,Percentage,Units,77.3
+Spain,Native-born,Women,Employment rate,2000,Percentage,Units,41
+Spain,Native-born,Women,Employment rate,2001,Percentage,Units,42.4
+Spain,Native-born,Women,Employment rate,2002,Percentage,Units,43.5
+Spain,Native-born,Women,Employment rate,2003,Percentage,Units,45.4
+Spain,Native-born,Women,Employment rate,2004,Percentage,Units,47.2
+Spain,Native-born,Women,Employment rate,2005,Percentage,Units,50
+Spain,Native-born,Women,Employment rate,2006,Percentage,Units,52.3
+Spain,Native-born,Women,Employment rate,2007,Percentage,Units,53.1
+Spain,Native-born,Women,Employment rate,2008,Percentage,Units,53.9
+Spain,Native-born,Women,Employment rate,2009,Percentage,Units,52.2
+Spain,Native-born,Women,Employment rate,2010,Percentage,Units,52.2
+Spain,Native-born,Women,Employment rate,2011,Percentage,Units,52
+Spain,Native-born,Women,Employment rate,2012,Percentage,Units,51.4
+Spain,Native-born,Women,Employment rate,2013,Percentage,Units,50.7
+Spain,Native-born,Women,Employment rate,2014,Percentage,Units,51.7
+Spain,Native-born,Women,Employment rate,2015,Percentage,Units,53
+Spain,Native-born,Women,Employment rate,2016,Percentage,Units,54.7
+Spain,Native-born,Women,Employment rate,2017,Percentage,Units,55.9
+Spain,Native-born,Women,Employment rate,2018,Percentage,Units,57.1
+Spain,Native-born,Women,Employment rate,2019,Percentage,Units,58.4
+Spain,Native-born,Women,Unemployment rate,2000,Percentage,Units,20.4
+Spain,Native-born,Women,Unemployment rate,2001,Percentage,Units,15.1
+Spain,Native-born,Women,Unemployment rate,2002,Percentage,Units,16.3
+Spain,Native-born,Women,Unemployment rate,2003,Percentage,Units,15.7
+Spain,Native-born,Women,Unemployment rate,2004,Percentage,Units,15.1
+Spain,Native-born,Women,Unemployment rate,2005,Percentage,Units,11.9
+Spain,Native-born,Women,Unemployment rate,2006,Percentage,Units,10.8
+Spain,Native-born,Women,Unemployment rate,2007,Percentage,Units,10.5
+Spain,Native-born,Women,Unemployment rate,2008,Percentage,Units,12.2
+Spain,Native-born,Women,Unemployment rate,2009,Percentage,Units,16.9
+Spain,Native-born,Women,Unemployment rate,2010,Percentage,Units,18.8
+Spain,Native-born,Women,Unemployment rate,2011,Percentage,Units,20.4
+Spain,Native-born,Women,Unemployment rate,2012,Percentage,Units,23.5
+Spain,Native-born,Women,Unemployment rate,2013,Percentage,Units,25.2
+Spain,Native-born,Women,Unemployment rate,2014,Percentage,Units,24.1
+Spain,Native-born,Women,Unemployment rate,2015,Percentage,Units,22.3
+Spain,Native-born,Women,Unemployment rate,2016,Percentage,Units,20.2
+Spain,Native-born,Women,Unemployment rate,2017,Percentage,Units,17.9
+Spain,Native-born,Women,Unemployment rate,2018,Percentage,Units,15.9
+Spain,Native-born,Women,Unemployment rate,2019,Percentage,Units,14.8
+Spain,Native-born,Women,Participation rate,2000,Percentage,Units,51.5
+Spain,Native-born,Women,Participation rate,2001,Percentage,Units,49.9
+Spain,Native-born,Women,Participation rate,2002,Percentage,Units,52
+Spain,Native-born,Women,Participation rate,2003,Percentage,Units,53.9
+Spain,Native-born,Women,Participation rate,2004,Percentage,Units,55.6
+Spain,Native-born,Women,Participation rate,2005,Percentage,Units,56.8
+Spain,Native-born,Women,Participation rate,2006,Percentage,Units,58.6
+Spain,Native-born,Women,Participation rate,2007,Percentage,Units,59.4
+Spain,Native-born,Women,Participation rate,2008,Percentage,Units,61.3
+Spain,Native-born,Women,Participation rate,2009,Percentage,Units,62.8
+Spain,Native-born,Women,Participation rate,2010,Percentage,Units,64.3
+Spain,Native-born,Women,Participation rate,2011,Percentage,Units,65.3
+Spain,Native-born,Women,Participation rate,2012,Percentage,Units,67.2
+Spain,Native-born,Women,Participation rate,2013,Percentage,Units,67.8
+Spain,Native-born,Women,Participation rate,2014,Percentage,Units,68
+Spain,Native-born,Women,Participation rate,2015,Percentage,Units,68.3
+Spain,Native-born,Women,Participation rate,2016,Percentage,Units,68.6
+Spain,Native-born,Women,Participation rate,2017,Percentage,Units,68.2
+Spain,Native-born,Women,Participation rate,2018,Percentage,Units,67.9
+Spain,Native-born,Women,Participation rate,2019,Percentage,Units,68.5
+Spain,Native-born,Total,Employment rate,2000,Percentage,Units,55.9
+Spain,Native-born,Total,Employment rate,2001,Percentage,Units,57.3
+Spain,Native-born,Total,Employment rate,2002,Percentage,Units,58.1
+Spain,Native-born,Total,Employment rate,2003,Percentage,Units,59.2
+Spain,Native-born,Total,Employment rate,2004,Percentage,Units,60.2
+Spain,Native-born,Total,Employment rate,2005,Percentage,Units,62.5
+Spain,Native-born,Total,Employment rate,2006,Percentage,Units,63.9
+Spain,Native-born,Total,Employment rate,2007,Percentage,Units,64.4
+Spain,Native-born,Total,Employment rate,2008,Percentage,Units,63.8
+Spain,Native-born,Total,Employment rate,2009,Percentage,Units,60
+Spain,Native-born,Total,Employment rate,2010,Percentage,Units,59.2
+Spain,Native-born,Total,Employment rate,2011,Percentage,Units,58.1
+Spain,Native-born,Total,Employment rate,2012,Percentage,Units,56.5
+Spain,Native-born,Total,Employment rate,2013,Percentage,Units,55.6
+Spain,Native-born,Total,Employment rate,2014,Percentage,Units,56.6
+Spain,Native-born,Total,Employment rate,2015,Percentage,Units,58.3
+Spain,Native-born,Total,Employment rate,2016,Percentage,Units,59.9
+Spain,Native-born,Total,Employment rate,2017,Percentage,Units,61.4
+Spain,Native-born,Total,Employment rate,2018,Percentage,Units,62.6
+Spain,Native-born,Total,Employment rate,2019,Percentage,Units,63.4
+Spain,Native-born,Total,Unemployment rate,2000,Percentage,Units,13.8
+Spain,Native-born,Total,Unemployment rate,2001,Percentage,Units,10.3
+Spain,Native-born,Total,Unemployment rate,2002,Percentage,Units,11.1
+Spain,Native-born,Total,Unemployment rate,2003,Percentage,Units,11
+Spain,Native-born,Total,Unemployment rate,2004,Percentage,Units,10.8
+Spain,Native-born,Total,Unemployment rate,2005,Percentage,Units,8.9
+Spain,Native-born,Total,Unemployment rate,2006,Percentage,Units,8.1
+Spain,Native-born,Total,Unemployment rate,2007,Percentage,Units,7.9
+Spain,Native-born,Total,Unemployment rate,2008,Percentage,Units,10.3
+Spain,Native-born,Total,Unemployment rate,2009,Percentage,Units,16
+Spain,Native-born,Total,Unemployment rate,2010,Percentage,Units,17.8
+Spain,Native-born,Total,Unemployment rate,2011,Percentage,Units,19.8
+Spain,Native-born,Total,Unemployment rate,2012,Percentage,Units,22.9
+Spain,Native-born,Total,Unemployment rate,2013,Percentage,Units,24.3
+Spain,Native-born,Total,Unemployment rate,2014,Percentage,Units,22.8
+Spain,Native-born,Total,Unemployment rate,2015,Percentage,Units,20.7
+Spain,Native-born,Total,Unemployment rate,2016,Percentage,Units,18.5
+Spain,Native-born,Total,Unemployment rate,2017,Percentage,Units,16.1
+Spain,Native-born,Total,Unemployment rate,2018,Percentage,Units,14.2
+Spain,Native-born,Total,Unemployment rate,2019,Percentage,Units,13.1
+Spain,Native-born,Total,Participation rate,2000,Percentage,Units,64.9
+Spain,Native-born,Total,Participation rate,2001,Percentage,Units,63.9
+Spain,Native-born,Total,Participation rate,2002,Percentage,Units,65.3
+Spain,Native-born,Total,Participation rate,2003,Percentage,Units,66.5
+Spain,Native-born,Total,Participation rate,2004,Percentage,Units,67.5
+Spain,Native-born,Total,Participation rate,2005,Percentage,Units,68.6
+Spain,Native-born,Total,Participation rate,2006,Percentage,Units,69.6
+Spain,Native-born,Total,Participation rate,2007,Percentage,Units,70
+Spain,Native-born,Total,Participation rate,2008,Percentage,Units,71.1
+Spain,Native-born,Total,Participation rate,2009,Percentage,Units,71.5
+Spain,Native-born,Total,Participation rate,2010,Percentage,Units,72
+Spain,Native-born,Total,Participation rate,2011,Percentage,Units,72.4
+Spain,Native-born,Total,Participation rate,2012,Percentage,Units,73.2
+Spain,Native-born,Total,Participation rate,2013,Percentage,Units,73.4
+Spain,Native-born,Total,Participation rate,2014,Percentage,Units,73.4
+Spain,Native-born,Total,Participation rate,2015,Percentage,Units,73.5
+Spain,Native-born,Total,Participation rate,2016,Percentage,Units,73.5
+Spain,Native-born,Total,Participation rate,2017,Percentage,Units,73.1
+Spain,Native-born,Total,Participation rate,2018,Percentage,Units,72.9
+Spain,Native-born,Total,Participation rate,2019,Percentage,Units,73
+United Kingdom,Native-born,Men,Employment rate,2000,Percentage,Units,78
+United Kingdom,Native-born,Men,Employment rate,2001,Percentage,Units,78.1
+United Kingdom,Native-born,Men,Employment rate,2002,Percentage,Units,77.5
+United Kingdom,Native-born,Men,Employment rate,2003,Percentage,Units,77.9
+United Kingdom,Native-born,Men,Employment rate,2004,Percentage,Units,77.8
+United Kingdom,Native-born,Men,Employment rate,2005,Percentage,Units,77.6
+United Kingdom,Native-born,Men,Employment rate,2006,Percentage,Units,76.9
+United Kingdom,Native-born,Men,Employment rate,2007,Percentage,Units,77
+United Kingdom,Native-born,Men,Employment rate,2008,Percentage,Units,76.9
+United Kingdom,Native-born,Men,Employment rate,2009,Percentage,Units,74.2
+United Kingdom,Native-born,Men,Employment rate,2010,Percentage,Units,73.8
+United Kingdom,Native-born,Men,Employment rate,2011,Percentage,Units,73.9
+United Kingdom,Native-born,Men,Employment rate,2012,Percentage,Units,74.7
+United Kingdom,Native-born,Men,Employment rate,2013,Percentage,Units,75.2
+United Kingdom,Native-born,Men,Employment rate,2014,Percentage,Units,76.4
+United Kingdom,Native-born,Men,Employment rate,2015,Percentage,Units,77.3
+United Kingdom,Native-born,Men,Employment rate,2016,Percentage,Units,77.7
+United Kingdom,Native-born,Men,Employment rate,2017,Percentage,Units,77.8
+United Kingdom,Native-born,Men,Employment rate,2018,Percentage,Units,78.4
+United Kingdom,Native-born,Men,Employment rate,2019,Percentage,Units,78.4
+United Kingdom,Native-born,Men,Unemployment rate,2000,Percentage,Units,5.9
+United Kingdom,Native-born,Men,Unemployment rate,2001,Percentage,Units,5
+United Kingdom,Native-born,Men,Unemployment rate,2002,Percentage,Units,5.4
+United Kingdom,Native-born,Men,Unemployment rate,2003,Percentage,Units,5.2
+United Kingdom,Native-born,Men,Unemployment rate,2004,Percentage,Units,4.8
+United Kingdom,Native-born,Men,Unemployment rate,2005,Percentage,Units,4.8
+United Kingdom,Native-born,Men,Unemployment rate,2006,Percentage,Units,5.6
+United Kingdom,Native-born,Men,Unemployment rate,2007,Percentage,Units,5.4
+United Kingdom,Native-born,Men,Unemployment rate,2008,Percentage,Units,6.2
+United Kingdom,Native-born,Men,Unemployment rate,2009,Percentage,Units,8.8
+United Kingdom,Native-born,Men,Unemployment rate,2010,Percentage,Units,9
+United Kingdom,Native-born,Men,Unemployment rate,2011,Percentage,Units,8.8
+United Kingdom,Native-born,Men,Unemployment rate,2012,Percentage,Units,8.6
+United Kingdom,Native-born,Men,Unemployment rate,2013,Percentage,Units,8.2
+United Kingdom,Native-born,Men,Unemployment rate,2014,Percentage,Units,6.6
+United Kingdom,Native-born,Men,Unemployment rate,2015,Percentage,Units,5.6
+United Kingdom,Native-born,Men,Unemployment rate,2016,Percentage,Units,5.2
+United Kingdom,Native-born,Men,Unemployment rate,2017,Percentage,Units,4.7
+United Kingdom,Native-born,Men,Unemployment rate,2018,Percentage,Units,4.2
+United Kingdom,Native-born,Men,Unemployment rate,2019,Percentage,Units,4.1
+United Kingdom,Native-born,Men,Participation rate,2000,Percentage,Units,82.9
+United Kingdom,Native-born,Men,Participation rate,2001,Percentage,Units,82.3
+United Kingdom,Native-born,Men,Participation rate,2002,Percentage,Units,82
+United Kingdom,Native-born,Men,Participation rate,2003,Percentage,Units,82.2
+United Kingdom,Native-born,Men,Participation rate,2004,Percentage,Units,81.7
+United Kingdom,Native-born,Men,Participation rate,2005,Percentage,Units,81.5
+United Kingdom,Native-born,Men,Participation rate,2006,Percentage,Units,81.5
+United Kingdom,Native-born,Men,Participation rate,2007,Percentage,Units,81.4
+United Kingdom,Native-born,Men,Participation rate,2008,Percentage,Units,81.9
+United Kingdom,Native-born,Men,Participation rate,2009,Percentage,Units,81.4
+United Kingdom,Native-born,Men,Participation rate,2010,Percentage,Units,81.1
+United Kingdom,Native-born,Men,Participation rate,2011,Percentage,Units,81.1
+United Kingdom,Native-born,Men,Participation rate,2012,Percentage,Units,81.7
+United Kingdom,Native-born,Men,Participation rate,2013,Percentage,Units,81.9
+United Kingdom,Native-born,Men,Participation rate,2014,Percentage,Units,81.8
+United Kingdom,Native-born,Men,Participation rate,2015,Percentage,Units,81.9
+United Kingdom,Native-born,Men,Participation rate,2016,Percentage,Units,82
+United Kingdom,Native-born,Men,Participation rate,2017,Percentage,Units,81.7
+United Kingdom,Native-born,Men,Participation rate,2018,Percentage,Units,81.9
+United Kingdom,Native-born,Men,Participation rate,2019,Percentage,Units,81.8
+United Kingdom,Native-born,Women,Employment rate,2000,Percentage,Units,65.5
+United Kingdom,Native-born,Women,Employment rate,2001,Percentage,Units,65.9
+United Kingdom,Native-born,Women,Employment rate,2002,Percentage,Units,66.2
+United Kingdom,Native-born,Women,Employment rate,2003,Percentage,Units,66.4
+United Kingdom,Native-born,Women,Employment rate,2004,Percentage,Units,66.6
+United Kingdom,Native-born,Women,Employment rate,2005,Percentage,Units,66.8
+United Kingdom,Native-born,Women,Employment rate,2006,Percentage,Units,66.8
+United Kingdom,Native-born,Women,Employment rate,2007,Percentage,Units,66.4
+United Kingdom,Native-born,Women,Employment rate,2008,Percentage,Units,66.8
+United Kingdom,Native-born,Women,Employment rate,2009,Percentage,Units,65.9
+United Kingdom,Native-born,Women,Employment rate,2010,Percentage,Units,65.4
+United Kingdom,Native-born,Women,Employment rate,2011,Percentage,Units,65.4
+United Kingdom,Native-born,Women,Employment rate,2012,Percentage,Units,66.4
+United Kingdom,Native-born,Women,Employment rate,2013,Percentage,Units,67.1
+United Kingdom,Native-born,Women,Employment rate,2014,Percentage,Units,68.4
+United Kingdom,Native-born,Women,Employment rate,2015,Percentage,Units,69.2
+United Kingdom,Native-born,Women,Employment rate,2016,Percentage,Units,70.1
+United Kingdom,Native-born,Women,Employment rate,2017,Percentage,Units,71.2
+United Kingdom,Native-born,Women,Employment rate,2018,Percentage,Units,71.4
+United Kingdom,Native-born,Women,Employment rate,2019,Percentage,Units,72.1
+United Kingdom,Native-born,Women,Unemployment rate,2000,Percentage,Units,4.7
+United Kingdom,Native-born,Women,Unemployment rate,2001,Percentage,Units,3.9
+United Kingdom,Native-born,Women,Unemployment rate,2002,Percentage,Units,4.2
+United Kingdom,Native-born,Women,Unemployment rate,2003,Percentage,Units,3.9
+United Kingdom,Native-born,Women,Unemployment rate,2004,Percentage,Units,3.9
+United Kingdom,Native-born,Women,Unemployment rate,2005,Percentage,Units,3.8
+United Kingdom,Native-born,Women,Unemployment rate,2006,Percentage,Units,4.6
+United Kingdom,Native-born,Women,Unemployment rate,2007,Percentage,Units,4.5
+United Kingdom,Native-born,Women,Unemployment rate,2008,Percentage,Units,4.9
+United Kingdom,Native-born,Women,Unemployment rate,2009,Percentage,Units,6.2
+United Kingdom,Native-born,Women,Unemployment rate,2010,Percentage,Units,6.8
+United Kingdom,Native-born,Women,Unemployment rate,2011,Percentage,Units,7.1
+United Kingdom,Native-born,Women,Unemployment rate,2012,Percentage,Units,7
+United Kingdom,Native-born,Women,Unemployment rate,2013,Percentage,Units,6.7
+United Kingdom,Native-born,Women,Unemployment rate,2014,Percentage,Units,5.5
+United Kingdom,Native-born,Women,Unemployment rate,2015,Percentage,Units,4.8
+United Kingdom,Native-born,Women,Unemployment rate,2016,Percentage,Units,4.4
+United Kingdom,Native-born,Women,Unemployment rate,2017,Percentage,Units,3.8
+United Kingdom,Native-born,Women,Unemployment rate,2018,Percentage,Units,3.7
+United Kingdom,Native-born,Women,Unemployment rate,2019,Percentage,Units,3.3
+United Kingdom,Native-born,Women,Participation rate,2000,Percentage,Units,68.7
+United Kingdom,Native-born,Women,Participation rate,2001,Percentage,Units,68.6
+United Kingdom,Native-born,Women,Participation rate,2002,Percentage,Units,69.1
+United Kingdom,Native-born,Women,Participation rate,2003,Percentage,Units,69.1
+United Kingdom,Native-born,Women,Participation rate,2004,Percentage,Units,69.3
+United Kingdom,Native-born,Women,Participation rate,2005,Percentage,Units,69.4
+United Kingdom,Native-born,Women,Participation rate,2006,Percentage,Units,70
+United Kingdom,Native-born,Women,Participation rate,2007,Percentage,Units,69.5
+United Kingdom,Native-born,Women,Participation rate,2008,Percentage,Units,70.2
+United Kingdom,Native-born,Women,Participation rate,2009,Percentage,Units,70.2
+United Kingdom,Native-born,Women,Participation rate,2010,Percentage,Units,70.1
+United Kingdom,Native-born,Women,Participation rate,2011,Percentage,Units,70.4
+United Kingdom,Native-born,Women,Participation rate,2012,Percentage,Units,71.5
+United Kingdom,Native-born,Women,Participation rate,2013,Percentage,Units,72
+United Kingdom,Native-born,Women,Participation rate,2014,Percentage,Units,72.4
+United Kingdom,Native-born,Women,Participation rate,2015,Percentage,Units,72.7
+United Kingdom,Native-born,Women,Participation rate,2016,Percentage,Units,73.3
+United Kingdom,Native-born,Women,Participation rate,2017,Percentage,Units,74
+United Kingdom,Native-born,Women,Participation rate,2018,Percentage,Units,74.2
+United Kingdom,Native-born,Women,Participation rate,2019,Percentage,Units,74.6
+United Kingdom,Native-born,Total,Employment rate,2000,Percentage,Units,71.7
+United Kingdom,Native-born,Total,Employment rate,2001,Percentage,Units,72
+United Kingdom,Native-born,Total,Employment rate,2002,Percentage,Units,71.8
+United Kingdom,Native-born,Total,Employment rate,2003,Percentage,Units,72.1
+United Kingdom,Native-born,Total,Employment rate,2004,Percentage,Units,72.2
+United Kingdom,Native-born,Total,Employment rate,2005,Percentage,Units,72.2
+United Kingdom,Native-born,Total,Employment rate,2006,Percentage,Units,71.9
+United Kingdom,Native-born,Total,Employment rate,2007,Percentage,Units,71.6
+United Kingdom,Native-born,Total,Employment rate,2008,Percentage,Units,71.8
+United Kingdom,Native-born,Total,Employment rate,2009,Percentage,Units,70
+United Kingdom,Native-born,Total,Employment rate,2010,Percentage,Units,69.6
+United Kingdom,Native-born,Total,Employment rate,2011,Percentage,Units,69.7
+United Kingdom,Native-born,Total,Employment rate,2012,Percentage,Units,70.6
+United Kingdom,Native-born,Total,Employment rate,2013,Percentage,Units,71.1
+United Kingdom,Native-born,Total,Employment rate,2014,Percentage,Units,72.4
+United Kingdom,Native-born,Total,Employment rate,2015,Percentage,Units,73.2
+United Kingdom,Native-born,Total,Employment rate,2016,Percentage,Units,73.9
+United Kingdom,Native-born,Total,Employment rate,2017,Percentage,Units,74.5
+United Kingdom,Native-born,Total,Employment rate,2018,Percentage,Units,74.9
+United Kingdom,Native-born,Total,Employment rate,2019,Percentage,Units,75.3
+United Kingdom,Native-born,Total,Unemployment rate,2000,Percentage,Units,5.4
+United Kingdom,Native-born,Total,Unemployment rate,2001,Percentage,Units,4.5
+United Kingdom,Native-born,Total,Unemployment rate,2002,Percentage,Units,4.9
+United Kingdom,Native-born,Total,Unemployment rate,2003,Percentage,Units,4.6
+United Kingdom,Native-born,Total,Unemployment rate,2004,Percentage,Units,4.4
+United Kingdom,Native-born,Total,Unemployment rate,2005,Percentage,Units,4.3
+United Kingdom,Native-born,Total,Unemployment rate,2006,Percentage,Units,5.2
+United Kingdom,Native-born,Total,Unemployment rate,2007,Percentage,Units,5
+United Kingdom,Native-born,Total,Unemployment rate,2008,Percentage,Units,5.6
+United Kingdom,Native-born,Total,Unemployment rate,2009,Percentage,Units,7.6
+United Kingdom,Native-born,Total,Unemployment rate,2010,Percentage,Units,8
+United Kingdom,Native-born,Total,Unemployment rate,2011,Percentage,Units,8
+United Kingdom,Native-born,Total,Unemployment rate,2012,Percentage,Units,7.8
+United Kingdom,Native-born,Total,Unemployment rate,2013,Percentage,Units,7.5
+United Kingdom,Native-born,Total,Unemployment rate,2014,Percentage,Units,6.1
+United Kingdom,Native-born,Total,Unemployment rate,2015,Percentage,Units,5.2
+United Kingdom,Native-born,Total,Unemployment rate,2016,Percentage,Units,4.8
+United Kingdom,Native-born,Total,Unemployment rate,2017,Percentage,Units,4.3
+United Kingdom,Native-born,Total,Unemployment rate,2018,Percentage,Units,4
+United Kingdom,Native-born,Total,Unemployment rate,2019,Percentage,Units,3.7
+United Kingdom,Native-born,Total,Participation rate,2000,Percentage,Units,75.7
+United Kingdom,Native-born,Total,Participation rate,2001,Percentage,Units,75.4
+United Kingdom,Native-born,Total,Participation rate,2002,Percentage,Units,75.5
+United Kingdom,Native-born,Total,Participation rate,2003,Percentage,Units,75.6
+United Kingdom,Native-born,Total,Participation rate,2004,Percentage,Units,75.5
+United Kingdom,Native-born,Total,Participation rate,2005,Percentage,Units,75.5
+United Kingdom,Native-born,Total,Participation rate,2006,Percentage,Units,75.8
+United Kingdom,Native-born,Total,Participation rate,2007,Percentage,Units,75.4
+United Kingdom,Native-born,Total,Participation rate,2008,Percentage,Units,76
+United Kingdom,Native-born,Total,Participation rate,2009,Percentage,Units,75.8
+United Kingdom,Native-born,Total,Participation rate,2010,Percentage,Units,75.6
+United Kingdom,Native-born,Total,Participation rate,2011,Percentage,Units,75.7
+United Kingdom,Native-born,Total,Participation rate,2012,Percentage,Units,76.6
+United Kingdom,Native-born,Total,Participation rate,2013,Percentage,Units,76.9
+United Kingdom,Native-born,Total,Participation rate,2014,Percentage,Units,77.1
+United Kingdom,Native-born,Total,Participation rate,2015,Percentage,Units,77.3
+United Kingdom,Native-born,Total,Participation rate,2016,Percentage,Units,77.6
+United Kingdom,Native-born,Total,Participation rate,2017,Percentage,Units,77.9
+United Kingdom,Native-born,Total,Participation rate,2018,Percentage,Units,78
+United Kingdom,Native-born,Total,Participation rate,2019,Percentage,Units,78.2
+United States,Native-born,Men,Employment rate,2000,Percentage,Units,78.5
+United States,Native-born,Men,Employment rate,2001,Percentage,Units,77
+United States,Native-born,Men,Employment rate,2002,Percentage,Units,75.6
+United States,Native-born,Men,Employment rate,2003,Percentage,Units,74.6
+United States,Native-born,Men,Employment rate,2004,Percentage,Units,74.6
+United States,Native-born,Men,Employment rate,2005,Percentage,Units,74.9
+United States,Native-born,Men,Employment rate,2006,Percentage,Units,75.2
+United States,Native-born,Men,Employment rate,2007,Percentage,Units,74.8
+United States,Native-born,Men,Employment rate,2008,Percentage,Units,73.4
+United States,Native-born,Men,Employment rate,2009,Percentage,Units,69.1
+United States,Native-born,Men,Employment rate,2010,Percentage,Units,68.2
+United States,Native-born,Men,Employment rate,2011,Percentage,Units,68.4
+United States,Native-born,Men,Employment rate,2012,Percentage,Units,69.3
+United States,Native-born,Men,Employment rate,2013,Percentage,Units,69.3
+United States,Native-born,Men,Employment rate,2014,Percentage,Units,70.2
+United States,Native-born,Men,Employment rate,2015,Percentage,Units,70.9
+United States,Native-born,Men,Employment rate,2016,Percentage,Units,71.6
+United States,Native-born,Men,Employment rate,2017,Percentage,Units,72.2
+United States,Native-born,Men,Employment rate,2018,Percentage,Units,72.9
+United States,Native-born,Men,Employment rate,2019,Percentage,Units,73.4
+United States,Native-born,Men,Unemployment rate,2000,Percentage,Units,4.1
+United States,Native-born,Men,Unemployment rate,2001,Percentage,Units,5.1
+United States,Native-born,Men,Unemployment rate,2002,Percentage,Units,6.2
+United States,Native-born,Men,Unemployment rate,2003,Percentage,Units,6.5
+United States,Native-born,Men,Unemployment rate,2004,Percentage,Units,6
+United States,Native-born,Men,Unemployment rate,2005,Percentage,Units,5.5
+United States,Native-born,Men,Unemployment rate,2006,Percentage,Units,5.1
+United States,Native-born,Men,Unemployment rate,2007,Percentage,Units,5.1
+United States,Native-born,Men,Unemployment rate,2008,Percentage,Units,6.4
+United States,Native-born,Men,Unemployment rate,2009,Percentage,Units,10.7
+United States,Native-born,Men,Unemployment rate,2010,Percentage,Units,10.9
+United States,Native-born,Men,Unemployment rate,2011,Percentage,Units,9.8
+United States,Native-born,Men,Unemployment rate,2012,Percentage,Units,8.6
+United States,Native-born,Men,Unemployment rate,2013,Percentage,Units,8.2
+United States,Native-born,Men,Unemployment rate,2014,Percentage,Units,6.8
+United States,Native-born,Men,Unemployment rate,2015,Percentage,Units,5.8
+United States,Native-born,Men,Unemployment rate,2016,Percentage,Units,5.4
+United States,Native-born,Men,Unemployment rate,2017,Percentage,Units,4.8
+United States,Native-born,Men,Unemployment rate,2018,Percentage,Units,4.3
+United States,Native-born,Men,Unemployment rate,2019,Percentage,Units,4.1
+United States,Native-born,Men,Participation rate,2000,Percentage,Units,81.8
+United States,Native-born,Men,Participation rate,2001,Percentage,Units,81.1
+United States,Native-born,Men,Participation rate,2002,Percentage,Units,80.6
+United States,Native-born,Men,Participation rate,2003,Percentage,Units,79.8
+United States,Native-born,Men,Participation rate,2004,Percentage,Units,79.3
+United States,Native-born,Men,Participation rate,2005,Percentage,Units,79.2
+United States,Native-born,Men,Participation rate,2006,Percentage,Units,79.2
+United States,Native-born,Men,Participation rate,2007,Percentage,Units,78.8
+United States,Native-born,Men,Participation rate,2008,Percentage,Units,78.4
+United States,Native-born,Men,Participation rate,2009,Percentage,Units,77.4
+United States,Native-born,Men,Participation rate,2010,Percentage,Units,76.6
+United States,Native-born,Men,Participation rate,2011,Percentage,Units,75.8
+United States,Native-born,Men,Participation rate,2012,Percentage,Units,75.9
+United States,Native-born,Men,Participation rate,2013,Percentage,Units,75.5
+United States,Native-born,Men,Participation rate,2014,Percentage,Units,75.3
+United States,Native-born,Men,Participation rate,2015,Percentage,Units,75.3
+United States,Native-born,Men,Participation rate,2016,Percentage,Units,75.7
+United States,Native-born,Men,Participation rate,2017,Percentage,Units,75.8
+United States,Native-born,Men,Participation rate,2018,Percentage,Units,76.2
+United States,Native-born,Men,Participation rate,2019,Percentage,Units,76.5
+United States,Native-born,Women,Employment rate,2000,Percentage,Units,68.1
+United States,Native-born,Women,Employment rate,2001,Percentage,Units,67.5
+United States,Native-born,Women,Employment rate,2002,Percentage,Units,66.5
+United States,Native-born,Women,Employment rate,2003,Percentage,Units,65.9
+United States,Native-born,Women,Employment rate,2004,Percentage,Units,65.6
+United States,Native-born,Women,Employment rate,2005,Percentage,Units,65.8
+United States,Native-born,Women,Employment rate,2006,Percentage,Units,66
+United States,Native-born,Women,Employment rate,2007,Percentage,Units,65.9
+United States,Native-born,Women,Employment rate,2008,Percentage,Units,65.5
+United States,Native-born,Women,Employment rate,2009,Percentage,Units,63.2
+United States,Native-born,Women,Employment rate,2010,Percentage,Units,62.2
+United States,Native-born,Women,Employment rate,2011,Percentage,Units,61.9
+United States,Native-born,Women,Employment rate,2012,Percentage,Units,62
+United States,Native-born,Women,Employment rate,2013,Percentage,Units,62.2
+United States,Native-born,Women,Employment rate,2014,Percentage,Units,63
+United States,Native-born,Women,Employment rate,2015,Percentage,Units,63.6
+United States,Native-born,Women,Employment rate,2016,Percentage,Units,64.2
+United States,Native-born,Women,Employment rate,2017,Percentage,Units,64.9
+United States,Native-born,Women,Employment rate,2018,Percentage,Units,65.6
+United States,Native-born,Women,Employment rate,2019,Percentage,Units,66.4
+United States,Native-born,Women,Unemployment rate,2000,Percentage,Units,4.2
+United States,Native-born,Women,Unemployment rate,2001,Percentage,Units,4.6
+United States,Native-born,Women,Unemployment rate,2002,Percentage,Units,5.6
+United States,Native-born,Women,Unemployment rate,2003,Percentage,Units,5.6
+United States,Native-born,Women,Unemployment rate,2004,Percentage,Units,5.5
+United States,Native-born,Women,Unemployment rate,2005,Percentage,Units,5.2
+United States,Native-born,Women,Unemployment rate,2006,Percentage,Units,4.8
+United States,Native-born,Women,Unemployment rate,2007,Percentage,Units,4.6
+United States,Native-born,Women,Unemployment rate,2008,Percentage,Units,5.5
+United States,Native-born,Women,Unemployment rate,2009,Percentage,Units,8.1
+United States,Native-born,Women,Unemployment rate,2010,Percentage,Units,8.7
+United States,Native-born,Women,Unemployment rate,2011,Percentage,Units,8.5
+United States,Native-born,Women,Unemployment rate,2012,Percentage,Units,7.9
+United States,Native-born,Women,Unemployment rate,2013,Percentage,Units,7.2
+United States,Native-born,Women,Unemployment rate,2014,Percentage,Units,6.1
+United States,Native-born,Women,Unemployment rate,2015,Percentage,Units,5.2
+United States,Native-born,Women,Unemployment rate,2016,Percentage,Units,4.9
+United States,Native-born,Women,Unemployment rate,2017,Percentage,Units,4.3
+United States,Native-born,Women,Unemployment rate,2018,Percentage,Units,3.9
+United States,Native-born,Women,Unemployment rate,2019,Percentage,Units,3.7
+United States,Native-born,Women,Participation rate,2000,Percentage,Units,71.1
+United States,Native-born,Women,Participation rate,2001,Percentage,Units,70.7
+United States,Native-born,Women,Participation rate,2002,Percentage,Units,70.4
+United States,Native-born,Women,Participation rate,2003,Percentage,Units,69.8
+United States,Native-born,Women,Participation rate,2004,Percentage,Units,69.4
+United States,Native-born,Women,Participation rate,2005,Percentage,Units,69.4
+United States,Native-born,Women,Participation rate,2006,Percentage,Units,69.3
+United States,Native-born,Women,Participation rate,2007,Percentage,Units,69.1
+United States,Native-born,Women,Participation rate,2008,Percentage,Units,69.3
+United States,Native-born,Women,Participation rate,2009,Percentage,Units,68.7
+United States,Native-born,Women,Participation rate,2010,Percentage,Units,68.1
+United States,Native-born,Women,Participation rate,2011,Percentage,Units,67.6
+United States,Native-born,Women,Participation rate,2012,Percentage,Units,67.3
+United States,Native-born,Women,Participation rate,2013,Percentage,Units,67
+United States,Native-born,Women,Participation rate,2014,Percentage,Units,67.1
+United States,Native-born,Women,Participation rate,2015,Percentage,Units,67.1
+United States,Native-born,Women,Participation rate,2016,Percentage,Units,67.5
+United States,Native-born,Women,Participation rate,2017,Percentage,Units,67.9
+United States,Native-born,Women,Participation rate,2018,Percentage,Units,68.3
+United States,Native-born,Women,Participation rate,2019,Percentage,Units,69
+United States,Native-born,Total,Employment rate,2000,Percentage,Units,73.2
+United States,Native-born,Total,Employment rate,2001,Percentage,Units,72.1
+United States,Native-born,Total,Employment rate,2002,Percentage,Units,71
+United States,Native-born,Total,Employment rate,2003,Percentage,Units,70.1
+United States,Native-born,Total,Employment rate,2004,Percentage,Units,70
+United States,Native-born,Total,Employment rate,2005,Percentage,Units,70.2
+United States,Native-born,Total,Employment rate,2006,Percentage,Units,70.5
+United States,Native-born,Total,Employment rate,2007,Percentage,Units,70.3
+United States,Native-born,Total,Employment rate,2008,Percentage,Units,69.4
+United States,Native-born,Total,Employment rate,2009,Percentage,Units,66.1
+United States,Native-born,Total,Employment rate,2010,Percentage,Units,65.2
+United States,Native-born,Total,Employment rate,2011,Percentage,Units,65.1
+United States,Native-born,Total,Employment rate,2012,Percentage,Units,65.6
+United States,Native-born,Total,Employment rate,2013,Percentage,Units,65.7
+United States,Native-born,Total,Employment rate,2014,Percentage,Units,66.5
+United States,Native-born,Total,Employment rate,2015,Percentage,Units,67.2
+United States,Native-born,Total,Employment rate,2016,Percentage,Units,67.9
+United States,Native-born,Total,Employment rate,2017,Percentage,Units,68.5
+United States,Native-born,Total,Employment rate,2018,Percentage,Units,69.2
+United States,Native-born,Total,Employment rate,2019,Percentage,Units,69.8
+United States,Native-born,Total,Unemployment rate,2000,Percentage,Units,4.1
+United States,Native-born,Total,Unemployment rate,2001,Percentage,Units,4.9
+United States,Native-born,Total,Unemployment rate,2002,Percentage,Units,5.9
+United States,Native-born,Total,Unemployment rate,2003,Percentage,Units,6.1
+United States,Native-born,Total,Unemployment rate,2004,Percentage,Units,5.7
+United States,Native-born,Total,Unemployment rate,2005,Percentage,Units,5.3
+United States,Native-born,Total,Unemployment rate,2006,Percentage,Units,4.9
+United States,Native-born,Total,Unemployment rate,2007,Percentage,Units,4.9
+United States,Native-born,Total,Unemployment rate,2008,Percentage,Units,6
+United States,Native-born,Total,Unemployment rate,2009,Percentage,Units,9.4
+United States,Native-born,Total,Unemployment rate,2010,Percentage,Units,9.9
+United States,Native-born,Total,Unemployment rate,2011,Percentage,Units,9.2
+United States,Native-born,Total,Unemployment rate,2012,Percentage,Units,8.3
+United States,Native-born,Total,Unemployment rate,2013,Percentage,Units,7.7
+United States,Native-born,Total,Unemployment rate,2014,Percentage,Units,6.5
+United States,Native-born,Total,Unemployment rate,2015,Percentage,Units,5.6
+United States,Native-born,Total,Unemployment rate,2016,Percentage,Units,5.2
+United States,Native-born,Total,Unemployment rate,2017,Percentage,Units,4.6
+United States,Native-born,Total,Unemployment rate,2018,Percentage,Units,4.1
+United States,Native-born,Total,Unemployment rate,2019,Percentage,Units,3.9
+United States,Native-born,Total,Participation rate,2000,Percentage,Units,76.3
+United States,Native-born,Total,Participation rate,2001,Percentage,Units,75.8
+United States,Native-born,Total,Participation rate,2002,Percentage,Units,75.4
+United States,Native-born,Total,Participation rate,2003,Percentage,Units,74.7
+United States,Native-born,Total,Participation rate,2004,Percentage,Units,74.2
+United States,Native-born,Total,Participation rate,2005,Percentage,Units,74.2
+United States,Native-born,Total,Participation rate,2006,Percentage,Units,74.2
+United States,Native-born,Total,Participation rate,2007,Percentage,Units,73.9
+United States,Native-born,Total,Participation rate,2008,Percentage,Units,73.8
+United States,Native-born,Total,Participation rate,2009,Percentage,Units,73
+United States,Native-born,Total,Participation rate,2010,Percentage,Units,72.3
+United States,Native-born,Total,Participation rate,2011,Percentage,Units,71.7
+United States,Native-born,Total,Participation rate,2012,Percentage,Units,71.5
+United States,Native-born,Total,Participation rate,2013,Percentage,Units,71.2
+United States,Native-born,Total,Participation rate,2014,Percentage,Units,71.1
+United States,Native-born,Total,Participation rate,2015,Percentage,Units,71.1
+United States,Native-born,Total,Participation rate,2016,Percentage,Units,71.5
+United States,Native-born,Total,Participation rate,2017,Percentage,Units,71.8
+United States,Native-born,Total,Participation rate,2018,Percentage,Units,72.2
+United States,Native-born,Total,Participation rate,2019,Percentage,Units,72.7
