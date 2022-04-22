@@ -73,6 +73,26 @@
 
     /*** START CODE HERE ***/
 
+     /*Inputting Data*/
+     d3.csv("data/employment.csv", (row, i) => {
+        return {
+            CN: row.Country,
+            POB: row.Birth,
+            GEN: row.Gender,
+            RATE: row.Rate,
+            YR: +row.Year,
+        };
+    }).then(rows => {
+        rows.sort(function(a,b) { return d3.ascending(a.YR, b.YR); });
+        data = rows;
+        console.log(data);
+    }).catch(error => {
+        console.log(error);
+    });
+
+    
+    
+
 </script>
 
 </body>
