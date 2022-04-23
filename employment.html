@@ -102,20 +102,20 @@
         // Defines and displays x-axis
         var xScale = d3.scaleLinear()
           .domain(d3.extent(data, function(d) { return d.YR; }))
-          .range([ 10, 825 ]);
+          .range([ 13, 825 ]);
 
         var xAxis = d3.axisBottom().scale(xScale).ticks(19).tickFormat(d3.format("d"))
 
         canvas.append("g")
-          .attr("transform", "translate(55, 440)")
+          .attr("transform", "translate(55, 540)")
           .call(xAxis)
 
-        addDefaultText(canvas, 'translate(470, 480)', 'Year');
+        addDefaultText(canvas, 'translate(450, 580)', 'Year');
 
         // Defines and displays y-axis
         var yScale = d3.scaleLinear()
-          .domain([0, 100])
-          .range([ 430, 10]);
+          .domain([50, 100])
+          .range([ 530, 50]);
 
         var yAxis = d3.axisLeft().scale(yScale)
 
@@ -123,21 +123,19 @@
           .attr("transform", "translate(67, 7)")
           .call(yAxis)
 
-        addDefaultText(canvas, 'translate(35,220)rotate(-90)', 'Employment Rate (%)');
+        addDefaultText(canvas, 'translate(35,280)rotate(-90)', 'Employment Rate (%)');
+        addDefaultText(canvas, 'translate(455,30)', 'Employment Rate of Native Born Citizens By Gender');
 
-        // Adds line
-        /*canvas.append("path")
-              .datum(data)
-              .attr("fill", "none")
-              .attr("stroke", "black")
-              .attr("stroke-width", 1.5)
-              .attr("transform", "translate(56, 7)")
-              .attr("d", d3.line()
-                    .x(function(d) { return xScale(d.YR) })
-                    .y(function(d) { return yScale(d.VALUE) })
-              )*/
+        // Plots Data
+        var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
+        var colors = ["red", "orange", "blue", "green", "purple", "gray"]
+        for (let i = 0; i < countries.length; i++){
+            plotLine(canvas, data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == "Total" && d.POB == 'NB') }), xScale, yScale, colors[i])
+        }
 
-        plotLine(canvas, data, xScale, yScale, "black")
+        // Creates Legend
+        makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeLegendRect(canvas, 930, 70, "#A5BE00");
 
     }
 
