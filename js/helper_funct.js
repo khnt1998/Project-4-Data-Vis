@@ -13,9 +13,10 @@ function addDefaultText(canvas, transformation, text){
                       .text(text);
 }
 
-function plotLine(canvas, data, xScale, yScale, color){
+function plotLine(canvas, data, xScale, yScale, color, country){
     return canvas.append("path")
               .datum(data)
+              .attr("class", country)
               .attr("fill", "none")
               .attr("stroke", color)
               .attr("stroke-width", 1.5)
