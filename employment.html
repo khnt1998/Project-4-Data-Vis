@@ -95,7 +95,6 @@
         console.log(error);
     });
 
-
     // Creates Structure
     function createGenderChart(data){
         var canvas = makeCanvas("#vis_1");
@@ -127,7 +126,7 @@
         addDefaultText(canvas, 'translate(35,220)rotate(-90)', 'Employment Rate (%)');
 
         // Adds line
-        canvas.append("path")
+        /*canvas.append("path")
               .datum(data)
               .attr("fill", "none")
               .attr("stroke", "black")
@@ -136,7 +135,10 @@
               .attr("d", d3.line()
                     .x(function(d) { return xScale(d.YR) })
                     .y(function(d) { return yScale(d.VALUE) })
-              )
+              )*/
+
+        plotLine(canvas, data, xScale, yScale, "black")
+
     }
 
     function createNativeForeignChart(data){
