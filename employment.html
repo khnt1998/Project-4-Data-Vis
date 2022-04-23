@@ -101,10 +101,10 @@
           .domain(d3.extent(data, function(d) { return d.YR; }))
           .range([ 10, 825 ]);
 
-        var xAxis = d3.axisBottom().scale(xScale)
+        var xAxis = d3.axisBottom().scale(xScale).ticks(19)
 
         canvas.append("g")
-          .attr("transform", "translate(60, 440)")
+          .attr("transform", "translate(55, 440)")
           .call(xAxis)
 
         addDefaultText(canvas, 'translate(470, 480)', 'Year');
@@ -122,6 +122,16 @@
 
         addDefaultText(canvas, 'translate(35,220)rotate(-90)', 'Unemployment Rate (%)');
 
+        // Adds line
+        canvas.append("path")
+              .datum(data)
+              .attr("fill", "none")
+              .attr("stroke", "black")
+              .attr("stroke-width", 1.5)
+              .attr("d", d3.line()
+                    .x(function(d) { return xScale(d.YR) })
+                    .y(function(d) { return yScale(d.VALUE * 100) })
+              )
     }
     
 
