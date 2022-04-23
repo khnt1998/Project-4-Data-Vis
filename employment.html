@@ -60,6 +60,9 @@
     <div><svg id="vis_1" name="vis_1" class="default_svg"></svg></div>
     <button type="button" id="buttonName" onclick="update('var1')">Male</button>
     <button type="button" id="buttonName2" onclick="update('var2')">Female</button>
+    <button type="button" id="buttonName6" onclick>Total</button>
+
+    <div><svg id="vis_2" name="vis_2" class="default_svg"></svg></div>
     <button type="button" id="buttonName3" onclick>Foreign-born</button>
     <button type="button" id="buttonName4" onclick>Native-born</button>
     <button type="button" id="buttonName5" onclick>Total</button>
@@ -73,7 +76,7 @@
 <script>
 
      /*Inputting Data*/
-     d3.csv("data/employment.csv", (row, i) => {
+     d3.csv("data/employment1.csv", (row, i) => {
         return {
             CN: row.Country,
             POB: row.Birth,
@@ -86,7 +89,8 @@
         rows.sort(function(a,b) { return d3.ascending(a.YR, b.YR); });
         data = rows;
         console.log("Successful loading\n", data);
-        createChart(rows)
+        createGenderChart(rows)
+        createNativeForeignChart(rows)
     }).catch(error => {
         console.log(error);
     });
@@ -94,7 +98,7 @@
 
 
     // Creates Structure
-    function createChart(){
+    function createGenderChart(){
         var canvas = makeCanvas("#vis_1");
 
         // Defines and displays x-axis
@@ -121,7 +125,7 @@
           .attr("transform", "translate(67, 7)")
           .call(yAxis)
 
-        addDefaultText(canvas, 'translate(35,220)rotate(-90)', 'Unemployment Rate (%)');
+        addDefaultText(canvas, 'translate(35,220)rotate(-90)', 'Employment Rate (%)');
 
         // Adds line
         canvas.append("path")
@@ -135,7 +139,11 @@
                     .y(function(d) { return yScale(d.VALUE) })
               )
     }
-    
+
+    function createNativeForeignChart(data){
+
+
+    }
 
 </script>
 
