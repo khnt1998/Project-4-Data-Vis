@@ -101,7 +101,7 @@
           .domain(d3.extent(data, function(d) { return d.YR; }))
           .range([ 10, 825 ]);
 
-        var xAxis = d3.axisBottom().scale(xScale).ticks(19)
+        var xAxis = d3.axisBottom().scale(xScale).ticks(19).tickFormat(d3.format("d"))
 
         canvas.append("g")
           .attr("transform", "translate(55, 440)")
