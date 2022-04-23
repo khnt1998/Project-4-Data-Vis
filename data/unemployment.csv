@@ -1,0 +1,791 @@
+﻿Country,Birth,Gender,Rate,Year,Value
+Canada,FB,Men,Unemployment rate,2008,6.8
+Canada,FB,Men,Unemployment rate,2009,10.6
+Canada,FB,Men,Unemployment rate,2010,9.9
+Canada,FB,Men,Unemployment rate,2011,8.3
+Canada,FB,Men,Unemployment rate,2012,8.2
+Canada,FB,Men,Unemployment rate,2013,8
+Canada,FB,Men,Unemployment rate,2014,7.5
+Canada,FB,Men,Unemployment rate,2015,6.9
+Canada,FB,Men,Unemployment rate,2016,7.4
+Canada,FB,Men,Unemployment rate,2017,6.3
+Canada,FB,Men,Unemployment rate,2018,6
+Canada,FB,Men,Unemployment rate,2019,5.9
+Canada,FB,Women,Unemployment rate,2008,7.3
+Canada,FB,Women,Unemployment rate,2009,9.6
+Canada,FB,Women,Unemployment rate,2010,9.7
+Canada,FB,Women,Unemployment rate,2011,9.3
+Canada,FB,Women,Unemployment rate,2012,8.7
+Canada,FB,Women,Unemployment rate,2013,8.4
+Canada,FB,Women,Unemployment rate,2014,8.4
+Canada,FB,Women,Unemployment rate,2015,8.1
+Canada,FB,Women,Unemployment rate,2016,7.9
+Canada,FB,Women,Unemployment rate,2017,7.3
+Canada,FB,Women,Unemployment rate,2018,6.7
+Canada,FB,Women,Unemployment rate,2019,6.7
+Canada,FB,Total,Unemployment rate,2008,7
+Canada,FB,Total,Unemployment rate,2009,10.1
+Canada,FB,Total,Unemployment rate,2010,9.8
+Canada,FB,Total,Unemployment rate,2011,8.8
+Canada,FB,Total,Unemployment rate,2012,8.4
+Canada,FB,Total,Unemployment rate,2013,8.2
+Canada,FB,Total,Unemployment rate,2014,8
+Canada,FB,Total,Unemployment rate,2015,7.5
+Canada,FB,Total,Unemployment rate,2016,7.6
+Canada,FB,Total,Unemployment rate,2017,6.8
+Canada,FB,Total,Unemployment rate,2018,6.4
+Canada,FB,Total,Unemployment rate,2019,6.3
+France,FB,Men,Unemployment rate,2000,14.5
+France,FB,Men,Unemployment rate,2001,12.5
+France,FB,Men,Unemployment rate,2002,13.6
+France,FB,Men,Unemployment rate,2003,14.8
+France,FB,Men,Unemployment rate,2004,12.5
+France,FB,Men,Unemployment rate,2005,12.4
+France,FB,Men,Unemployment rate,2006,12.7
+France,FB,Men,Unemployment rate,2007,11.9
+France,FB,Men,Unemployment rate,2008,11.5
+France,FB,Men,Unemployment rate,2009,15.2
+France,FB,Men,Unemployment rate,2010,14
+France,FB,Men,Unemployment rate,2011,14.3
+France,FB,Men,Unemployment rate,2012,14.8
+France,FB,Men,Unemployment rate,2013,16
+France,FB,Men,Unemployment rate,2014,16.7
+France,FB,Men,Unemployment rate,2015,17.8
+France,FB,Men,Unemployment rate,2016,16.4
+France,FB,Men,Unemployment rate,2017,14.9
+France,FB,Men,Unemployment rate,2018,13.8
+France,FB,Men,Unemployment rate,2019,12.4
+France,FB,Women,Unemployment rate,2000,19.7
+France,FB,Women,Unemployment rate,2001,16.6
+France,FB,Women,Unemployment rate,2002,15
+France,FB,Women,Unemployment rate,2003,15.3
+France,FB,Women,Unemployment rate,2004,16.7
+France,FB,Women,Unemployment rate,2005,16.8
+France,FB,Women,Unemployment rate,2006,16.2
+France,FB,Women,Unemployment rate,2007,14.5
+France,FB,Women,Unemployment rate,2008,12.7
+France,FB,Women,Unemployment rate,2009,14.9
+France,FB,Women,Unemployment rate,2010,15.1
+France,FB,Women,Unemployment rate,2011,16.6
+France,FB,Women,Unemployment rate,2012,15
+France,FB,Women,Unemployment rate,2013,16.5
+France,FB,Women,Unemployment rate,2014,16.4
+France,FB,Women,Unemployment rate,2015,16.8
+France,FB,Women,Unemployment rate,2016,17
+France,FB,Women,Unemployment rate,2017,16
+France,FB,Women,Unemployment rate,2018,15.6
+France,FB,Women,Unemployment rate,2019,13.9
+France,FB,Total,Unemployment rate,2000,16.7
+France,FB,Total,Unemployment rate,2001,14.2
+France,FB,Total,Unemployment rate,2002,14.2
+France,FB,Total,Unemployment rate,2003,15
+France,FB,Total,Unemployment rate,2004,14.4
+France,FB,Total,Unemployment rate,2005,14.4
+France,FB,Total,Unemployment rate,2006,14.2
+France,FB,Total,Unemployment rate,2007,13.1
+France,FB,Total,Unemployment rate,2008,12
+France,FB,Total,Unemployment rate,2009,15.1
+France,FB,Total,Unemployment rate,2010,14.5
+France,FB,Total,Unemployment rate,2011,15.4
+France,FB,Total,Unemployment rate,2012,14.9
+France,FB,Total,Unemployment rate,2013,16.2
+France,FB,Total,Unemployment rate,2014,16.6
+France,FB,Total,Unemployment rate,2015,17.3
+France,FB,Total,Unemployment rate,2016,16.7
+France,FB,Total,Unemployment rate,2017,15.4
+France,FB,Total,Unemployment rate,2018,14.6
+France,FB,Total,Unemployment rate,2019,13.1
+Germany,FB,Men,Unemployment rate,2000,11
+Germany,FB,Men,Unemployment rate,2001,10.2
+Germany,FB,Men,Unemployment rate,2002,11.2
+Germany,FB,Men,Unemployment rate,2003,14.2
+Germany,FB,Men,Unemployment rate,2004,15.7
+Germany,FB,Men,Unemployment rate,2005,17.9
+Germany,FB,Men,Unemployment rate,2006,17
+Germany,FB,Men,Unemployment rate,2007,15.2
+Germany,FB,Men,Unemployment rate,2008,11.8
+Germany,FB,Men,Unemployment rate,2009,14.2
+Germany,FB,Men,Unemployment rate,2010,11.3
+Germany,FB,Men,Unemployment rate,2011,8.7
+Germany,FB,Men,Unemployment rate,2012,8.7
+Germany,FB,Men,Unemployment rate,2013,8.3
+Germany,FB,Men,Unemployment rate,2014,8.3
+Germany,FB,Men,Unemployment rate,2015,8.1
+Germany,FB,Men,Unemployment rate,2016,7.3
+Germany,FB,Men,Unemployment rate,2017,7.1
+Germany,FB,Men,Unemployment rate,2018,6.6
+Germany,FB,Men,Unemployment rate,2019,6.1
+Germany,FB,Women,Unemployment rate,2000,10
+Germany,FB,Women,Unemployment rate,2001,9.4
+Germany,FB,Women,Unemployment rate,2002,9.5
+Germany,FB,Women,Unemployment rate,2003,11.6
+Germany,FB,Women,Unemployment rate,2004,13
+Germany,FB,Women,Unemployment rate,2005,16.9
+Germany,FB,Women,Unemployment rate,2006,16.5
+Germany,FB,Women,Unemployment rate,2007,13.8
+Germany,FB,Women,Unemployment rate,2008,13
+Germany,FB,Women,Unemployment rate,2009,11.8
+Germany,FB,Women,Unemployment rate,2010,10.1
+Germany,FB,Women,Unemployment rate,2011,9.1
+Germany,FB,Women,Unemployment rate,2012,8.2
+Germany,FB,Women,Unemployment rate,2013,7.9
+Germany,FB,Women,Unemployment rate,2014,7.4
+Germany,FB,Women,Unemployment rate,2015,7.3
+Germany,FB,Women,Unemployment rate,2016,6.2
+Germany,FB,Women,Unemployment rate,2017,5.4
+Germany,FB,Women,Unemployment rate,2018,5.1
+Germany,FB,Women,Unemployment rate,2019,4.9
+Germany,FB,Total,Unemployment rate,2000,10.6
+Germany,FB,Total,Unemployment rate,2001,9.8
+Germany,FB,Total,Unemployment rate,2002,10.5
+Germany,FB,Total,Unemployment rate,2003,13.1
+Germany,FB,Total,Unemployment rate,2004,14.5
+Germany,FB,Total,Unemployment rate,2005,17.5
+Germany,FB,Total,Unemployment rate,2006,16.7
+Germany,FB,Total,Unemployment rate,2007,14.6
+Germany,FB,Total,Unemployment rate,2008,12.3
+Germany,FB,Total,Unemployment rate,2009,13.1
+Germany,FB,Total,Unemployment rate,2010,10.8
+Germany,FB,Total,Unemployment rate,2011,8.9
+Germany,FB,Total,Unemployment rate,2012,8.5
+Germany,FB,Total,Unemployment rate,2013,8.1
+Germany,FB,Total,Unemployment rate,2014,7.9
+Germany,FB,Total,Unemployment rate,2015,7.7
+Germany,FB,Total,Unemployment rate,2016,6.8
+Germany,FB,Total,Unemployment rate,2017,6.4
+Germany,FB,Total,Unemployment rate,2018,6
+Germany,FB,Total,Unemployment rate,2019,5.6
+Hungary,FB,Men,Unemployment rate,2000,3.5
+Hungary,FB,Men,Unemployment rate,2001,1.3
+Hungary,FB,Men,Unemployment rate,2002,3.5
+Hungary,FB,Men,Unemployment rate,2003,2.2
+Hungary,FB,Men,Unemployment rate,2004,2
+Hungary,FB,Men,Unemployment rate,2005,3
+Hungary,FB,Men,Unemployment rate,2006,4.1
+Hungary,FB,Men,Unemployment rate,2007,2.6
+Hungary,FB,Men,Unemployment rate,2008,6.3
+Hungary,FB,Men,Unemployment rate,2009,8.6
+Hungary,FB,Men,Unemployment rate,2010,7.6
+Hungary,FB,Men,Unemployment rate,2011,8.9
+Hungary,FB,Men,Unemployment rate,2012,9.8
+Hungary,FB,Men,Unemployment rate,2013,7.4
+Hungary,FB,Men,Unemployment rate,2014,4
+Hungary,FB,Men,Unemployment rate,2015,5.2
+Hungary,FB,Men,Unemployment rate,2016,5.1
+Hungary,FB,Men,Unemployment rate,2018,4.3
+Hungary,FB,Men,Unemployment rate,2019,2.6
+Hungary,FB,Women,Unemployment rate,2000,4.8
+Hungary,FB,Women,Unemployment rate,2001,8.2
+Hungary,FB,Women,Unemployment rate,2002,7.1
+Hungary,FB,Women,Unemployment rate,2003,4.4
+Hungary,FB,Women,Unemployment rate,2004,6.4
+Hungary,FB,Women,Unemployment rate,2005,6.4
+Hungary,FB,Women,Unemployment rate,2006,10.3
+Hungary,FB,Women,Unemployment rate,2007,6.1
+Hungary,FB,Women,Unemployment rate,2008,5.9
+Hungary,FB,Women,Unemployment rate,2009,9.6
+Hungary,FB,Women,Unemployment rate,2010,7.4
+Hungary,FB,Women,Unemployment rate,2011,10.1
+Hungary,FB,Women,Unemployment rate,2012,9.2
+Hungary,FB,Women,Unemployment rate,2013,12.8
+Hungary,FB,Women,Unemployment rate,2014,8.3
+Hungary,FB,Women,Unemployment rate,2015,8.7
+Hungary,FB,Women,Unemployment rate,2016,6.6
+Hungary,FB,Women,Unemployment rate,2018,4.9
+Hungary,FB,Women,Unemployment rate,2019,2.9
+Hungary,FB,Total,Unemployment rate,2000,4.1
+Hungary,FB,Total,Unemployment rate,2001,4.7
+Hungary,FB,Total,Unemployment rate,2002,5.1
+Hungary,FB,Total,Unemployment rate,2003,3.3
+Hungary,FB,Total,Unemployment rate,2004,4.1
+Hungary,FB,Total,Unemployment rate,2005,4.6
+Hungary,FB,Total,Unemployment rate,2006,7
+Hungary,FB,Total,Unemployment rate,2007,4.3
+Hungary,FB,Total,Unemployment rate,2008,6.1
+Hungary,FB,Total,Unemployment rate,2009,9.1
+Hungary,FB,Total,Unemployment rate,2010,7.5
+Hungary,FB,Total,Unemployment rate,2011,9.5
+Hungary,FB,Total,Unemployment rate,2012,9.5
+Hungary,FB,Total,Unemployment rate,2013,9.9
+Hungary,FB,Total,Unemployment rate,2014,6
+Hungary,FB,Total,Unemployment rate,2015,6.8
+Hungary,FB,Total,Unemployment rate,2016,5.8
+Hungary,FB,Total,Unemployment rate,2017,3.4
+Hungary,FB,Total,Unemployment rate,2018,4.6
+Hungary,FB,Total,Unemployment rate,2019,2.7
+Italy,FB,Men,Unemployment rate,2000,6.9
+Italy,FB,Men,Unemployment rate,2001,7.8
+Italy,FB,Men,Unemployment rate,2002,4.8
+Italy,FB,Men,Unemployment rate,2003,3.8
+Italy,FB,Men,Unemployment rate,2004,6.2
+Italy,FB,Men,Unemployment rate,2005,6.8
+Italy,FB,Men,Unemployment rate,2006,5.7
+Italy,FB,Men,Unemployment rate,2007,5.3
+Italy,FB,Men,Unemployment rate,2008,5.9
+Italy,FB,Men,Unemployment rate,2009,9.4
+Italy,FB,Men,Unemployment rate,2010,10
+Italy,FB,Men,Unemployment rate,2011,9.7
+Italy,FB,Men,Unemployment rate,2012,12.4
+Italy,FB,Men,Unemployment rate,2013,15.9
+Italy,FB,Men,Unemployment rate,2014,15.6
+Italy,FB,Men,Unemployment rate,2015,14.5
+Italy,FB,Men,Unemployment rate,2016,13.2
+Italy,FB,Men,Unemployment rate,2017,12.6
+Italy,FB,Men,Unemployment rate,2018,11.9
+Italy,FB,Men,Unemployment rate,2019,11
+Italy,FB,Women,Unemployment rate,2000,21.1
+Italy,FB,Women,Unemployment rate,2001,21.4
+Italy,FB,Women,Unemployment rate,2002,15.1
+Italy,FB,Women,Unemployment rate,2003,10.6
+Italy,FB,Women,Unemployment rate,2004,13.2
+Italy,FB,Women,Unemployment rate,2005,14.5
+Italy,FB,Women,Unemployment rate,2006,12.4
+Italy,FB,Women,Unemployment rate,2007,11.4
+Italy,FB,Women,Unemployment rate,2008,11.8
+Italy,FB,Women,Unemployment rate,2009,13
+Italy,FB,Women,Unemployment rate,2010,13.3
+Italy,FB,Women,Unemployment rate,2011,14.1
+Italy,FB,Women,Unemployment rate,2012,15.5
+Italy,FB,Women,Unemployment rate,2013,17.5
+Italy,FB,Women,Unemployment rate,2014,17.4
+Italy,FB,Women,Unemployment rate,2015,17
+Italy,FB,Women,Unemployment rate,2016,16.9
+Italy,FB,Women,Unemployment rate,2017,16.1
+Italy,FB,Women,Unemployment rate,2018,15.8
+Italy,FB,Women,Unemployment rate,2019,15.6
+Italy,FB,Total,Unemployment rate,2000,12.2
+Italy,FB,Total,Unemployment rate,2001,13
+Italy,FB,Total,Unemployment rate,2002,8.8
+Italy,FB,Total,Unemployment rate,2003,6.4
+Italy,FB,Total,Unemployment rate,2004,9.2
+Italy,FB,Total,Unemployment rate,2005,10
+Italy,FB,Total,Unemployment rate,2006,8.5
+Italy,FB,Total,Unemployment rate,2007,7.9
+Italy,FB,Total,Unemployment rate,2008,8.5
+Italy,FB,Total,Unemployment rate,2009,11
+Italy,FB,Total,Unemployment rate,2010,11.5
+Italy,FB,Total,Unemployment rate,2011,11.7
+Italy,FB,Total,Unemployment rate,2012,13.8
+Italy,FB,Total,Unemployment rate,2013,16.7
+Italy,FB,Total,Unemployment rate,2014,16.4
+Italy,FB,Total,Unemployment rate,2015,15.7
+Italy,FB,Total,Unemployment rate,2016,14.9
+Italy,FB,Total,Unemployment rate,2017,14.2
+Italy,FB,Total,Unemployment rate,2018,13.7
+Italy,FB,Total,Unemployment rate,2019,13.1
+United Kingdom,FB,Men,Unemployment rate,2000,9.7
+United Kingdom,FB,Men,Unemployment rate,2001,7.6
+United Kingdom,FB,Men,Unemployment rate,2002,8.3
+United Kingdom,FB,Men,Unemployment rate,2003,8.3
+United Kingdom,FB,Men,Unemployment rate,2004,7.4
+United Kingdom,FB,Men,Unemployment rate,2005,7.5
+United Kingdom,FB,Men,Unemployment rate,2006,7.4
+United Kingdom,FB,Men,Unemployment rate,2007,6.9
+United Kingdom,FB,Men,Unemployment rate,2008,6.8
+United Kingdom,FB,Men,Unemployment rate,2009,8.4
+United Kingdom,FB,Men,Unemployment rate,2010,7.7
+United Kingdom,FB,Men,Unemployment rate,2011,9.3
+United Kingdom,FB,Men,Unemployment rate,2012,8.3
+United Kingdom,FB,Men,Unemployment rate,2013,8.1
+United Kingdom,FB,Men,Unemployment rate,2014,6.1
+United Kingdom,FB,Men,Unemployment rate,2015,5.7
+United Kingdom,FB,Men,Unemployment rate,2016,4.7
+United Kingdom,FB,Men,Unemployment rate,2017,3.9
+United Kingdom,FB,Men,Unemployment rate,2018,3.9
+United Kingdom,FB,Men,Unemployment rate,2019,3.7
+United Kingdom,FB,Women,Unemployment rate,2000,7.9
+United Kingdom,FB,Women,Unemployment rate,2001,6.8
+United Kingdom,FB,Women,Unemployment rate,2002,6.8
+United Kingdom,FB,Women,Unemployment rate,2003,6.3
+United Kingdom,FB,Women,Unemployment rate,2004,7.4
+United Kingdom,FB,Women,Unemployment rate,2005,7.1
+United Kingdom,FB,Women,Unemployment rate,2006,7.9
+United Kingdom,FB,Women,Unemployment rate,2007,8.6
+United Kingdom,FB,Women,Unemployment rate,2008,6.6
+United Kingdom,FB,Women,Unemployment rate,2009,8.5
+United Kingdom,FB,Women,Unemployment rate,2010,8.5
+United Kingdom,FB,Women,Unemployment rate,2011,9.7
+United Kingdom,FB,Women,Unemployment rate,2012,10.6
+United Kingdom,FB,Women,Unemployment rate,2013,9.8
+United Kingdom,FB,Women,Unemployment rate,2014,8.2
+United Kingdom,FB,Women,Unemployment rate,2015,7.3
+United Kingdom,FB,Women,Unemployment rate,2016,6.6
+United Kingdom,FB,Women,Unemployment rate,2017,6.5
+United Kingdom,FB,Women,Unemployment rate,2018,5.6
+United Kingdom,FB,Women,Unemployment rate,2019,4.9
+United Kingdom,FB,Total,Unemployment rate,2000,8.9
+United Kingdom,FB,Total,Unemployment rate,2001,7.3
+United Kingdom,FB,Total,Unemployment rate,2002,7.6
+United Kingdom,FB,Total,Unemployment rate,2003,7.4
+United Kingdom,FB,Total,Unemployment rate,2004,7.4
+United Kingdom,FB,Total,Unemployment rate,2005,7.3
+United Kingdom,FB,Total,Unemployment rate,2006,7.6
+United Kingdom,FB,Total,Unemployment rate,2007,7.6
+United Kingdom,FB,Total,Unemployment rate,2008,6.7
+United Kingdom,FB,Total,Unemployment rate,2009,8.4
+United Kingdom,FB,Total,Unemployment rate,2010,8
+United Kingdom,FB,Total,Unemployment rate,2011,9.5
+United Kingdom,FB,Total,Unemployment rate,2012,9.3
+United Kingdom,FB,Total,Unemployment rate,2013,8.9
+United Kingdom,FB,Total,Unemployment rate,2014,7.1
+United Kingdom,FB,Total,Unemployment rate,2015,6.4
+United Kingdom,FB,Total,Unemployment rate,2016,5.5
+United Kingdom,FB,Total,Unemployment rate,2017,5.1
+United Kingdom,FB,Total,Unemployment rate,2018,4.7
+United Kingdom,FB,Total,Unemployment rate,2019,4.3
+United States,FB,Men,Unemployment rate,2000,3.8
+United States,FB,Men,Unemployment rate,2001,4.8
+United States,FB,Men,Unemployment rate,2002,6
+United States,FB,Men,Unemployment rate,2003,6.3
+United States,FB,Men,Unemployment rate,2004,5.1
+United States,FB,Men,Unemployment rate,2005,4.3
+United States,FB,Men,Unemployment rate,2006,3.8
+United States,FB,Men,Unemployment rate,2007,4.1
+United States,FB,Men,Unemployment rate,2008,5.7
+United States,FB,Men,Unemployment rate,2009,10.1
+United States,FB,Men,Unemployment rate,2010,10
+United States,FB,Men,Unemployment rate,2011,8.9
+United States,FB,Men,Unemployment rate,2012,7.5
+United States,FB,Men,Unemployment rate,2013,6.5
+United States,FB,Men,Unemployment rate,2014,5.1
+United States,FB,Men,Unemployment rate,2015,4.4
+United States,FB,Men,Unemployment rate,2016,3.8
+United States,FB,Men,Unemployment rate,2017,3.5
+United States,FB,Men,Unemployment rate,2018,3
+United States,FB,Men,Unemployment rate,2019,2.7
+United States,FB,Women,Unemployment rate,2000,5
+United States,FB,Women,Unemployment rate,2001,6.1
+United States,FB,Women,Unemployment rate,2002,7.1
+United States,FB,Women,Unemployment rate,2003,7.2
+United States,FB,Women,Unemployment rate,2004,6.3
+United States,FB,Women,Unemployment rate,2005,5.6
+United States,FB,Women,Unemployment rate,2006,4.8
+United States,FB,Women,Unemployment rate,2007,4.7
+United States,FB,Women,Unemployment rate,2008,6
+United States,FB,Women,Unemployment rate,2009,9.2
+United States,FB,Women,Unemployment rate,2010,9.5
+United States,FB,Women,Unemployment rate,2011,9.5
+United States,FB,Women,Unemployment rate,2012,9
+United States,FB,Women,Unemployment rate,2013,7.6
+United States,FB,Women,Unemployment rate,2014,6.6
+United States,FB,Women,Unemployment rate,2015,5.7
+United States,FB,Women,Unemployment rate,2016,5.2
+United States,FB,Women,Unemployment rate,2017,4.7
+United States,FB,Women,Unemployment rate,2018,4.2
+United States,FB,Women,Unemployment rate,2019,3.7
+United States,FB,Total,Unemployment rate,2000,4.3
+United States,FB,Total,Unemployment rate,2001,5.4
+United States,FB,Total,Unemployment rate,2002,6.4
+United States,FB,Total,Unemployment rate,2003,6.6
+United States,FB,Total,Unemployment rate,2004,5.6
+United States,FB,Total,Unemployment rate,2005,4.8
+United States,FB,Total,Unemployment rate,2006,4.2
+United States,FB,Total,Unemployment rate,2007,4.4
+United States,FB,Total,Unemployment rate,2008,5.9
+United States,FB,Total,Unemployment rate,2009,9.7
+United States,FB,Total,Unemployment rate,2010,9.8
+United States,FB,Total,Unemployment rate,2011,9.1
+United States,FB,Total,Unemployment rate,2012,8.1
+United States,FB,Total,Unemployment rate,2013,7
+United States,FB,Total,Unemployment rate,2014,5.8
+United States,FB,Total,Unemployment rate,2015,5
+United States,FB,Total,Unemployment rate,2016,4.3
+United States,FB,Total,Unemployment rate,2017,4
+United States,FB,Total,Unemployment rate,2018,3.5
+United States,FB,Total,Unemployment rate,2019,3.1
+Canada,NB,Men,Unemployment rate,2008,6.6
+Canada,NB,Men,Unemployment rate,2009,9.4
+Canada,NB,Men,Unemployment rate,2010,8.6
+Canada,NB,Men,Unemployment rate,2011,8
+Canada,NB,Men,Unemployment rate,2012,7.7
+Canada,NB,Men,Unemployment rate,2013,7.5
+Canada,NB,Men,Unemployment rate,2014,7.5
+Canada,NB,Men,Unemployment rate,2015,7.8
+Canada,NB,Men,Unemployment rate,2016,7.9
+Canada,NB,Men,Unemployment rate,2017,7
+Canada,NB,Men,Unemployment rate,2018,6.3
+Canada,NB,Men,Unemployment rate,2019,6.2
+Canada,NB,Women,Unemployment rate,2008,5.2
+Canada,NB,Women,Unemployment rate,2009,6.4
+Canada,NB,Women,Unemployment rate,2010,6.6
+Canada,NB,Women,Unemployment rate,2011,6.4
+Canada,NB,Women,Unemployment rate,2012,6.4
+Canada,NB,Women,Unemployment rate,2013,6.2
+Canada,NB,Women,Unemployment rate,2014,5.9
+Canada,NB,Women,Unemployment rate,2015,5.8
+Canada,NB,Women,Unemployment rate,2016,5.9
+Canada,NB,Women,Unemployment rate,2017,5.4
+Canada,NB,Women,Unemployment rate,2018,5.1
+Canada,NB,Women,Unemployment rate,2019,4.8
+Canada,NB,Total,Unemployment rate,2008,6
+Canada,NB,Total,Unemployment rate,2009,8
+Canada,NB,Total,Unemployment rate,2010,7.7
+Canada,NB,Total,Unemployment rate,2011,7.2
+Canada,NB,Total,Unemployment rate,2012,7.1
+Canada,NB,Total,Unemployment rate,2013,6.9
+Canada,NB,Total,Unemployment rate,2014,6.8
+Canada,NB,Total,Unemployment rate,2015,6.9
+Canada,NB,Total,Unemployment rate,2016,6.9
+Canada,NB,Total,Unemployment rate,2017,6.3
+Canada,NB,Total,Unemployment rate,2018,5.7
+Canada,NB,Total,Unemployment rate,2019,5.5
+France,NB,Men,Unemployment rate,2000,7.7
+France,NB,Men,Unemployment rate,2001,6.2
+France,NB,Men,Unemployment rate,2002,7
+France,NB,Men,Unemployment rate,2003,6.8
+France,NB,Men,Unemployment rate,2004,7.7
+France,NB,Men,Unemployment rate,2005,7.5
+France,NB,Men,Unemployment rate,2006,7.7
+France,NB,Men,Unemployment rate,2007,6.9
+France,NB,Men,Unemployment rate,2008,6.3
+France,NB,Men,Unemployment rate,2009,8.5
+France,NB,Men,Unemployment rate,2010,8.4
+France,NB,Men,Unemployment rate,2011,8.3
+France,NB,Men,Unemployment rate,2012,8.7
+France,NB,Men,Unemployment rate,2013,9.2
+France,NB,Men,Unemployment rate,2014,9.8
+France,NB,Men,Unemployment rate,2015,9.9
+France,NB,Men,Unemployment rate,2016,9.5
+France,NB,Men,Unemployment rate,2017,8.7
+France,NB,Men,Unemployment rate,2018,8.4
+France,NB,Men,Unemployment rate,2019,8
+France,NB,Women,Unemployment rate,2000,11.3
+France,NB,Women,Unemployment rate,2001,9.8
+France,NB,Women,Unemployment rate,2002,9.2
+France,NB,Women,Unemployment rate,2003,8.9
+France,NB,Women,Unemployment rate,2004,9.6
+France,NB,Women,Unemployment rate,2005,9
+France,NB,Women,Unemployment rate,2006,9.2
+France,NB,Women,Unemployment rate,2007,8.1
+France,NB,Women,Unemployment rate,2008,7.8
+France,NB,Women,Unemployment rate,2009,9.2
+France,NB,Women,Unemployment rate,2010,8.7
+France,NB,Women,Unemployment rate,2011,8.9
+France,NB,Women,Unemployment rate,2012,8.7
+France,NB,Women,Unemployment rate,2013,8.9
+France,NB,Women,Unemployment rate,2014,9.2
+France,NB,Women,Unemployment rate,2015,9
+France,NB,Women,Unemployment rate,2016,9
+France,NB,Women,Unemployment rate,2017,8.5
+France,NB,Women,Unemployment rate,2018,8.3
+France,NB,Women,Unemployment rate,2019,7.7
+France,NB,Total,Unemployment rate,2000,9.4
+France,NB,Total,Unemployment rate,2001,7.9
+France,NB,Total,Unemployment rate,2002,8
+France,NB,Total,Unemployment rate,2003,7.8
+France,NB,Total,Unemployment rate,2004,8.6
+France,NB,Total,Unemployment rate,2005,8.2
+France,NB,Total,Unemployment rate,2006,8.4
+France,NB,Total,Unemployment rate,2007,7.4
+France,NB,Total,Unemployment rate,2008,7
+France,NB,Total,Unemployment rate,2009,8.8
+France,NB,Total,Unemployment rate,2010,8.6
+France,NB,Total,Unemployment rate,2011,8.6
+France,NB,Total,Unemployment rate,2012,8.7
+France,NB,Total,Unemployment rate,2013,9.1
+France,NB,Total,Unemployment rate,2014,9.5
+France,NB,Total,Unemployment rate,2015,9.5
+France,NB,Total,Unemployment rate,2016,9.2
+France,NB,Total,Unemployment rate,2017,8.6
+France,NB,Total,Unemployment rate,2018,8.3
+France,NB,Total,Unemployment rate,2019,7.8
+Germany,NB,Men,Unemployment rate,2000,6.9
+Germany,NB,Men,Unemployment rate,2001,7.3
+Germany,NB,Men,Unemployment rate,2002,8.1
+Germany,NB,Men,Unemployment rate,2003,9.2
+Germany,NB,Men,Unemployment rate,2004,10.2
+Germany,NB,Men,Unemployment rate,2005,10.1
+Germany,NB,Men,Unemployment rate,2006,9.3
+Germany,NB,Men,Unemployment rate,2007,7.6
+Germany,NB,Men,Unemployment rate,2008,6.5
+Germany,NB,Men,Unemployment rate,2009,7.2
+Germany,NB,Men,Unemployment rate,2010,7
+Germany,NB,Men,Unemployment rate,2011,5.9
+Germany,NB,Men,Unemployment rate,2012,5.1
+Germany,NB,Men,Unemployment rate,2013,5.1
+Germany,NB,Men,Unemployment rate,2014,4.8
+Germany,NB,Men,Unemployment rate,2015,4.5
+Germany,NB,Men,Unemployment rate,2016,3.9
+Germany,NB,Men,Unemployment rate,2017,3.5
+Germany,NB,Men,Unemployment rate,2018,3.2
+Germany,NB,Men,Unemployment rate,2019,2.9
+Germany,NB,Women,Unemployment rate,2000,8
+Germany,NB,Women,Unemployment rate,2001,7.5
+Germany,NB,Women,Unemployment rate,2002,7.9
+Germany,NB,Women,Unemployment rate,2003,8.8
+Germany,NB,Women,Unemployment rate,2004,9.5
+Germany,NB,Women,Unemployment rate,2005,9.9
+Germany,NB,Women,Unemployment rate,2006,9.4
+Germany,NB,Women,Unemployment rate,2007,8
+Germany,NB,Women,Unemployment rate,2008,6.8
+Germany,NB,Women,Unemployment rate,2009,6.8
+Germany,NB,Women,Unemployment rate,2010,6.1
+Germany,NB,Women,Unemployment rate,2011,5.2
+Germany,NB,Women,Unemployment rate,2012,4.7
+Germany,NB,Women,Unemployment rate,2013,4.5
+Germany,NB,Women,Unemployment rate,2014,4.2
+Germany,NB,Women,Unemployment rate,2015,3.7
+Germany,NB,Women,Unemployment rate,2016,3.3
+Germany,NB,Women,Unemployment rate,2017,2.9
+Germany,NB,Women,Unemployment rate,2018,2.5
+Germany,NB,Women,Unemployment rate,2019,2.3
+Germany,NB,Total,Unemployment rate,2000,7.4
+Germany,NB,Total,Unemployment rate,2001,7.4
+Germany,NB,Total,Unemployment rate,2002,8
+Germany,NB,Total,Unemployment rate,2003,9
+Germany,NB,Total,Unemployment rate,2004,9.9
+Germany,NB,Total,Unemployment rate,2005,10
+Germany,NB,Total,Unemployment rate,2006,9.3
+Germany,NB,Total,Unemployment rate,2007,7.8
+Germany,NB,Total,Unemployment rate,2008,6.6
+Germany,NB,Total,Unemployment rate,2009,7
+Germany,NB,Total,Unemployment rate,2010,6.6
+Germany,NB,Total,Unemployment rate,2011,5.6
+Germany,NB,Total,Unemployment rate,2012,4.9
+Germany,NB,Total,Unemployment rate,2013,4.8
+Germany,NB,Total,Unemployment rate,2014,4.5
+Germany,NB,Total,Unemployment rate,2015,4.1
+Germany,NB,Total,Unemployment rate,2016,3.6
+Germany,NB,Total,Unemployment rate,2017,3.3
+Germany,NB,Total,Unemployment rate,2018,2.9
+Germany,NB,Total,Unemployment rate,2019,2.6
+Hungary,NB,Men,Unemployment rate,2000,7.3
+Hungary,NB,Men,Unemployment rate,2001,6.4
+Hungary,NB,Men,Unemployment rate,2002,6.1
+Hungary,NB,Men,Unemployment rate,2003,6.2
+Hungary,NB,Men,Unemployment rate,2004,5.9
+Hungary,NB,Men,Unemployment rate,2005,7.1
+Hungary,NB,Men,Unemployment rate,2006,7.2
+Hungary,NB,Men,Unemployment rate,2007,7.2
+Hungary,NB,Men,Unemployment rate,2008,7.7
+Hungary,NB,Men,Unemployment rate,2009,10.4
+Hungary,NB,Men,Unemployment rate,2010,11.7
+Hungary,NB,Men,Unemployment rate,2011,11.1
+Hungary,NB,Men,Unemployment rate,2012,11.5
+Hungary,NB,Men,Unemployment rate,2013,10.4
+Hungary,NB,Men,Unemployment rate,2014,7.7
+Hungary,NB,Men,Unemployment rate,2015,6.7
+Hungary,NB,Men,Unemployment rate,2016,5.2
+Hungary,NB,Men,Unemployment rate,2017,3.9
+Hungary,NB,Men,Unemployment rate,2018,3.5
+Hungary,NB,Men,Unemployment rate,2019,3.4
+Hungary,NB,Women,Unemployment rate,2000,5.8
+Hungary,NB,Women,Unemployment rate,2001,4.8
+Hungary,NB,Women,Unemployment rate,2002,5.1
+Hungary,NB,Women,Unemployment rate,2003,5.4
+Hungary,NB,Women,Unemployment rate,2004,5.9
+Hungary,NB,Women,Unemployment rate,2005,7.4
+Hungary,NB,Women,Unemployment rate,2006,7.8
+Hungary,NB,Women,Unemployment rate,2007,7.7
+Hungary,NB,Women,Unemployment rate,2008,8.1
+Hungary,NB,Women,Unemployment rate,2009,9.8
+Hungary,NB,Women,Unemployment rate,2010,10.8
+Hungary,NB,Women,Unemployment rate,2011,11
+Hungary,NB,Women,Unemployment rate,2012,10.7
+Hungary,NB,Women,Unemployment rate,2013,10.1
+Hungary,NB,Women,Unemployment rate,2014,7.9
+Hungary,NB,Women,Unemployment rate,2015,7
+Hungary,NB,Women,Unemployment rate,2016,5.1
+Hungary,NB,Women,Unemployment rate,2017,4.6
+Hungary,NB,Women,Unemployment rate,2018,4
+Hungary,NB,Women,Unemployment rate,2019,3.6
+Hungary,NB,Total,Unemployment rate,2000,6.6
+Hungary,NB,Total,Unemployment rate,2001,5.7
+Hungary,NB,Total,Unemployment rate,2002,5.6
+Hungary,NB,Total,Unemployment rate,2003,5.9
+Hungary,NB,Total,Unemployment rate,2004,5.9
+Hungary,NB,Total,Unemployment rate,2005,7.3
+Hungary,NB,Total,Unemployment rate,2006,7.5
+Hungary,NB,Total,Unemployment rate,2007,7.5
+Hungary,NB,Total,Unemployment rate,2008,7.9
+Hungary,NB,Total,Unemployment rate,2009,10.1
+Hungary,NB,Total,Unemployment rate,2010,11.3
+Hungary,NB,Total,Unemployment rate,2011,11
+Hungary,NB,Total,Unemployment rate,2012,11.1
+Hungary,NB,Total,Unemployment rate,2013,10.2
+Hungary,NB,Total,Unemployment rate,2014,7.8
+Hungary,NB,Total,Unemployment rate,2015,6.8
+Hungary,NB,Total,Unemployment rate,2016,5.1
+Hungary,NB,Total,Unemployment rate,2017,4.2
+Hungary,NB,Total,Unemployment rate,2018,3.7
+Hungary,NB,Total,Unemployment rate,2019,3.5
+Italy,NB,Men,Unemployment rate,2000,8.4
+Italy,NB,Men,Unemployment rate,2001,7.5
+Italy,NB,Men,Unemployment rate,2002,7.2
+Italy,NB,Men,Unemployment rate,2003,7
+Italy,NB,Men,Unemployment rate,2004,6.4
+Italy,NB,Men,Unemployment rate,2005,6.2
+Italy,NB,Men,Unemployment rate,2006,5.5
+Italy,NB,Men,Unemployment rate,2007,4.9
+Italy,NB,Men,Unemployment rate,2008,5.6
+Italy,NB,Men,Unemployment rate,2009,6.6
+Italy,NB,Men,Unemployment rate,2010,7.4
+Italy,NB,Men,Unemployment rate,2011,7.4
+Italy,NB,Men,Unemployment rate,2012,9.7
+Italy,NB,Men,Unemployment rate,2013,11.1
+Italy,NB,Men,Unemployment rate,2014,11.6
+Italy,NB,Men,Unemployment rate,2015,11.1
+Italy,NB,Men,Unemployment rate,2016,10.8
+Italy,NB,Men,Unemployment rate,2017,10.3
+Italy,NB,Men,Unemployment rate,2018,9.7
+Italy,NB,Men,Unemployment rate,2019,9
+Italy,NB,Women,Unemployment rate,2000,14.9
+Italy,NB,Women,Unemployment rate,2001,13
+Italy,NB,Women,Unemployment rate,2002,12.7
+Italy,NB,Women,Unemployment rate,2003,12
+Italy,NB,Women,Unemployment rate,2004,10.1
+Italy,NB,Women,Unemployment rate,2005,9.7
+Italy,NB,Women,Unemployment rate,2006,8.5
+Italy,NB,Women,Unemployment rate,2007,7.6
+Italy,NB,Women,Unemployment rate,2008,8.2
+Italy,NB,Women,Unemployment rate,2009,8.8
+Italy,NB,Women,Unemployment rate,2010,9.2
+Italy,NB,Women,Unemployment rate,2011,9
+Italy,NB,Women,Unemployment rate,2012,11.3
+Italy,NB,Women,Unemployment rate,2013,12.4
+Italy,NB,Women,Unemployment rate,2014,13.3
+Italy,NB,Women,Unemployment rate,2015,12
+Italy,NB,Women,Unemployment rate,2016,12.2
+Italy,NB,Women,Unemployment rate,2017,11.9
+Italy,NB,Women,Unemployment rate,2018,11.2
+Italy,NB,Women,Unemployment rate,2019,10.5
+Italy,NB,Total,Unemployment rate,2000,10.9
+Italy,NB,Total,Unemployment rate,2001,9.7
+Italy,NB,Total,Unemployment rate,2002,9.3
+Italy,NB,Total,Unemployment rate,2003,9
+Italy,NB,Total,Unemployment rate,2004,7.9
+Italy,NB,Total,Unemployment rate,2005,7.6
+Italy,NB,Total,Unemployment rate,2006,6.7
+Italy,NB,Total,Unemployment rate,2007,6
+Italy,NB,Total,Unemployment rate,2008,6.6
+Italy,NB,Total,Unemployment rate,2009,7.5
+Italy,NB,Total,Unemployment rate,2010,8.1
+Italy,NB,Total,Unemployment rate,2011,8
+Italy,NB,Total,Unemployment rate,2012,10.4
+Italy,NB,Total,Unemployment rate,2013,11.7
+Italy,NB,Total,Unemployment rate,2014,12.3
+Italy,NB,Total,Unemployment rate,2015,11.5
+Italy,NB,Total,Unemployment rate,2016,11.4
+Italy,NB,Total,Unemployment rate,2017,11
+Italy,NB,Total,Unemployment rate,2018,10.3
+Italy,NB,Total,Unemployment rate,2019,9.6
+United Kingdom,NB,Men,Unemployment rate,2000,5.9
+United Kingdom,NB,Men,Unemployment rate,2001,5
+United Kingdom,NB,Men,Unemployment rate,2002,5.4
+United Kingdom,NB,Men,Unemployment rate,2003,5.2
+United Kingdom,NB,Men,Unemployment rate,2004,4.8
+United Kingdom,NB,Men,Unemployment rate,2005,4.8
+United Kingdom,NB,Men,Unemployment rate,2006,5.6
+United Kingdom,NB,Men,Unemployment rate,2007,5.4
+United Kingdom,NB,Men,Unemployment rate,2008,6.2
+United Kingdom,NB,Men,Unemployment rate,2009,8.8
+United Kingdom,NB,Men,Unemployment rate,2010,9
+United Kingdom,NB,Men,Unemployment rate,2011,8.8
+United Kingdom,NB,Men,Unemployment rate,2012,8.6
+United Kingdom,NB,Men,Unemployment rate,2013,8.2
+United Kingdom,NB,Men,Unemployment rate,2014,6.6
+United Kingdom,NB,Men,Unemployment rate,2015,5.6
+United Kingdom,NB,Men,Unemployment rate,2016,5.2
+United Kingdom,NB,Men,Unemployment rate,2017,4.7
+United Kingdom,NB,Men,Unemployment rate,2018,4.2
+United Kingdom,NB,Men,Unemployment rate,2019,4.1
+United Kingdom,NB,Women,Unemployment rate,2000,4.7
+United Kingdom,NB,Women,Unemployment rate,2001,3.9
+United Kingdom,NB,Women,Unemployment rate,2002,4.2
+United Kingdom,NB,Women,Unemployment rate,2003,3.9
+United Kingdom,NB,Women,Unemployment rate,2004,3.9
+United Kingdom,NB,Women,Unemployment rate,2005,3.8
+United Kingdom,NB,Women,Unemployment rate,2006,4.6
+United Kingdom,NB,Women,Unemployment rate,2007,4.5
+United Kingdom,NB,Women,Unemployment rate,2008,4.9
+United Kingdom,NB,Women,Unemployment rate,2009,6.2
+United Kingdom,NB,Women,Unemployment rate,2010,6.8
+United Kingdom,NB,Women,Unemployment rate,2011,7.1
+United Kingdom,NB,Women,Unemployment rate,2012,7
+United Kingdom,NB,Women,Unemployment rate,2013,6.7
+United Kingdom,NB,Women,Unemployment rate,2014,5.5
+United Kingdom,NB,Women,Unemployment rate,2015,4.8
+United Kingdom,NB,Women,Unemployment rate,2016,4.4
+United Kingdom,NB,Women,Unemployment rate,2017,3.8
+United Kingdom,NB,Women,Unemployment rate,2018,3.7
+United Kingdom,NB,Women,Unemployment rate,2019,3.3
+United Kingdom,NB,Total,Unemployment rate,2000,5.4
+United Kingdom,NB,Total,Unemployment rate,2001,4.5
+United Kingdom,NB,Total,Unemployment rate,2002,4.9
+United Kingdom,NB,Total,Unemployment rate,2003,4.6
+United Kingdom,NB,Total,Unemployment rate,2004,4.4
+United Kingdom,NB,Total,Unemployment rate,2005,4.3
+United Kingdom,NB,Total,Unemployment rate,2006,5.2
+United Kingdom,NB,Total,Unemployment rate,2007,5
+United Kingdom,NB,Total,Unemployment rate,2008,5.6
+United Kingdom,NB,Total,Unemployment rate,2009,7.6
+United Kingdom,NB,Total,Unemployment rate,2010,8
+United Kingdom,NB,Total,Unemployment rate,2011,8
+United Kingdom,NB,Total,Unemployment rate,2012,7.8
+United Kingdom,NB,Total,Unemployment rate,2013,7.5
+United Kingdom,NB,Total,Unemployment rate,2014,6.1
+United Kingdom,NB,Total,Unemployment rate,2015,5.2
+United Kingdom,NB,Total,Unemployment rate,2016,4.8
+United Kingdom,NB,Total,Unemployment rate,2017,4.3
+United Kingdom,NB,Total,Unemployment rate,2018,4
+United Kingdom,NB,Total,Unemployment rate,2019,3.7
+United States,NB,Men,Unemployment rate,2000,4.1
+United States,NB,Men,Unemployment rate,2001,5.1
+United States,NB,Men,Unemployment rate,2002,6.2
+United States,NB,Men,Unemployment rate,2003,6.5
+United States,NB,Men,Unemployment rate,2004,6
+United States,NB,Men,Unemployment rate,2005,5.5
+United States,NB,Men,Unemployment rate,2006,5.1
+United States,NB,Men,Unemployment rate,2007,5.1
+United States,NB,Men,Unemployment rate,2008,6.4
+United States,NB,Men,Unemployment rate,2009,10.7
+United States,NB,Men,Unemployment rate,2010,10.9
+United States,NB,Men,Unemployment rate,2011,9.8
+United States,NB,Men,Unemployment rate,2012,8.6
+United States,NB,Men,Unemployment rate,2013,8.2
+United States,NB,Men,Unemployment rate,2014,6.8
+United States,NB,Men,Unemployment rate,2015,5.8
+United States,NB,Men,Unemployment rate,2016,5.4
+United States,NB,Men,Unemployment rate,2017,4.8
+United States,NB,Men,Unemployment rate,2018,4.3
+United States,NB,Men,Unemployment rate,2019,4.1
+United States,NB,Women,Unemployment rate,2000,4.2
+United States,NB,Women,Unemployment rate,2001,4.6
+United States,NB,Women,Unemployment rate,2002,5.6
+United States,NB,Women,Unemployment rate,2003,5.6
+United States,NB,Women,Unemployment rate,2004,5.5
+United States,NB,Women,Unemployment rate,2005,5.2
+United States,NB,Women,Unemployment rate,2006,4.8
+United States,NB,Women,Unemployment rate,2007,4.6
+United States,NB,Women,Unemployment rate,2008,5.5
+United States,NB,Women,Unemployment rate,2009,8.1
+United States,NB,Women,Unemployment rate,2010,8.7
+United States,NB,Women,Unemployment rate,2011,8.5
+United States,NB,Women,Unemployment rate,2012,7.9
+United States,NB,Women,Unemployment rate,2013,7.2
+United States,NB,Women,Unemployment rate,2014,6.1
+United States,NB,Women,Unemployment rate,2015,5.2
+United States,NB,Women,Unemployment rate,2016,4.9
+United States,NB,Women,Unemployment rate,2017,4.3
+United States,NB,Women,Unemployment rate,2018,3.9
+United States,NB,Women,Unemployment rate,2019,3.7
+United States,NB,Total,Unemployment rate,2000,4.1
+United States,NB,Total,Unemployment rate,2001,4.9
+United States,NB,Total,Unemployment rate,2002,5.9
+United States,NB,Total,Unemployment rate,2003,6.1
+United States,NB,Total,Unemployment rate,2004,5.7
+United States,NB,Total,Unemployment rate,2005,5.3
+United States,NB,Total,Unemployment rate,2006,4.9
+United States,NB,Total,Unemployment rate,2007,4.9
+United States,NB,Total,Unemployment rate,2008,6
+United States,NB,Total,Unemployment rate,2009,9.4
+United States,NB,Total,Unemployment rate,2010,9.9
+United States,NB,Total,Unemployment rate,2011,9.2
+United States,NB,Total,Unemployment rate,2012,8.3
+United States,NB,Total,Unemployment rate,2013,7.7
+United States,NB,Total,Unemployment rate,2014,6.5
+United States,NB,Total,Unemployment rate,2015,5.6
+United States,NB,Total,Unemployment rate,2016,5.2
+United States,NB,Total,Unemployment rate,2017,4.6
+United States,NB,Total,Unemployment rate,2018,4.1
+United States,NB,Total,Unemployment rate,2019,3.9
