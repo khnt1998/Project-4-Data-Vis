@@ -223,7 +223,23 @@
 
         // Creates Legend
         makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 930, 70, "#A5BE00");
+        makeLegendRect(canvas, 920, 70, "red");
+        addDefaultText(canvas, 'translate(975,85)', 'France');
+
+        makeLegendRect(canvas, 920, 100, "green");
+        addDefaultText(canvas, 'translate(1000,115)', 'United States');
+
+        makeLegendRect(canvas, 920, 130, "blue");
+        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
+
+        makeLegendRect(canvas, 920, 160, "orange");
+        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
+
+        makeLegendRect(canvas, 920, 190, "purple");
+        addDefaultText(canvas, 'translate(960,205)', 'Italy');
+
+        makeLegendRect(canvas, 920, 220, "grey");
+        addDefaultText(canvas, 'translate(975,235)', 'Canada');
     }
 
     function updateBirth(data, input){
@@ -271,30 +287,6 @@
         makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
         makeLegendRect(canvas, 930, 70, "#A5BE00");
     }
-    //Unused Functions (could be used later)
-        /*
-        function maleOnlyChart(data){
-            var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
-            var colors = ["red", "orange", "blue", "green", "purple", "gray"]
-
-            for (let i = 0; i < countries.length; i++){
-                canvas.selectAll(countries[i])
-                .datum(data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == "Men" && d.POB == 'NB') }))
-                .attr("fill", "none")
-                .attr("stroke-width", 1.5)
-                .attr("transform", "translate(56, 7)")
-                .attr("d", d3.line()
-                        .x(function(d) { return xScale(d.YR) })
-                        .y(function(d) { return yScale(d.VALUE) })
-                )
-            }
-        }
-
-        function femaleOnlyChart(data){
-            console.log("Females Only")
-        }
-    */
-
 </script>
 
 </body>

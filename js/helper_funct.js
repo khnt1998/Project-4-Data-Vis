@@ -40,7 +40,7 @@ function makeLegendRect(canvas, x, y, fill){
     return canvas.append("rect")
               .attr("x", x)
               .attr("y", y)
-              .attr("width", 30)
-              .attr("height",30)
+              .attr("width", 20)
+              .attr("height",20)
               .style("fill", fill);
 }
