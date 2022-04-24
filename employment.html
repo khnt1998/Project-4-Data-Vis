@@ -56,7 +56,6 @@
     <h1>Employment Rate</h1>
 
     <!--***** Gotta change the name of the id *****-->
-    <h3>Visualization 1: Visualization Type</h3>
     <div><svg id="vis_1" name="vis_1" class="default_svg"></svg></div>
     <button type="button" id="buttonName" onclick="updateGender(data, 'Men')">Male</button>
     <button type="button" id="buttonName2" onclick="updateGender(data, 'Women')">Female</button>
@@ -196,6 +195,7 @@
         }
 
         // Creates Legend
+
         makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
         makeLegendRect(canvas, 920, 70, "red");
         addDefaultText(canvas, 'translate(975,85)', 'France');
