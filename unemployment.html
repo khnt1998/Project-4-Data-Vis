@@ -90,9 +90,8 @@
     }).then(rows => {
         rows.sort(function(a,b) { return d3.ascending(a.YR, b.YR); });
         data = rows;
-        console.log("Successful loading\n", data);
         updateGender(rows, 'Total')
-        updateBirth(rows, 'NB')
+        updateBirth(rows, 'FB')
     }).catch(error => {
         console.log(error);
     });
@@ -130,7 +129,12 @@
         .call(yAxis)
 
         addDefaultText(canvas, 'translate(35,280)rotate(-90)', 'Unemployment Rate (%)');
-        addDefaultText(canvas, 'translate(455,30)', 'Unemployment Rate of Native Born Citizens By Gender');
+        if (input == "Total")
+            addDefaultText(canvas, 'translate(455,30)', 'Unemployment Rate of Native Born Citizens');
+        else if (input == "Women")
+            addDefaultText(canvas, 'translate(455,30)', 'Unemployment Rate of Native Born Women');
+        else
+            addDefaultText(canvas, 'translate(455,30)', 'Unemployment Rate of Native Born Men')
 
         // Plots Data
         var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
@@ -192,7 +196,10 @@
           .call(yAxis)
 
         addDefaultText(canvas, 'translate(35,280)rotate(-90)', 'Employment Rate (%)');
-        addDefaultText(canvas, 'translate(455,30)', 'Employment Rate of Citizens Based on Place of Birth');
+        if (input == "NB")
+            addDefaultText(canvas, 'translate(455,30)', 'Participation Rate of Native Born Citizens');
+        else
+            addDefaultText(canvas, 'translate(455,30)', 'Participation Rate of Foreign Born Citizens');
 
         // Plots Data
         var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
