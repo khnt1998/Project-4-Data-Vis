@@ -1,0 +1,793 @@
+﻿Country,Birth,Gender,Rate,Year,Value
+Canada,FB,Men,Participation rate,2008,83.6
+Canada,FB,Men,Participation rate,2009,82.7
+Canada,FB,Men,Participation rate,2010,82.6
+Canada,FB,Men,Participation rate,2011,82.1
+Canada,FB,Men,Participation rate,2012,82.9
+Canada,FB,Men,Participation rate,2013,83.1
+Canada,FB,Men,Participation rate,2014,82.5
+Canada,FB,Men,Participation rate,2015,84
+Canada,FB,Men,Participation rate,2016,84.9
+Canada,FB,Men,Participation rate,2017,84.4
+Canada,FB,Men,Participation rate,2018,83.4
+Canada,FB,Men,Participation rate,2019,84.3
+Canada,FB,Women,Participation rate,2008,69.1
+Canada,FB,Women,Participation rate,2009,70.2
+Canada,FB,Women,Participation rate,2010,70.2
+Canada,FB,Women,Participation rate,2011,69.7
+Canada,FB,Women,Participation rate,2012,70.6
+Canada,FB,Women,Participation rate,2013,71.1
+Canada,FB,Women,Participation rate,2014,70.4
+Canada,FB,Women,Participation rate,2015,69.9
+Canada,FB,Women,Participation rate,2016,70.8
+Canada,FB,Women,Participation rate,2017,72.2
+Canada,FB,Women,Participation rate,2018,71.4
+Canada,FB,Women,Participation rate,2019,72.3
+Canada,FB,Total,Participation rate,2008,76.2
+Canada,FB,Total,Participation rate,2009,76.2
+Canada,FB,Total,Participation rate,2010,76.2
+Canada,FB,Total,Participation rate,2011,75.6
+Canada,FB,Total,Participation rate,2012,76.5
+Canada,FB,Total,Participation rate,2013,76.9
+Canada,FB,Total,Participation rate,2014,76.2
+Canada,FB,Total,Participation rate,2015,76.7
+Canada,FB,Total,Participation rate,2016,77.6
+Canada,FB,Total,Participation rate,2017,78.1
+Canada,FB,Total,Participation rate,2018,77.3
+Canada,FB,Total,Participation rate,2019,78.1
+France,FB,Men,Participation rate,2000,72.2
+France,FB,Men,Participation rate,2001,72.6
+France,FB,Men,Participation rate,2002,72.3
+France,FB,Men,Participation rate,2003,76.1
+France,FB,Men,Participation rate,2004,77.5
+France,FB,Men,Participation rate,2005,76.6
+France,FB,Men,Participation rate,2006,76.9
+France,FB,Men,Participation rate,2007,77
+France,FB,Men,Participation rate,2008,77.8
+France,FB,Men,Participation rate,2009,76.6
+France,FB,Men,Participation rate,2010,76.7
+France,FB,Men,Participation rate,2011,76.5
+France,FB,Men,Participation rate,2012,77.7
+France,FB,Men,Participation rate,2013,78.9
+France,FB,Men,Participation rate,2014,76.7
+France,FB,Men,Participation rate,2015,76.6
+France,FB,Men,Participation rate,2016,76.1
+France,FB,Men,Participation rate,2017,77
+France,FB,Men,Participation rate,2018,78.7
+France,FB,Men,Participation rate,2019,77.6
+France,FB,Women,Participation rate,2000,53.1
+France,FB,Women,Participation rate,2001,52.4
+France,FB,Women,Participation rate,2002,51.5
+France,FB,Women,Participation rate,2003,58.5
+France,FB,Women,Participation rate,2004,58.9
+France,FB,Women,Participation rate,2005,57.9
+France,FB,Women,Participation rate,2006,57.1
+France,FB,Women,Participation rate,2007,59
+France,FB,Women,Participation rate,2008,58.3
+France,FB,Women,Participation rate,2009,59.2
+France,FB,Women,Participation rate,2010,59.2
+France,FB,Women,Participation rate,2011,59.7
+France,FB,Women,Participation rate,2012,58.5
+France,FB,Women,Participation rate,2013,58
+France,FB,Women,Participation rate,2014,59.6
+France,FB,Women,Participation rate,2015,58.7
+France,FB,Women,Participation rate,2016,57.9
+France,FB,Women,Participation rate,2017,58
+France,FB,Women,Participation rate,2018,59.6
+France,FB,Women,Participation rate,2019,59.1
+France,FB,Total,Participation rate,2000,62.7
+France,FB,Total,Participation rate,2001,62.4
+France,FB,Total,Participation rate,2002,61.7
+France,FB,Total,Participation rate,2003,67.2
+France,FB,Total,Participation rate,2004,68.1
+France,FB,Total,Participation rate,2005,67
+France,FB,Total,Participation rate,2006,66.7
+France,FB,Total,Participation rate,2007,67.6
+France,FB,Total,Participation rate,2008,67.6
+France,FB,Total,Participation rate,2009,67.5
+France,FB,Total,Participation rate,2010,67.7
+France,FB,Total,Participation rate,2011,67.7
+France,FB,Total,Participation rate,2012,67.7
+France,FB,Total,Participation rate,2013,67.9
+France,FB,Total,Participation rate,2014,67.6
+France,FB,Total,Participation rate,2015,67.1
+France,FB,Total,Participation rate,2016,66.4
+France,FB,Total,Participation rate,2017,66.9
+France,FB,Total,Participation rate,2018,68.5
+France,FB,Total,Participation rate,2019,67.8
+Germany,FB,Men,Participation rate,2000,76.9
+Germany,FB,Men,Participation rate,2001,77.4
+Germany,FB,Men,Participation rate,2002,76.8
+Germany,FB,Men,Participation rate,2003,77.6
+Germany,FB,Men,Participation rate,2004,77.6
+Germany,FB,Men,Participation rate,2005,78.8
+Germany,FB,Men,Participation rate,2006,79.9
+Germany,FB,Men,Participation rate,2007,81.4
+Germany,FB,Men,Participation rate,2008,82.4
+Germany,FB,Men,Participation rate,2009,81.3
+Germany,FB,Men,Participation rate,2010,83.9
+Germany,FB,Men,Participation rate,2011,83.4
+Germany,FB,Men,Participation rate,2012,84.4
+Germany,FB,Men,Participation rate,2013,84.2
+Germany,FB,Men,Participation rate,2014,83.9
+Germany,FB,Men,Participation rate,2015,83.5
+Germany,FB,Men,Participation rate,2016,81.2
+Germany,FB,Men,Participation rate,2017,80.5
+Germany,FB,Men,Participation rate,2018,82.1
+Germany,FB,Men,Participation rate,2019,83.5
+Germany,FB,Women,Participation rate,2000,55.7
+Germany,FB,Women,Participation rate,2001,57.2
+Germany,FB,Women,Participation rate,2002,57.4
+Germany,FB,Women,Participation rate,2003,57.9
+Germany,FB,Women,Participation rate,2004,57.5
+Germany,FB,Women,Participation rate,2005,57.9
+Germany,FB,Women,Participation rate,2006,60.2
+Germany,FB,Women,Participation rate,2007,60.2
+Germany,FB,Women,Participation rate,2008,61.3
+Germany,FB,Women,Participation rate,2009,61.8
+Germany,FB,Women,Participation rate,2010,62.2
+Germany,FB,Women,Participation rate,2011,64
+Germany,FB,Women,Participation rate,2012,64.6
+Germany,FB,Women,Participation rate,2013,64.9
+Germany,FB,Women,Participation rate,2014,64.9
+Germany,FB,Women,Participation rate,2015,64.8
+Germany,FB,Women,Participation rate,2016,64.5
+Germany,FB,Women,Participation rate,2017,64.6
+Germany,FB,Women,Participation rate,2018,65.2
+Germany,FB,Women,Participation rate,2019,66.1
+Germany,FB,Total,Participation rate,2000,66.5
+Germany,FB,Total,Participation rate,2001,67.4
+Germany,FB,Total,Participation rate,2002,67.2
+Germany,FB,Total,Participation rate,2003,67.8
+Germany,FB,Total,Participation rate,2004,67.6
+Germany,FB,Total,Participation rate,2005,68.4
+Germany,FB,Total,Participation rate,2006,69.9
+Germany,FB,Total,Participation rate,2007,70.5
+Germany,FB,Total,Participation rate,2008,71.7
+Germany,FB,Total,Participation rate,2009,71.5
+Germany,FB,Total,Participation rate,2010,72.9
+Germany,FB,Total,Participation rate,2011,73.4
+Germany,FB,Total,Participation rate,2012,74.3
+Germany,FB,Total,Participation rate,2013,74.3
+Germany,FB,Total,Participation rate,2014,74.2
+Germany,FB,Total,Participation rate,2015,74.1
+Germany,FB,Total,Participation rate,2016,73
+Germany,FB,Total,Participation rate,2017,72.7
+Germany,FB,Total,Participation rate,2018,73.9
+Germany,FB,Total,Participation rate,2019,75
+Hungary,FB,Men,Participation rate,2000,71.8
+Hungary,FB,Men,Participation rate,2001,69.2
+Hungary,FB,Men,Participation rate,2002,72.6
+Hungary,FB,Men,Participation rate,2003,76.5
+Hungary,FB,Men,Participation rate,2004,76.1
+Hungary,FB,Men,Participation rate,2005,74.5
+Hungary,FB,Men,Participation rate,2006,74.9
+Hungary,FB,Men,Participation rate,2007,76.3
+Hungary,FB,Men,Participation rate,2008,77.8
+Hungary,FB,Men,Participation rate,2009,80.9
+Hungary,FB,Men,Participation rate,2010,74.9
+Hungary,FB,Men,Participation rate,2011,78.1
+Hungary,FB,Men,Participation rate,2012,81.5
+Hungary,FB,Men,Participation rate,2013,84.6
+Hungary,FB,Men,Participation rate,2014,86.2
+Hungary,FB,Men,Participation rate,2015,86.9
+Hungary,FB,Men,Participation rate,2016,87
+Hungary,FB,Men,Participation rate,2017,81.7
+Hungary,FB,Men,Participation rate,2018,82.2
+Hungary,FB,Men,Participation rate,2019,83.1
+Hungary,FB,Women,Participation rate,2000,52.3
+Hungary,FB,Women,Participation rate,2001,48.6
+Hungary,FB,Women,Participation rate,2002,49.3
+Hungary,FB,Women,Participation rate,2003,56.1
+Hungary,FB,Women,Participation rate,2004,54.3
+Hungary,FB,Women,Participation rate,2005,58
+Hungary,FB,Women,Participation rate,2006,56.9
+Hungary,FB,Women,Participation rate,2007,60.3
+Hungary,FB,Women,Participation rate,2008,62
+Hungary,FB,Women,Participation rate,2009,65.5
+Hungary,FB,Women,Participation rate,2010,67.4
+Hungary,FB,Women,Participation rate,2011,60.8
+Hungary,FB,Women,Participation rate,2012,66.4
+Hungary,FB,Women,Participation rate,2013,66.9
+Hungary,FB,Women,Participation rate,2014,65
+Hungary,FB,Women,Participation rate,2015,66.8
+Hungary,FB,Women,Participation rate,2016,70.1
+Hungary,FB,Women,Participation rate,2017,70.9
+Hungary,FB,Women,Participation rate,2018,68.2
+Hungary,FB,Women,Participation rate,2019,75.9
+Hungary,FB,Total,Participation rate,2000,61
+Hungary,FB,Total,Participation rate,2001,57.4
+Hungary,FB,Total,Participation rate,2002,59.9
+Hungary,FB,Total,Participation rate,2003,64.6
+Hungary,FB,Total,Participation rate,2004,64
+Hungary,FB,Total,Participation rate,2005,65.6
+Hungary,FB,Total,Participation rate,2006,65.3
+Hungary,FB,Total,Participation rate,2007,67.4
+Hungary,FB,Total,Participation rate,2008,68.9
+Hungary,FB,Total,Participation rate,2009,72
+Hungary,FB,Total,Participation rate,2010,70.8
+Hungary,FB,Total,Participation rate,2011,68.6
+Hungary,FB,Total,Participation rate,2012,73.6
+Hungary,FB,Total,Participation rate,2013,75.2
+Hungary,FB,Total,Participation rate,2014,74.9
+Hungary,FB,Total,Participation rate,2015,76.3
+Hungary,FB,Total,Participation rate,2016,78.3
+Hungary,FB,Total,Participation rate,2017,76.3
+Hungary,FB,Total,Participation rate,2018,75.2
+Hungary,FB,Total,Participation rate,2019,79.6
+Italy,FB,Men,Participation rate,2000,88.4
+Italy,FB,Men,Participation rate,2001,87.2
+Italy,FB,Men,Participation rate,2002,88.2
+Italy,FB,Men,Participation rate,2003,89.2
+Italy,FB,Men,Participation rate,2004,86
+Italy,FB,Men,Participation rate,2005,85.7
+Italy,FB,Men,Participation rate,2006,86.9
+Italy,FB,Men,Participation rate,2007,87
+Italy,FB,Men,Participation rate,2008,86
+Italy,FB,Men,Participation rate,2009,85.3
+Italy,FB,Men,Participation rate,2010,84.6
+Italy,FB,Men,Participation rate,2011,83.7
+Italy,FB,Men,Participation rate,2012,82.5
+Italy,FB,Men,Participation rate,2013,81.6
+Italy,FB,Men,Participation rate,2014,81.4
+Italy,FB,Men,Participation rate,2015,81.9
+Italy,FB,Men,Participation rate,2016,82.6
+Italy,FB,Men,Participation rate,2017,82.8
+Italy,FB,Men,Participation rate,2018,83.8
+Italy,FB,Men,Participation rate,2019,84.4
+Italy,FB,Women,Participation rate,2000,51.3
+Italy,FB,Women,Participation rate,2001,50.3
+Italy,FB,Women,Participation rate,2002,55.2
+Italy,FB,Women,Participation rate,2003,54.3
+Italy,FB,Women,Participation rate,2004,56.5
+Italy,FB,Women,Participation rate,2005,55.6
+Italy,FB,Women,Participation rate,2006,57
+Italy,FB,Women,Participation rate,2007,57.6
+Italy,FB,Women,Participation rate,2008,58
+Italy,FB,Women,Participation rate,2009,57.7
+Italy,FB,Women,Participation rate,2010,57.1
+Italy,FB,Women,Participation rate,2011,57.6
+Italy,FB,Women,Participation rate,2012,59.1
+Italy,FB,Women,Participation rate,2013,59.9
+Italy,FB,Women,Participation rate,2014,60.1
+Italy,FB,Women,Participation rate,2015,59
+Italy,FB,Women,Participation rate,2016,58.7
+Italy,FB,Women,Participation rate,2017,59
+Italy,FB,Women,Participation rate,2018,59.6
+Italy,FB,Women,Participation rate,2019,59.2
+Italy,FB,Total,Participation rate,2000,69.4
+Italy,FB,Total,Participation rate,2001,68.1
+Italy,FB,Total,Participation rate,2002,71.6
+Italy,FB,Total,Participation rate,2003,71.8
+Italy,FB,Total,Participation rate,2004,69.9
+Italy,FB,Total,Participation rate,2005,70
+Italy,FB,Total,Participation rate,2006,71.2
+Italy,FB,Total,Participation rate,2007,71.6
+Italy,FB,Total,Participation rate,2008,71.1
+Italy,FB,Total,Participation rate,2009,70.6
+Italy,FB,Total,Participation rate,2010,69.9
+Italy,FB,Total,Participation rate,2011,69.6
+Italy,FB,Total,Participation rate,2012,69.7
+Italy,FB,Total,Participation rate,2013,69.7
+Italy,FB,Total,Participation rate,2014,69.8
+Italy,FB,Total,Participation rate,2015,69.5
+Italy,FB,Total,Participation rate,2016,69.6
+Italy,FB,Total,Participation rate,2017,69.9
+Italy,FB,Total,Participation rate,2018,70.6
+Italy,FB,Total,Participation rate,2019,70.7
+United Kingdom,FB,Men,Participation rate,2000,78.4
+United Kingdom,FB,Men,Participation rate,2001,78.3
+United Kingdom,FB,Men,Participation rate,2002,78.6
+United Kingdom,FB,Men,Participation rate,2003,78.3
+United Kingdom,FB,Men,Participation rate,2004,78.5
+United Kingdom,FB,Men,Participation rate,2005,78.1
+United Kingdom,FB,Men,Participation rate,2006,82.3
+United Kingdom,FB,Men,Participation rate,2007,82.6
+United Kingdom,FB,Men,Participation rate,2008,83.5
+United Kingdom,FB,Men,Participation rate,2009,82.7
+United Kingdom,FB,Men,Participation rate,2010,82.6
+United Kingdom,FB,Men,Participation rate,2011,82.8
+United Kingdom,FB,Men,Participation rate,2012,83.6
+United Kingdom,FB,Men,Participation rate,2013,83.5
+United Kingdom,FB,Men,Participation rate,2014,84.1
+United Kingdom,FB,Men,Participation rate,2015,83.9
+United Kingdom,FB,Men,Participation rate,2016,85.2
+United Kingdom,FB,Men,Participation rate,2017,85.5
+United Kingdom,FB,Men,Participation rate,2018,86
+United Kingdom,FB,Men,Participation rate,2019,86.3
+United Kingdom,FB,Women,Participation rate,2000,57.5
+United Kingdom,FB,Women,Participation rate,2001,57.5
+United Kingdom,FB,Women,Participation rate,2002,58.6
+United Kingdom,FB,Women,Participation rate,2003,58.2
+United Kingdom,FB,Women,Participation rate,2004,59.3
+United Kingdom,FB,Women,Participation rate,2005,60.1
+United Kingdom,FB,Women,Participation rate,2006,61.3
+United Kingdom,FB,Women,Participation rate,2007,61.4
+United Kingdom,FB,Women,Participation rate,2008,62.5
+United Kingdom,FB,Women,Participation rate,2009,63.1
+United Kingdom,FB,Women,Participation rate,2010,63.4
+United Kingdom,FB,Women,Participation rate,2011,65
+United Kingdom,FB,Women,Participation rate,2012,63.8
+United Kingdom,FB,Women,Participation rate,2013,65.4
+United Kingdom,FB,Women,Participation rate,2014,66.1
+United Kingdom,FB,Women,Participation rate,2015,67.4
+United Kingdom,FB,Women,Participation rate,2016,67.6
+United Kingdom,FB,Women,Participation rate,2017,68.1
+United Kingdom,FB,Women,Participation rate,2018,69.4
+United Kingdom,FB,Women,Participation rate,2019,70.5
+United Kingdom,FB,Total,Participation rate,2000,67.3
+United Kingdom,FB,Total,Participation rate,2001,67.4
+United Kingdom,FB,Total,Participation rate,2002,68.2
+United Kingdom,FB,Total,Participation rate,2003,67.8
+United Kingdom,FB,Total,Participation rate,2004,68.4
+United Kingdom,FB,Total,Participation rate,2005,68.8
+United Kingdom,FB,Total,Participation rate,2006,71.6
+United Kingdom,FB,Total,Participation rate,2007,71.9
+United Kingdom,FB,Total,Participation rate,2008,72.8
+United Kingdom,FB,Total,Participation rate,2009,72.7
+United Kingdom,FB,Total,Participation rate,2010,72.7
+United Kingdom,FB,Total,Participation rate,2011,73.7
+United Kingdom,FB,Total,Participation rate,2012,73.3
+United Kingdom,FB,Total,Participation rate,2013,74.1
+United Kingdom,FB,Total,Participation rate,2014,74.7
+United Kingdom,FB,Total,Participation rate,2015,75.4
+United Kingdom,FB,Total,Participation rate,2016,76.1
+United Kingdom,FB,Total,Participation rate,2017,76.4
+United Kingdom,FB,Total,Participation rate,2018,77.3
+United Kingdom,FB,Total,Participation rate,2019,78
+United States,FB,Men,Participation rate,2000,85.7
+United States,FB,Men,Participation rate,2001,85.6
+United States,FB,Men,Participation rate,2002,85.2
+United States,FB,Men,Participation rate,2003,85.6
+United States,FB,Men,Participation rate,2004,86
+United States,FB,Men,Participation rate,2005,86.4
+United States,FB,Men,Participation rate,2006,86.7
+United States,FB,Men,Participation rate,2007,87.3
+United States,FB,Men,Participation rate,2008,87
+United States,FB,Men,Participation rate,2009,86.2
+United States,FB,Men,Participation rate,2010,86
+United States,FB,Men,Participation rate,2011,85.6
+United States,FB,Men,Participation rate,2012,84.9
+United States,FB,Men,Participation rate,2013,85.1
+United States,FB,Men,Participation rate,2014,85.3
+United States,FB,Men,Participation rate,2015,85.1
+United States,FB,Men,Participation rate,2016,84.9
+United States,FB,Men,Participation rate,2017,85.6
+United States,FB,Men,Participation rate,2018,85.4
+United States,FB,Men,Participation rate,2019,85.7
+United States,FB,Women,Participation rate,2000,61.5
+United States,FB,Women,Participation rate,2001,61.8
+United States,FB,Women,Participation rate,2002,61.2
+United States,FB,Women,Participation rate,2003,60.9
+United States,FB,Women,Participation rate,2004,61.1
+United States,FB,Women,Participation rate,2005,61.1
+United States,FB,Women,Participation rate,2006,62.1
+United States,FB,Women,Participation rate,2007,62.1
+United States,FB,Women,Participation rate,2008,62.7
+United States,FB,Women,Participation rate,2009,63.3
+United States,FB,Women,Participation rate,2010,63.5
+United States,FB,Women,Participation rate,2011,62.6
+United States,FB,Women,Participation rate,2012,62.5
+United States,FB,Women,Participation rate,2013,62.1
+United States,FB,Women,Participation rate,2014,61.6
+United States,FB,Women,Participation rate,2015,60.8
+United States,FB,Women,Participation rate,2016,61.6
+United States,FB,Women,Participation rate,2017,62.6
+United States,FB,Women,Participation rate,2018,63.3
+United States,FB,Women,Participation rate,2019,63.6
+United States,FB,Total,Participation rate,2000,73.6
+United States,FB,Total,Participation rate,2001,73.8
+United States,FB,Total,Participation rate,2002,73.2
+United States,FB,Total,Participation rate,2003,73.4
+United States,FB,Total,Participation rate,2004,73.8
+United States,FB,Total,Participation rate,2005,74
+United States,FB,Total,Participation rate,2006,74.7
+United States,FB,Total,Participation rate,2007,75.1
+United States,FB,Total,Participation rate,2008,75.2
+United States,FB,Total,Participation rate,2009,75
+United States,FB,Total,Participation rate,2010,75
+United States,FB,Total,Participation rate,2011,74.3
+United States,FB,Total,Participation rate,2012,73.7
+United States,FB,Total,Participation rate,2013,73.5
+United States,FB,Total,Participation rate,2014,73.4
+United States,FB,Total,Participation rate,2015,72.9
+United States,FB,Total,Participation rate,2016,73.2
+United States,FB,Total,Participation rate,2017,74
+United States,FB,Total,Participation rate,2018,74.2
+United States,FB,Total,Participation rate,2019,74.6
+Canada,NB,Men,Participation rate,2008,82.4
+Canada,NB,Men,Participation rate,2009,81.4
+Canada,NB,Men,Participation rate,2010,81.1
+Canada,NB,Men,Participation rate,2011,81.2
+Canada,NB,Men,Participation rate,2012,80.9
+Canada,NB,Men,Participation rate,2013,80.9
+Canada,NB,Men,Participation rate,2014,81
+Canada,NB,Men,Participation rate,2015,81.1
+Canada,NB,Men,Participation rate,2016,80.9
+Canada,NB,Men,Participation rate,2017,81.1
+Canada,NB,Men,Participation rate,2018,81.1
+Canada,NB,Men,Participation rate,2019,81.6
+Canada,NB,Women,Participation rate,2008,75.5
+Canada,NB,Women,Participation rate,2009,75.3
+Canada,NB,Women,Participation rate,2010,75.4
+Canada,NB,Women,Participation rate,2011,75.4
+Canada,NB,Women,Participation rate,2012,75.4
+Canada,NB,Women,Participation rate,2013,75.7
+Canada,NB,Women,Participation rate,2014,75.4
+Canada,NB,Women,Participation rate,2015,75.5
+Canada,NB,Women,Participation rate,2016,75.6
+Canada,NB,Women,Participation rate,2017,75.9
+Canada,NB,Women,Participation rate,2018,76.6
+Canada,NB,Women,Participation rate,2019,76.9
+Canada,NB,Total,Participation rate,2008,79
+Canada,NB,Total,Participation rate,2009,78.4
+Canada,NB,Total,Participation rate,2010,78.2
+Canada,NB,Total,Participation rate,2011,78.3
+Canada,NB,Total,Participation rate,2012,78.1
+Canada,NB,Total,Participation rate,2013,78.4
+Canada,NB,Total,Participation rate,2014,78.2
+Canada,NB,Total,Participation rate,2015,78.4
+Canada,NB,Total,Participation rate,2016,78.3
+Canada,NB,Total,Participation rate,2017,78.6
+Canada,NB,Total,Participation rate,2018,78.9
+Canada,NB,Total,Participation rate,2019,79.3
+France,NB,Men,Participation rate,2000,75.1
+France,NB,Men,Participation rate,2001,75
+France,NB,Men,Participation rate,2002,75.4
+France,NB,Men,Participation rate,2003,75.4
+France,NB,Men,Participation rate,2004,75.2
+France,NB,Men,Participation rate,2005,75
+France,NB,Men,Participation rate,2006,74.7
+France,NB,Men,Participation rate,2007,74.6
+France,NB,Men,Participation rate,2008,74.4
+France,NB,Men,Participation rate,2009,74.8
+France,NB,Men,Participation rate,2010,74.8
+France,NB,Men,Participation rate,2011,74.5
+France,NB,Men,Participation rate,2012,74.9
+France,NB,Men,Participation rate,2013,75
+France,NB,Men,Participation rate,2014,75.1
+France,NB,Men,Participation rate,2015,75.2
+France,NB,Men,Participation rate,2016,75.3
+France,NB,Men,Participation rate,2017,75.5
+France,NB,Men,Participation rate,2018,75.4
+France,NB,Men,Participation rate,2019,75
+France,NB,Women,Participation rate,2000,63.5
+France,NB,Women,Participation rate,2001,63.5
+France,NB,Women,Participation rate,2002,63.8
+France,NB,Women,Participation rate,2003,65.2
+France,NB,Women,Participation rate,2004,65
+France,NB,Women,Participation rate,2005,65.7
+France,NB,Women,Participation rate,2006,65.9
+France,NB,Women,Participation rate,2007,66.3
+France,NB,Women,Participation rate,2008,66.7
+France,NB,Women,Participation rate,2009,67.1
+France,NB,Women,Participation rate,2010,67.2
+France,NB,Women,Participation rate,2011,67.2
+France,NB,Women,Participation rate,2012,67.5
+France,NB,Women,Participation rate,2013,68.3
+France,NB,Women,Participation rate,2014,68.4
+France,NB,Women,Participation rate,2015,68.7
+France,NB,Women,Participation rate,2016,69.2
+France,NB,Women,Participation rate,2017,69.1
+France,NB,Women,Participation rate,2018,69.7
+France,NB,Women,Participation rate,2019,69.7
+France,NB,Total,Participation rate,2000,69.2
+France,NB,Total,Participation rate,2001,69.2
+France,NB,Total,Participation rate,2002,69.6
+France,NB,Total,Participation rate,2003,70.2
+France,NB,Total,Participation rate,2004,70
+France,NB,Total,Participation rate,2005,70.3
+France,NB,Total,Participation rate,2006,70.3
+France,NB,Total,Participation rate,2007,70.4
+France,NB,Total,Participation rate,2008,70.5
+France,NB,Total,Participation rate,2009,70.9
+France,NB,Total,Participation rate,2010,70.9
+France,NB,Total,Participation rate,2011,70.8
+France,NB,Total,Participation rate,2012,71.2
+France,NB,Total,Participation rate,2013,71.6
+France,NB,Total,Participation rate,2014,71.7
+France,NB,Total,Participation rate,2015,71.9
+France,NB,Total,Participation rate,2016,72.2
+France,NB,Total,Participation rate,2017,72.3
+France,NB,Total,Participation rate,2018,72.5
+France,NB,Total,Participation rate,2019,72.3
+Germany,NB,Men,Participation rate,2000,79.3
+Germany,NB,Men,Participation rate,2001,79.1
+Germany,NB,Men,Participation rate,2002,78.9
+Germany,NB,Men,Participation rate,2003,79
+Germany,NB,Men,Participation rate,2004,78.8
+Germany,NB,Men,Participation rate,2005,80.5
+Germany,NB,Men,Participation rate,2006,81.4
+Germany,NB,Men,Participation rate,2007,81.3
+Germany,NB,Men,Participation rate,2008,81.9
+Germany,NB,Men,Participation rate,2009,81.9
+Germany,NB,Men,Participation rate,2010,81.6
+Germany,NB,Men,Participation rate,2011,81.4
+Germany,NB,Men,Participation rate,2012,82.3
+Germany,NB,Men,Participation rate,2013,82.3
+Germany,NB,Men,Participation rate,2014,82.3
+Germany,NB,Men,Participation rate,2015,81.9
+Germany,NB,Men,Participation rate,2016,82.4
+Germany,NB,Men,Participation rate,2017,82.8
+Germany,NB,Men,Participation rate,2018,83.1
+Germany,NB,Men,Participation rate,2019,83.5
+Germany,NB,Women,Participation rate,2000,64.8
+Germany,NB,Women,Participation rate,2001,65.4
+Germany,NB,Women,Participation rate,2002,65.8
+Germany,NB,Women,Participation rate,2003,66.5
+Germany,NB,Women,Participation rate,2004,66.6
+Germany,NB,Women,Participation rate,2005,68.6
+Germany,NB,Women,Participation rate,2006,70.1
+Germany,NB,Women,Participation rate,2007,71.4
+Germany,NB,Women,Participation rate,2008,71.3
+Germany,NB,Women,Participation rate,2009,72.3
+Germany,NB,Women,Participation rate,2010,72.3
+Germany,NB,Women,Participation rate,2011,73.1
+Germany,NB,Women,Participation rate,2012,73.3
+Germany,NB,Women,Participation rate,2013,74.2
+Germany,NB,Women,Participation rate,2014,74.6
+Germany,NB,Women,Participation rate,2015,74.9
+Germany,NB,Women,Participation rate,2016,75.7
+Germany,NB,Women,Participation rate,2017,76.3
+Germany,NB,Women,Participation rate,2018,76.5
+Germany,NB,Women,Participation rate,2019,77.1
+Germany,NB,Total,Participation rate,2000,72.1
+Germany,NB,Total,Participation rate,2001,72.3
+Germany,NB,Total,Participation rate,2002,72.4
+Germany,NB,Total,Participation rate,2003,72.8
+Germany,NB,Total,Participation rate,2004,72.8
+Germany,NB,Total,Participation rate,2005,74.6
+Germany,NB,Total,Participation rate,2006,75.8
+Germany,NB,Total,Participation rate,2007,76.4
+Germany,NB,Total,Participation rate,2008,76.6
+Germany,NB,Total,Participation rate,2009,77.1
+Germany,NB,Total,Participation rate,2010,77
+Germany,NB,Total,Participation rate,2011,77.3
+Germany,NB,Total,Participation rate,2012,77.8
+Germany,NB,Total,Participation rate,2013,78.3
+Germany,NB,Total,Participation rate,2014,78.5
+Germany,NB,Total,Participation rate,2015,78.4
+Germany,NB,Total,Participation rate,2016,79.1
+Germany,NB,Total,Participation rate,2017,79.6
+Germany,NB,Total,Participation rate,2018,79.9
+Germany,NB,Total,Participation rate,2019,80.3
+Hungary,NB,Men,Participation rate,2000,67.5
+Hungary,NB,Men,Participation rate,2001,67.1
+Hungary,NB,Men,Participation rate,2002,66.9
+Hungary,NB,Men,Participation rate,2003,67.6
+Hungary,NB,Men,Participation rate,2004,66.9
+Hungary,NB,Men,Participation rate,2005,67.8
+Hungary,NB,Men,Participation rate,2006,68.6
+Hungary,NB,Men,Participation rate,2007,68.9
+Hungary,NB,Men,Participation rate,2008,68.1
+Hungary,NB,Men,Participation rate,2009,67.9
+Hungary,NB,Men,Participation rate,2010,68.2
+Hungary,NB,Men,Participation rate,2011,68.6
+Hungary,NB,Men,Participation rate,2012,69.3
+Hungary,NB,Men,Participation rate,2013,70.7
+Hungary,NB,Men,Participation rate,2014,73.2
+Hungary,NB,Men,Participation rate,2015,75
+Hungary,NB,Men,Participation rate,2016,76.7
+Hungary,NB,Men,Participation rate,2017,78.2
+Hungary,NB,Men,Participation rate,2018,79
+Hungary,NB,Men,Participation rate,2019,79.9
+Hungary,NB,Women,Participation rate,2000,52.5
+Hungary,NB,Women,Participation rate,2001,52.2
+Hungary,NB,Women,Participation rate,2002,52.5
+Hungary,NB,Women,Participation rate,2003,53.7
+Hungary,NB,Women,Participation rate,2004,53.6
+Hungary,NB,Women,Participation rate,2005,55
+Hungary,NB,Women,Participation rate,2006,55.5
+Hungary,NB,Women,Participation rate,2007,55
+Hungary,NB,Women,Participation rate,2008,54.9
+Hungary,NB,Women,Participation rate,2009,55.1
+Hungary,NB,Women,Participation rate,2010,56.5
+Hungary,NB,Women,Participation rate,2011,56.7
+Hungary,NB,Women,Participation rate,2012,57.8
+Hungary,NB,Women,Participation rate,2013,58.4
+Hungary,NB,Women,Participation rate,2014,60.6
+Hungary,NB,Women,Participation rate,2015,62.1
+Hungary,NB,Women,Participation rate,2016,63.3
+Hungary,NB,Women,Participation rate,2017,64.1
+Hungary,NB,Women,Participation rate,2018,64.9
+Hungary,NB,Women,Participation rate,2019,65
+Hungary,NB,Total,Participation rate,2000,59.9
+Hungary,NB,Total,Participation rate,2001,59.5
+Hungary,NB,Total,Participation rate,2002,59.5
+Hungary,NB,Total,Participation rate,2003,60.5
+Hungary,NB,Total,Participation rate,2004,60.1
+Hungary,NB,Total,Participation rate,2005,61.3
+Hungary,NB,Total,Participation rate,2006,61.9
+Hungary,NB,Total,Participation rate,2007,61.8
+Hungary,NB,Total,Participation rate,2008,61.3
+Hungary,NB,Total,Participation rate,2009,61.4
+Hungary,NB,Total,Participation rate,2010,62.3
+Hungary,NB,Total,Participation rate,2011,62.6
+Hungary,NB,Total,Participation rate,2012,63.5
+Hungary,NB,Total,Participation rate,2013,64.5
+Hungary,NB,Total,Participation rate,2014,66.8
+Hungary,NB,Total,Participation rate,2015,68.5
+Hungary,NB,Total,Participation rate,2016,70
+Hungary,NB,Total,Participation rate,2017,71.1
+Hungary,NB,Total,Participation rate,2018,71.9
+Hungary,NB,Total,Participation rate,2019,72.4
+Italy,NB,Men,Participation rate,2000,73.6
+Italy,NB,Men,Participation rate,2001,73.5
+Italy,NB,Men,Participation rate,2002,74
+Italy,NB,Men,Participation rate,2003,74.5
+Italy,NB,Men,Participation rate,2004,74.6
+Italy,NB,Men,Participation rate,2005,73.8
+Italy,NB,Men,Participation rate,2006,73.7
+Italy,NB,Men,Participation rate,2007,73.4
+Italy,NB,Men,Participation rate,2008,73.4
+Italy,NB,Men,Participation rate,2009,72.5
+Italy,NB,Men,Participation rate,2010,72
+Italy,NB,Men,Participation rate,2011,71.8
+Italy,NB,Men,Participation rate,2012,72.7
+Italy,NB,Men,Participation rate,2013,72.2
+Italy,NB,Men,Participation rate,2014,72.5
+Italy,NB,Men,Participation rate,2015,73
+Italy,NB,Men,Participation rate,2016,73.7
+Italy,NB,Men,Participation rate,2017,73.9
+Italy,NB,Men,Participation rate,2018,73.9
+Italy,NB,Men,Participation rate,2019,73.6
+Italy,NB,Women,Participation rate,2000,46.2
+Italy,NB,Women,Participation rate,2001,47
+Italy,NB,Women,Participation rate,2002,47.9
+Italy,NB,Women,Participation rate,2003,48.6
+Italy,NB,Women,Participation rate,2004,50.1
+Italy,NB,Women,Participation rate,2005,49.9
+Italy,NB,Women,Participation rate,2006,50.3
+Italy,NB,Women,Participation rate,2007,50
+Italy,NB,Women,Participation rate,2008,51
+Italy,NB,Women,Participation rate,2009,50.4
+Italy,NB,Women,Participation rate,2010,50.3
+Italy,NB,Women,Participation rate,2011,50.6
+Italy,NB,Women,Participation rate,2012,52.6
+Italy,NB,Women,Participation rate,2013,52.6
+Italy,NB,Women,Participation rate,2014,53.5
+Italy,NB,Women,Participation rate,2015,53.3
+Italy,NB,Women,Participation rate,2016,54.6
+Italy,NB,Women,Participation rate,2017,55.4
+Italy,NB,Women,Participation rate,2018,55.6
+Italy,NB,Women,Participation rate,2019,56
+Italy,NB,Total,Participation rate,2000,59.8
+Italy,NB,Total,Participation rate,2001,60.2
+Italy,NB,Total,Participation rate,2002,60.9
+Italy,NB,Total,Participation rate,2003,61.5
+Italy,NB,Total,Participation rate,2004,62.3
+Italy,NB,Total,Participation rate,2005,61.9
+Italy,NB,Total,Participation rate,2006,62
+Italy,NB,Total,Participation rate,2007,61.7
+Italy,NB,Total,Participation rate,2008,62.2
+Italy,NB,Total,Participation rate,2009,61.5
+Italy,NB,Total,Participation rate,2010,61.2
+Italy,NB,Total,Participation rate,2011,61.3
+Italy,NB,Total,Participation rate,2012,62.7
+Italy,NB,Total,Participation rate,2013,62.5
+Italy,NB,Total,Participation rate,2014,63.1
+Italy,NB,Total,Participation rate,2015,63.2
+Italy,NB,Total,Participation rate,2016,64.2
+Italy,NB,Total,Participation rate,2017,64.7
+Italy,NB,Total,Participation rate,2018,64.8
+Italy,NB,Total,Participation rate,2019,64.9
+United Kingdom,NB,Men,Participation rate,2000,82.9
+United Kingdom,NB,Men,Participation rate,2001,82.3
+United Kingdom,NB,Men,Participation rate,2002,82
+United Kingdom,NB,Men,Participation rate,2003,82.2
+United Kingdom,NB,Men,Participation rate,2004,81.7
+United Kingdom,NB,Men,Participation rate,2005,81.5
+United Kingdom,NB,Men,Participation rate,2006,81.5
+United Kingdom,NB,Men,Participation rate,2007,81.4
+United Kingdom,NB,Men,Participation rate,2008,81.9
+United Kingdom,NB,Men,Participation rate,2009,81.4
+United Kingdom,NB,Men,Participation rate,2010,81.1
+United Kingdom,NB,Men,Participation rate,2011,81.1
+United Kingdom,NB,Men,Participation rate,2012,81.7
+United Kingdom,NB,Men,Participation rate,2013,81.9
+United Kingdom,NB,Men,Participation rate,2014,81.8
+United Kingdom,NB,Men,Participation rate,2015,81.9
+United Kingdom,NB,Men,Participation rate,2016,82
+United Kingdom,NB,Men,Participation rate,2017,81.7
+United Kingdom,NB,Men,Participation rate,2018,81.9
+United Kingdom,NB,Men,Participation rate,2019,81.8
+United Kingdom,NB,Women,Participation rate,2000,68.7
+United Kingdom,NB,Women,Participation rate,2001,68.6
+United Kingdom,NB,Women,Participation rate,2002,69.1
+United Kingdom,NB,Women,Participation rate,2003,69.1
+United Kingdom,NB,Women,Participation rate,2004,69.3
+United Kingdom,NB,Women,Participation rate,2005,69.4
+United Kingdom,NB,Women,Participation rate,2006,70
+United Kingdom,NB,Women,Participation rate,2007,69.5
+United Kingdom,NB,Women,Participation rate,2008,70.2
+United Kingdom,NB,Women,Participation rate,2009,70.2
+United Kingdom,NB,Women,Participation rate,2010,70.1
+United Kingdom,NB,Women,Participation rate,2011,70.4
+United Kingdom,NB,Women,Participation rate,2012,71.5
+United Kingdom,NB,Women,Participation rate,2013,72
+United Kingdom,NB,Women,Participation rate,2014,72.4
+United Kingdom,NB,Women,Participation rate,2015,72.7
+United Kingdom,NB,Women,Participation rate,2016,73.3
+United Kingdom,NB,Women,Participation rate,2017,74
+United Kingdom,NB,Women,Participation rate,2018,74.2
+United Kingdom,NB,Women,Participation rate,2019,74.6
+United Kingdom,NB,Total,Participation rate,2000,75.7
+United Kingdom,NB,Total,Participation rate,2001,75.4
+United Kingdom,NB,Total,Participation rate,2002,75.5
+United Kingdom,NB,Total,Participation rate,2003,75.6
+United Kingdom,NB,Total,Participation rate,2004,75.5
+United Kingdom,NB,Total,Participation rate,2005,75.5
+United Kingdom,NB,Total,Participation rate,2006,75.8
+United Kingdom,NB,Total,Participation rate,2007,75.4
+United Kingdom,NB,Total,Participation rate,2008,76
+United Kingdom,NB,Total,Participation rate,2009,75.8
+United Kingdom,NB,Total,Participation rate,2010,75.6
+United Kingdom,NB,Total,Participation rate,2011,75.7
+United Kingdom,NB,Total,Participation rate,2012,76.6
+United Kingdom,NB,Total,Participation rate,2013,76.9
+United Kingdom,NB,Total,Participation rate,2014,77.1
+United Kingdom,NB,Total,Participation rate,2015,77.3
+United Kingdom,NB,Total,Participation rate,2016,77.6
+United Kingdom,NB,Total,Participation rate,2017,77.9
+United Kingdom,NB,Total,Participation rate,2018,78
+United Kingdom,NB,Total,Participation rate,2019,78.2
+United States,NB,Men,Participation rate,2000,81.8
+United States,NB,Men,Participation rate,2001,81.1
+United States,NB,Men,Participation rate,2002,80.6
+United States,NB,Men,Participation rate,2003,79.8
+United States,NB,Men,Participation rate,2004,79.3
+United States,NB,Men,Participation rate,2005,79.2
+United States,NB,Men,Participation rate,2006,79.2
+United States,NB,Men,Participation rate,2007,78.8
+United States,NB,Men,Participation rate,2008,78.4
+United States,NB,Men,Participation rate,2009,77.4
+United States,NB,Men,Participation rate,2010,76.6
+United States,NB,Men,Participation rate,2011,75.8
+United States,NB,Men,Participation rate,2012,75.9
+United States,NB,Men,Participation rate,2013,75.5
+United States,NB,Men,Participation rate,2014,75.3
+United States,NB,Men,Participation rate,2015,75.3
+United States,NB,Men,Participation rate,2016,75.7
+United States,NB,Men,Participation rate,2017,75.8
+United States,NB,Men,Participation rate,2018,76.2
+United States,NB,Men,Participation rate,2019,76.5
+United States,NB,Women,Participation rate,2000,71.1
+United States,NB,Women,Participation rate,2001,70.7
+United States,NB,Women,Participation rate,2002,70.4
+United States,NB,Women,Participation rate,2003,69.8
+United States,NB,Women,Participation rate,2004,69.4
+United States,NB,Women,Participation rate,2005,69.4
+United States,NB,Women,Participation rate,2006,69.3
+United States,NB,Women,Participation rate,2007,69.1
+United States,NB,Women,Participation rate,2008,69.3
+United States,NB,Women,Participation rate,2009,68.7
+United States,NB,Women,Participation rate,2010,68.1
+United States,NB,Women,Participation rate,2011,67.6
+United States,NB,Women,Participation rate,2012,67.3
+United States,NB,Women,Participation rate,2013,67
+United States,NB,Women,Participation rate,2014,67.1
+United States,NB,Women,Participation rate,2015,67.1
+United States,NB,Women,Participation rate,2016,67.5
+United States,NB,Women,Participation rate,2017,67.9
+United States,NB,Women,Participation rate,2018,68.3
+United States,NB,Women,Participation rate,2019,69
+United States,NB,Total,Participation rate,2000,76.3
+United States,NB,Total,Participation rate,2001,75.8
+United States,NB,Total,Participation rate,2002,75.4
+United States,NB,Total,Participation rate,2003,74.7
+United States,NB,Total,Participation rate,2004,74.2
+United States,NB,Total,Participation rate,2005,74.2
+United States,NB,Total,Participation rate,2006,74.2
+United States,NB,Total,Participation rate,2007,73.9
+United States,NB,Total,Participation rate,2008,73.8
+United States,NB,Total,Participation rate,2009,73
+United States,NB,Total,Participation rate,2010,72.3
+United States,NB,Total,Participation rate,2011,71.7
+United States,NB,Total,Participation rate,2012,71.5
+United States,NB,Total,Participation rate,2013,71.2
+United States,NB,Total,Participation rate,2014,71.1
+United States,NB,Total,Participation rate,2015,71.1
+United States,NB,Total,Participation rate,2016,71.5
+United States,NB,Total,Participation rate,2017,71.8
+United States,NB,Total,Participation rate,2018,72.2
+United States,NB,Total,Participation rate,2019,72.7
