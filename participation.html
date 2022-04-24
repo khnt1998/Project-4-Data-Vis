@@ -152,29 +152,30 @@
 
         // Plots Data
         var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
+        var classes = ["France", "Germany", "UnitedKingdom", "UnitedStates", "Italy", "Canada"]
         var colors = ["red", "orange", "blue", "green", "purple", "gray"]
         for (let i = 0; i < countries.length; i++){
-            plotLine(canvas, data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == gender && d.POB == pob) }), xScale, yScale, colors[i], countries[i])
+            plotLine(canvas, data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == gender && d.POB == pob) }), xScale, yScale, colors[i], classes[i])
         }
 
         // Creates Legend
         makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 920, 70, "red");
+        makeLegendRect(canvas, 920, 70, "red", "France");
         addDefaultText(canvas, 'translate(975,85)', 'France');
 
-        makeLegendRect(canvas, 920, 100, "green");
+        makeLegendRect(canvas, 920, 100, "green", "UnitedStates");
         addDefaultText(canvas, 'translate(1000,115)', 'United States');
 
-        makeLegendRect(canvas, 920, 130, "blue");
+        makeLegendRect(canvas, 920, 130, "blue", "UnitedKingdom");
         addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
 
-        makeLegendRect(canvas, 920, 160, "orange");
+        makeLegendRect(canvas, 920, 160, "orange", 'Germany');
         addDefaultText(canvas, 'translate(980, 175)', 'Germany');
 
-        makeLegendRect(canvas, 920, 190, "purple");
+        makeLegendRect(canvas, 920, 190, "purple", 'Italy');
         addDefaultText(canvas, 'translate(960,205)', 'Italy');
 
-        makeLegendRect(canvas, 920, 220, "grey");
+        makeLegendRect(canvas, 920, 220, "grey", 'Canada');
         addDefaultText(canvas, 'translate(975,235)', 'Canada');
     }
 

@@ -36,11 +36,21 @@ function makeRect(canvas, x, y, width, height, fill){
               .style("fill", fill);
 }
 
-function makeLegendRect(canvas, x, y, fill){
+function makeLegendRect(canvas, x, y, fill, country){
     return canvas.append("rect")
+               .attr("class", country + "box")
               .attr("x", x)
               .attr("y", y)
               .attr("width", 20)
               .attr("height",20)
-              .style("fill", fill);
+              .style("fill", fill)
+              .on("click", function(d){
+                    console.log("clicked", country)
+                    canvas.selectAll("." + country)
+                    .transition()
+                    .duration(1000)
+                    .attr("opacity", 0)
+                    canvas.selectAll("." + country + "box")
+                    .attr("opacity", 0)
+              });
 }
