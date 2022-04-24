@@ -65,7 +65,7 @@
     <div><svg id="vis_2" name="vis_2" class="default_svg"></svg></div>
     <button type="button" id="buttonName3" onclick="updateBirth(data, 'FB')">Foreign-born</button>
     <button type="button" id="buttonName4" onclick="updateBirth(data, 'NB')">Native-born</button>
-    <p>Instructions: Pwease click all these buttons for different Visualizations</b></p>
+    <p>Instructions: Please click the buttons for different visualizations</b></p>
     <div>
         <p>Brief description of what the visualization is trying to show about the data and rational</p>
     </div>
@@ -133,8 +133,24 @@
         }
 
         // Creates Legend
-        makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 930, 70, "#A5BE00");
+        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeLegendRect(canvas, 920, 70, "red");
+        addDefaultText(canvas, 'translate(975,85)', 'France');
+
+        makeLegendRect(canvas, 920, 100, "green");
+        addDefaultText(canvas, 'translate(1000,115)', 'United States');
+
+        makeLegendRect(canvas, 920, 130, "blue");
+        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
+
+        makeLegendRect(canvas, 920, 160, "orange");
+        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
+
+        makeLegendRect(canvas, 920, 190, "purple");
+        addDefaultText(canvas, 'translate(960,205)', 'Italy');
+
+        makeLegendRect(canvas, 920, 220, "grey");
+        addDefaultText(canvas, 'translate(975,235)', 'Canada');
     }
     
     //This will update the selected gender
@@ -180,8 +196,24 @@
         }
 
         // Creates Legend
-        makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 930, 70, "#A5BE00");
+        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeLegendRect(canvas, 920, 70, "red");
+        addDefaultText(canvas, 'translate(975,85)', 'France');
+
+        makeLegendRect(canvas, 920, 100, "green");
+        addDefaultText(canvas, 'translate(1000,115)', 'United States');
+
+        makeLegendRect(canvas, 920, 130, "blue");
+        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
+
+        makeLegendRect(canvas, 920, 160, "orange");
+        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
+
+        makeLegendRect(canvas, 920, 190, "purple");
+        addDefaultText(canvas, 'translate(960,205)', 'Italy');
+
+        makeLegendRect(canvas, 920, 220, "grey");
+        addDefaultText(canvas, 'translate(975,235)', 'Canada');
     }
 
     function createNativeForeignChart(data){
@@ -222,7 +254,7 @@
         }
 
         // Creates Legend
-        makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
         makeLegendRect(canvas, 920, 70, "red");
         addDefaultText(canvas, 'translate(975,85)', 'France');
 
@@ -284,8 +316,24 @@
         }
 
         // Creates Legend
-        makeRect(canvas, 910, 50, 275, 400, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 930, 70, "#A5BE00");
+                makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeLegendRect(canvas, 920, 70, "red");
+        addDefaultText(canvas, 'translate(975,85)', 'France');
+
+        makeLegendRect(canvas, 920, 100, "green");
+        addDefaultText(canvas, 'translate(1000,115)', 'United States');
+
+        makeLegendRect(canvas, 920, 130, "blue");
+        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
+
+        makeLegendRect(canvas, 920, 160, "orange");
+        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
+
+        makeLegendRect(canvas, 920, 190, "purple");
+        addDefaultText(canvas, 'translate(960,205)', 'Italy');
+
+        makeLegendRect(canvas, 920, 220, "grey");
+        addDefaultText(canvas, 'translate(975,235)', 'Canada');;
     }
 </script>
 
