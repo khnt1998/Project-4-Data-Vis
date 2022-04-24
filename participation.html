@@ -159,7 +159,7 @@
         }
 
         // Creates Legend
-        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
+        makeRect(canvas, 910, 50, 190, 240, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
         makeLegendRect(canvas, 920, 70, "red", "France");
         addDefaultText(canvas, 'translate(975,85)', 'France');
 
@@ -177,6 +177,18 @@
 
         makeLegendRect(canvas, 920, 220, "grey", 'Canada');
         addDefaultText(canvas, 'translate(975,235)', 'Canada');
+
+        canvas.append("rect")
+              .attr("x", 920)
+              .attr("y", 255)
+              .attr("width", 20)
+              .attr("height",20)
+              .style("fill", "black")
+              .on("click", function(d){
+                    canvas.selectAll("*")
+                    .attr("opacity", 100)
+              });
+              addDefaultText(canvas, 'translate(1005,270)', 'Show All Lines');
     }
 
 </script>
