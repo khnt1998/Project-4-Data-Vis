@@ -91,70 +91,11 @@
         rows.sort(function(a,b) { return d3.ascending(a.YR, b.YR); });
         data = rows;
         console.log("Successful loading\n", data);
-        createGenderChart(rows)
-        createNativeForeignChart(rows)
+        updateGender(rows, 'Total')
+        updateBirth(rows, 'NB')
     }).catch(error => {
         console.log(error);
     });
-
-    // Creates Structure
-    function createGenderChart(data){
-        var canvas = makeCanvas("#vis_1");
-
-        // Defines and displays x-axis
-        var xScale = d3.scaleLinear()
-          .domain(d3.extent(data, function(d) { return d.YR; }))
-          .range([ 13, 825 ]);
-
-        var xAxis = d3.axisBottom().scale(xScale).ticks(19).tickFormat(d3.format("d"))
-
-        canvas.append("g")
-          .attr("transform", "translate(55, 540)")
-          .call(xAxis)
-
-        addDefaultText(canvas, 'translate(450, 580)', 'Year');
-
-        // Defines and displays y-axis
-        var yScale = d3.scaleLinear()
-          .domain([0, 20])
-          .range([ 530, 50]);
-
-        var yAxis = d3.axisLeft().scale(yScale)
-
-        canvas.append("g")
-          .attr("transform", "translate(67, 7)")
-          .call(yAxis)
-
-        addDefaultText(canvas, 'translate(35,280)rotate(-90)', 'Unemployment Rate (%)');
-        addDefaultText(canvas, 'translate(455,30)', 'Unemployment Rate of Native Born Citizens By Gender');
-
-        // Plots Data
-        var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
-        var colors = ["red", "orange", "blue", "green", "purple", "gray"]
-        for (let i = 0; i < countries.length; i++){
-            plotLine(canvas, data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == 'Total' && d.POB == 'NB') }), xScale, yScale, colors[i], countries[i])
-        }
-
-        // Creates Legend
-        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 920, 70, "red");
-        addDefaultText(canvas, 'translate(975,85)', 'France');
-
-        makeLegendRect(canvas, 920, 100, "green");
-        addDefaultText(canvas, 'translate(1000,115)', 'United States');
-
-        makeLegendRect(canvas, 920, 130, "blue");
-        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
-
-        makeLegendRect(canvas, 920, 160, "orange");
-        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
-
-        makeLegendRect(canvas, 920, 190, "purple");
-        addDefaultText(canvas, 'translate(960,205)', 'Italy');
-
-        makeLegendRect(canvas, 920, 220, "grey");
-        addDefaultText(canvas, 'translate(975,235)', 'Canada');
-    }
 
     //This will update the selected gender
     function updateGender(data, input){
@@ -219,65 +160,7 @@
         addDefaultText(canvas, 'translate(975,235)', 'Canada');
     }
 
-    function createNativeForeignChart(data){
-                var canvas = makeCanvas("#vis_2");
-
-        // Defines and displays x-axis
-        var xScale = d3.scaleLinear()
-          .domain(d3.extent(data, function(d) { return d.YR; }))
-          .range([ 13, 825 ]);
-
-        var xAxis = d3.axisBottom().scale(xScale).ticks(19).tickFormat(d3.format("d"))
-
-        canvas.append("g")
-          .attr("transform", "translate(55, 540)")
-          .call(xAxis)
-
-        addDefaultText(canvas, 'translate(450, 580)', 'Year');
-
-        // Defines and displays y-axis
-        var yScale = d3.scaleLinear()
-          .domain([0, 20])
-          .range([ 530, 50]);
-
-        var yAxis = d3.axisLeft().scale(yScale)
-
-        canvas.append("g")
-          .attr("transform", "translate(67, 7)")
-          .call(yAxis)
-
-        addDefaultText(canvas, 'translate(35,280)rotate(-90)', 'Employment Rate (%)');
-        addDefaultText(canvas, 'translate(455,30)', 'Employment Rate of Citizens Based on Place of Birth');
-
-        // Plots Data
-        var countries = ["France", "Germany", "United Kingdom", "United States", "Italy", "Canada"]
-        var colors = ["red", "orange", "blue", "green", "purple", "gray"]
-        for (let i = 0; i < countries.length; i++){
-            plotLine(canvas, data.filter(function(d){ return  (d.CN == countries[i] && d.GEN == "Total" && d.POB == 'NB') }), xScale, yScale, colors[i])
-        }
-
-        // Creates Legend
-        makeRect(canvas, 910, 50, 200, 200, "#F8F8F8").style("stroke", "black").style("stroke-width", 1)
-        makeLegendRect(canvas, 920, 70, "red");
-        addDefaultText(canvas, 'translate(975,85)', 'France');
-
-        makeLegendRect(canvas, 920, 100, "green");
-        addDefaultText(canvas, 'translate(1000,115)', 'United States');
-
-        makeLegendRect(canvas, 920, 130, "blue");
-        addDefaultText(canvas, 'translate(1010,145)', 'United Kingdom');
-
-        makeLegendRect(canvas, 920, 160, "orange");
-        addDefaultText(canvas, 'translate(980, 175)', 'Germany');
-
-        makeLegendRect(canvas, 920, 190, "purple");
-        addDefaultText(canvas, 'translate(960,205)', 'Italy');
-
-        makeLegendRect(canvas, 920, 220, "grey");
-        addDefaultText(canvas, 'translate(975,235)', 'Canada');
-    }
-
-        function updateBirth(data, input){
+     function updateBirth(data, input){
        //Clears Content of the Graph
        var svg = d3.select("#vis_2");
             svg.selectAll("*").remove();
