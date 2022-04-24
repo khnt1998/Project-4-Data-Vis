@@ -14,11 +14,6 @@ function addDefaultText(canvas, transformation, text){
 }
 
 function plotLine(canvas, data, xScale, yScale, color, country){
-    // Creates Tooltip
-    var div = d3.select("body").append("div")
-         .attr("class", "tooltip")
-          .style("opacity", 0);
-
     return canvas.append("path")
               .datum(data)
               .attr("class", country)
@@ -39,10 +34,6 @@ function plotLine(canvas, data, xScale, yScale, color, country){
                 div.transition()
                     .duration('100')
                     .style("opacity", 1);
-                div.html("Rate: " +  d.VALUE)
-                              .style("left", (d3.event.pageX + 10) + "px")
-                              .style("top", (d3.event.pageY - 15) + "px");
-
               })
               .on("mouseout", function() {
                  d3.select(this)
