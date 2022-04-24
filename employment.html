@@ -88,7 +88,6 @@
     }).then(rows => {
         rows.sort(function(a,b) { return d3.ascending(a.YR, b.YR); });
         data = rows;
-        console.log(data)
         updateChart(rows, 'Total', 'NB')
         updateChart(rows, 'Total', 'FB')
     }).catch(error => {
@@ -169,7 +168,6 @@
 
         makeLegendRect(canvas, 920, 220, "grey");
         addDefaultText(canvas, 'translate(975,235)', 'Canada');
-
     }
 
 </script>
